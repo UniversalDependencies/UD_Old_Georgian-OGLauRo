@@ -714,7 +714,7 @@
 8	სახლისა	სახლი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	5	nmod	5:nmod	_
 9	იუდაჲსნი	იუდაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	8	nmod	8:nmod	_
 10	იესე	იესე	PROPN	N_Prop	NameType=Prs	5	nmod	5:nmod	_
-11	დეკეანისანი	დეკეანი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	10	flat:name	10:flat:name	_
+11	დეკეანისანი	დეკეანი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	10	nmod	10:nmod	_
 12	ცხრაას	ცხრაასი	NUM	Num_Abs	Case=Abs|NumType=Card	5	nummod	5:nummod	_
 13	სამეოცდაცამეტ	სამეოცდაცამეტი	NUM	Num_Abs	Case=Abs|NumType=Card	12	compound	12:compound	SpaceAfter=No
 14	,	,	PUNCT	Punct_Comma	_	2	punct	2:punct	_
@@ -2110,7 +2110,7 @@
 18	სომორონს	სომორონი	PROPN	N_Prop_Dat_Sg	Case=Dat|NameType=Geo|Number=Sing	17	nmod	17:nmod	SpaceAfter=No
 19	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
 20	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	21	nsubj	21:nsubj	_
-21	არს	ყოფა	VERB	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	18	parataxis	18:acl:parataxis	_
+21	არს	ყოფა	VERB	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	18	parataxis	18:parataxis	_
 22	სამარიაჲ	სამარია	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Geo|Number=Sing	21	xcomp	21:xcomp	SpaceAfter=No
 23	,	,	PUNCT	Punct_Comma	_	25	punct	25:punct	_
 24	და	და	CCONJ	Cj_Coord	_	25	cc	25:cc	_
@@ -3574,9 +3574,9 @@
 # sent_id = Ezra_6_15
 # text = რომელსა დღესა სამ იყო ადარ თთჳსაჲ, წელსა მას მეექუსესა შარავანდედებასა დარელისსა, მეჰრაკნისა თთუესა აღესრულა ტაძარი იგი ღმრთისაჲ.
 1	რომელსა	რომელი	PRON	Pron_Rel_Dat_Sg	Case=Dat|Number=Sing|PronType=Rel	2	det	2:det	_
-2	დღესა	დღე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	16	advcl:relcl	16:advcl:relcl	_
-3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	4	nsubj	4:nsubj	_
-4	იყო	ყოფა	VERB	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
+2	დღესა	დღე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	3:obl	_
+3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	16	acl:relcl	16:acl:relcl	_
+4	იყო	ყოფა	AUX	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	acl:cop	3:cop	_
 5	ადარ	ადარ	PROPN	N_Prop	NameType=Mon	6	nmod	6:nmod	_
 6	თთჳსაჲ	თთუე	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	3	nmod	3:nmod	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	4	punct	4:punct	_
@@ -7330,7 +7330,7 @@
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
 5	ფაათ	ფაათ	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	2	nmod	2:nmod	_
-6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Gen|Case[sauf2]=Nom|NameType=Geo|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Sing	5	flat:name	5:flat:name	SpaceAfter=No
+6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Gen|Case[sauf2]=Nom|NameType=Geo|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Sing	5	nmod	5:nmod	SpaceAfter=No
 7	:	:	PUNCT	Punct_Colon	_	8	punct	8:punct	_
 8	ადნე	ადნე	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 9	,	,	PUNCT	Punct_Comma	_	10	punct	10:punct	_
