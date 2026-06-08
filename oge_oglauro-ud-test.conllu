@@ -19,7 +19,7 @@
 17	კჳროსისი	კჳროსი	PROPN	N_Prop_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Sing	16	nmod	16:nmod	SpaceAfter=No
 18	,	,	PUNCT	Punct_Comma	_	19	punct	19:punct	_
 19	მეფისა	მეფე	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	17	appos	17:appos	_
-20	სპარსთაჲსაჲ	სპარსი	PROPN	N_Prop_Obl_Pl_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Geo|Number=Plur|Number[sauf2]=Sing|Number[sauf]=Sing	19	nmod	19:nmod	SpaceAfter=No
+20	სპარსთაჲსაჲ	სპარსი	PROPN	N_Prop_Obl_Pl_Gen_Sg_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Geo|Number=Plur|Number[dsauf]=Sing|Number[sauf]=Sing	19	nmod	19:nmod	SpaceAfter=No
 21	,	,	PUNCT	Punct_Comma	_	23	punct	23:punct	_
 22	და	და	CCONJ	Cj_Coord	_	23	cc	23:cc	_
 23	მისცა	მიცემა	VERB	V_Act_Aor_Pv_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	14	conj	14:conj	_
@@ -169,9 +169,9 @@
 4	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	det	3:det	_
 5	მამათმთავართაჲ	მამათმთავარი	NOUN	N_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Plur|Number[sauf]=Sing	3	nmod	3:nmod	_
 6	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	5	det	5:det	_
-7	იუდაჲსთაჲ	იუდა	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Pl	5	nmod	5:nmod	_
+7	იუდაჲსთაჲ	იუდა	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Pl	5	nmod	5:nmod	_
 8	და	და	CCONJ	Cj_Coord	_	9	cc	9:cc	_
-9	ბენიამენისთაჲ	ბენიამენი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing	7	conj	7:conj	_
+9	ბენიამენისთაჲ	ბენიამენი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing	7	conj	7:conj	_
 10	და	და	CCONJ	Cj_Coord	_	11	cc	11:cc	_
 11	მღდელნი	მღდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	3	conj	3:conj	_
 12	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	11	det	11:det	_
@@ -295,7 +295,7 @@
 13	საზორველნი	საზორველი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	8	conj	8:conj	_
 14	სამსახურებელთა	სამსახურებელი	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	13	nmod	13:nmod	_
 15	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	14	det	14:det	_
-16	ვეცხლისათანი	ვეცხლი	NOUN	N_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Plur	13	nmod	13:nmod	_
+16	ვეცხლისათანი	ვეცხლი	NOUN	N_Gen_Sg_Nom_Pl	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Plur	13	nmod	13:nmod	_
 17	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	13	nummod	13:nummod	_
 18	ოცდაცხრა	ოცდაცხრა	NUM	Num_Abs	Case=Abs|NumType=Card	17	compound	17:compound	_
 
@@ -442,9 +442,9 @@
 3	მოაბელისანი	მოაბელი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Geo|Number=Sing|Number[sauf]=Plur	2	appos	2:appos	_
 4	და	და	CCONJ	Cj_Coord	_	5	cc	5:cc	_
 5	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	2	conj	2:conj	_
-6	ისუისთაჲ	ისუი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Pl	5	nmod	5:nmod	_
+6	ისუისთაჲ	ისუი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Pl	5	nmod	5:nmod	_
 7	და	და	CCONJ	Cj_Coord	_	8	cc	8:cc	_
-8	ჰროაბისთაჲ	ჰროაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Pl	6	conj	6:conj	_
+8	ჰროაბისთაჲ	ჰროაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Pl	6	conj	6:conj	_
 9	ორ	ორი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	1:nummod	_
 10	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	9	compound	9:compound	_
 11	რვაას	რვაასი	NUM	Num_Abs	Case=Abs|NumType=Card	9	compound	9:compound	_
@@ -961,7 +961,7 @@
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	0:root	_
 2	მონათა	მონა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	1	nmod	1:nmod	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
-4	სოლომონისთანი	სოლომონი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+4	სოლომონისთანი	სოლომონი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Pl	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 5	,	,	PUNCT	Punct_Comma	_	6	punct	6:punct	_
 6	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	1	conj	1:conj	_
 7	სოტჳაჲსნი	სოტჳაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	6	nmod	6:nmod	SpaceAfter=No
@@ -1010,7 +1010,7 @@
 6	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	3	conj	3:conj	_
 7	მონათაჲ	მონა	NOUN	N_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Plur|Number[sauf]=Sing	6	nmod	6:nmod	_
 8	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	7	det	7:det	_
-9	სოლომონისთანი	სოლომონი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Plur	7	nmod	7:nmod	_
+9	სოლომონისთანი	სოლომონი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Pl	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Plur	7	nmod	7:nmod	_
 10	სამას	სამასი	NUM	Num_Abs	Case=Abs|NumType=Card	3	nummod	3:nummod	_
 11	ოთხმეოცდაათორმეტ	ოთხმეოცდაათორმეტი	NUM	Num_Abs	Case=Abs|NumType=Card	10	compound	10:compound	SpaceAfter=No
 12	.	.	PUNCT	Punct_FullStop	_	3	punct	3:punct	_
@@ -3297,7 +3297,7 @@
 6	არღარავინ	არღარავინ	PRON	Pron_Neg_Nom	Case=Nom|PronType=Neg	7	nsubj	7:nsubj	_
 7	აყენებდეს	ყენება	VERB	V_Act_Pres_Subj_AV_Pv_S:3Sg	Mood=Subj|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl	_
 8	მოხუცებულთა	მოხუცებული	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	7	obj	7:obj	_
-9	ჰურიასტანისანისათა	ჰურიასტანი	PROPN	N_Prop_Gen_Sg_Nom_Pl_Dat_Pl	Case=Gen|Case[sauf2]=Dat|Case[sauf]=Nom|NameType=Geo|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Plur	8	nmod	8:nmod	_
+9	ჰურიასტანისანისათა	ჰურიასტანი	PROPN	N_Prop_Gen_Sg_Nom_Pl_Dat_Pl	Case=Gen|Case[dsauf]=Dat|Case[sauf]=Nom|NameType=Geo|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Plur	8	nmod	8:nmod	_
 10	აღშენებად	აღშენება	VERB	V_Masd_Pv_Adv	Case=All|VerbForm=Vnoun	7	xcomp	7:xcomp	_
 11	სახლისა	სახლი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	10	obj	10:obj	_
 12	უფლისა	უფალი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	11	nmod	11:nmod	SpaceAfter=No
@@ -4643,7 +4643,7 @@
 1-2	ძეთაგან	_	_	_	_	_	_	_	_
 1	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	4	nmod	4:nmod	_
 2	გან	გან	ADP	Post	AdpType=Post|Case=Gen	1	case	1:case	_
-3	ფინეეზისთაჲ	ფინეეზი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	1	nmod	1:nmod	_
+3	ფინეეზისთაჲ	ფინეეზი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	1	nmod	1:nmod	_
 4	გერსონ	გერსონი	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 5	;	;	PUNCT	Punct_Semicolon	_	4	punct	4:punct	_
 6	და	და	CCONJ	Cj_Coord	_	11	cc	11:cc	_
@@ -4651,7 +4651,7 @@
 8-9	მათგან	_	_	_	_	_	_	_	_
 8	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	7	det	7:det	_
 9	გან	გან	ADP	Post	AdpType=Post|Case=Gen	8	case	8:case	_
-10	ითამარისთაჲ	ითამარი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	7	nmod	7:nmod	_
+10	ითამარისთაჲ	ითამარი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	7	nmod	7:nmod	_
 11	დანიელ	დანიელ	PROPN	N_Prop	NameType=Prs	4	conj	4:conj	SpaceAfter=No
 12	;	;	PUNCT	Punct_Semicolon	_	11	punct	11:punct	_
 13	და	და	CCONJ	Cj_Coord	_	18	cc	18:cc	_
@@ -4659,7 +4659,7 @@
 15-16	მათგან	_	_	_	_	_	_	_	_
 15	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	14	det	14:det	_
 16	გან	გან	ADP	Post	AdpType=Post|Case=Gen	15	case	15:case	_
-17	დავითისთაჲ	დავითი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	14	nmod	14:nmod	_
+17	დავითისთაჲ	დავითი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	14	nmod	14:nmod	_
 18	ატუუს	ატუუს	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	4	conj	4:conj	SpaceAfter=No
 19	;	;	PUNCT	Punct_Semicolon	_	18	punct	18:punct	_
 
@@ -4676,7 +4676,7 @@
 8-9	მათგან	_	_	_	_	_	_	_	_
 8	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	7	det	7:det	_
 9	გან	გან	ADP	Post	AdpType=Post|Case=Gen	8	case	8:case	_
-10	ფოროსისთაჲ	ფოროსი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	7	nmod	7:nmod	_
+10	ფოროსისთაჲ	ფოროსი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	7	nmod	7:nmod	_
 11	ზაქარია	ზაქარია	PROPN	N_Prop	NameType=Prs	0	root	0:root	_
 12	და	და	CCONJ	Cj_Coord	_	16	cc	16:cc	_
 13	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	16	obl	16:obl	_
@@ -4737,7 +4737,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ადეაჲსთაჲ	ადეა	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ადეაჲსთაჲ	ადეა	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ობენ	ობენ	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	ძე	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	appos	6:appos	_
@@ -4760,7 +4760,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ელამისთაჲ	ელამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ელამისთაჲ	ელამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ესაია	ესაია	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	ძე	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	appos	6:appos	_
@@ -4783,7 +4783,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	საფატისთაჲ	საფატი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	საფატისთაჲ	საფატი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ზამბდია	ზამბდია	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	ძე	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	appos	6:appos	_
@@ -4830,7 +4830,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბაანისთაჲ	ბაანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ბაანისთაჲ	ბაანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	სელიმიუთ	სელიმიუთი	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	appos	6:appos	_
@@ -4854,7 +4854,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბაბეისთაჲ	ბაბეი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ბაბეისთაჲ	ბაბეი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ზაქარია	ზაქარია	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	appos	6:appos	_
@@ -4877,9 +4877,9 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ადონიკამისთაჲ	ადონიკამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ადონიკამისთაჲ	ადონიკამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	და	და	CCONJ	Cj_Coord	_	7	cc	7:cc	_
-7	აზგადისთაჲ	აზგადი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	5	conj	5:conj	_
+7	აზგადისთაჲ	აზგადი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	5	conj	5:conj	_
 8	იოენან	იოენან	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 9	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 10	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	8	appos	8:appos	_
@@ -4904,7 +4904,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post	3	case	3:case	_
-5	ადონიკამისთაჲ	ადონიკამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ადონიკამისთაჲ	ადონიკამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ესქატი	ესქატი	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	Punct_FullStop	_	6	punct	6:punct	_
 
@@ -4940,7 +4940,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბაგვისთაჲ	ბაგვი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
+5	ბაგვისთაჲ	ბაგვი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	_
 6	ურთაჲ	ურთა	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	0	root	0:root	_
 7	და	და	CCONJ	Cj_Coord	_	8	cc	8:cc	_
 8	იზბუდ	იზბუდ	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	6	conj	6:conj	SpaceAfter=No
@@ -5122,7 +5122,7 @@
 6-7	მათგან	_	_	_	_	_	_	_	_
 6	მათ	იგი	PRON	Pron_Pers_3Pl_Gen	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	det	5:det	_
 7	გან	გან	ADP	Post	AdpType=Post|Case=Gen	6	case	6:case	_
-8	მერარისთაჲ	მერარი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	appos	2:appos	_
+8	მერარისთაჲ	მერარი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	appos	2:appos	_
 9	და	და	CCONJ	Cj_Coord	_	10	cc	10:cc	_
 10	ძმანი	ძმა	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	conj	2:conj	_
 11	მისნი	მისი	PRON	Pron_Poss_3Sg_Nom_Pl	Case=Nom|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod	10:nmod	_
@@ -5575,7 +5575,7 @@
 16	ღმრთისა	ღმერთი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	14	nmod	14:nmod	_
 17	ჩუენისასა	ჩუენი	PRON	Pron_Poss_1Pl_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|Number=Sing|Number[sauf]=Sing|Person=1|Poss=Yes|PronType=Prs	16	nmod	16:nmod	_
 18	ჴელთა	ჴელი	NOUN	N_Dat_Pl	Case=Dat|Number=Plur	7	obl	7:obl	_
-19	მერევმოთისთაჲსა	მერევმოთი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	18	nmod	18:nmod	SpaceAfter=No
+19	მერევმოთისთაჲსა	მერევმოთი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	18	nmod	18:nmod	SpaceAfter=No
 20	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
 21	ძისა	ძე	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	19	appos	19:appos	_
 22	ჰურიაჲს	ჰურია	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Geo|Number=Sing	21	nmod	21:nmod	_
@@ -7064,7 +7064,7 @@
 15	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	14	det	14:det	_
 16	გან	გან	ADP	Post	AdpType=Post|Case=Gen	14	case	14:case	_
 17	ისუის	ისუი	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	14	nmod	14:nmod	_
-18	იოსედეკეანისათაჲ	იოსედეკეანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	17	nmod	17:nmod	_
+18	იოსედეკეანისათაჲ	იოსედეკეანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	17	nmod	17:nmod	_
 19	და	და	CCONJ	Cj_Coord	_	20	cc	20:cc	_
 20	ძმათა	ძმა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	14	conj	14:conj	_
 21	მისთა	მისი	PRON	Pron_Poss_3Sg_Obl_Pl	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	nmod	20:nmod	_
@@ -7245,7 +7245,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ელამისთაჲ	ელამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ელამისთაჲ	ელამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	ნატთონია	ნატთონია	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7267,7 +7267,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ზათუვაჲსთაჲ	ზათუვაჲ	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ზათუვაჲსთაჲ	ზათუვაჲ	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	ელიონე	ელიონე	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7289,7 +7289,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბაბისთაჲ	ბაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ბაბისთაჲ	ბაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	იოთანან	იოთანან	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7307,7 +7307,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბაბინესთაჲ	ბაბინე	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ბაბინესთაჲ	ბაბინე	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	მოსულამ	მოსულამ	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7330,7 +7330,7 @@
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
 5	ფაათ	ფაათ	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	2	nmod	2:nmod	_
-6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Gen|Case[sauf2]=Nom|NameType=Geo|Number=Sing|Number[sauf2]=Plur|Number[sauf]=Sing	5	nmod	5:nmod	SpaceAfter=No
+6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Gen|Case[dsauf]=Nom|NameType=Geo|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Sing	5	nmod	5:nmod	SpaceAfter=No
 7	:	:	PUNCT	Punct_Colon	_	8	punct	8:punct	_
 8	ადნე	ადნე	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 9	,	,	PUNCT	Punct_Comma	_	10	punct	10:punct	_
@@ -7356,7 +7356,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ერამისთაჲ	ერამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ერამისთაჲ	ერამი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	ელიეზერ	ელიეზერ	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7385,7 +7385,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ასემისთაჲ	ასემი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ასემისთაჲ	ასემი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	მათანაი	მათანაი	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7409,7 +7409,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ბანისთაჲ	ბანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ბანისთაჲ	ბანი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	მოოდია	მოოდია	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
@@ -7500,7 +7500,7 @@
 3-4	მათგან	_	_	_	_	_	_	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
-5	ნაბუისთაჲ	ნაბუი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf2]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[sauf2]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
+5	ნაბუისთაჲ	ნაბუი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Prs|Number=Sing|Number[dsauf]=Sing|Number[sauf]=Plur	2	nmod	2:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	იეიელ	იეიელ	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
