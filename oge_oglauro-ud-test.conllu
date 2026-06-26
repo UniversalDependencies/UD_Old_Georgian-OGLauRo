@@ -126,7 +126,7 @@
 20	ადგილსა	ადგილი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	19	obl	19:obl	_
 21	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	20	det	20:det	SpaceAfter=No
 22	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
-23	სადა-იგი	სადა	ADV	Adv_Rel	PronType=Rel	25	advmod	25:advmod	_
+23	სადა-იგი	სადა	ADV	Adv_Rel	_	25	advmod	25:advmod	_
 24	თჳთ	თჳთ	ADV	Adv	_	25	advmod	25:advmod	_
 25	დამკჳდრებულ	დამკჳდრება	VERB	V_Part_Pv_Abs	Case=Abs|Tense=Past|VerbForm=Part	20	acl:relcl	20:acl:relcl	_
 26	არს	ყოფა	AUX	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	25	aux	25:aux	SpaceAfter=No
@@ -811,19 +811,21 @@
 
 # sent_id = Ezra_2_43
 # text = და ნათანისითგან თესლნი: ძენი სუვალისნი, ძენი ასუფაჲსნი, ძენი ტაბაოთისნი,
-1	და	და	CCONJ	Cj_Coord	_	3	cc	3:cc	_
-2	ნათანისითგან	ნათანი	PROPN	N_Prop_Gen_Sg_Abl_Sg	Case=Gen|Case[sauf]=Abl|NameType=Prs|Number=Sing|Number[sauf]=Sing	3	nmod	3:nmod	_
-3	თესლნი	თესლი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	0:root	SpaceAfter=No
-4	:	:	PUNCT	Punct_Colon	_	5	punct	5:punct	_
-5	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	3	appos	3:appos	_
-6	სუვალისნი	სუვალი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	5	nmod	5:nmod	SpaceAfter=No
-7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
-8	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	5	conj	5:conj	_
-9	ასუფაჲსნი	ასუფაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	8	nmod	8:nmod	SpaceAfter=No
-10	,	,	PUNCT	Punct_Comma	_	11	punct	11:punct	_
-11	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	5	conj	5:conj	_
-12	ტაბაოთისნი	ტაბაოთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	11	nmod	11:nmod	SpaceAfter=No
-13	,	,	PUNCT	Punct_Comma	_	3	punct	3:punct	_
+1	და	და	CCONJ	Cj_Coord	_	4	cc	4:cc	_
+2-3	ნათანისითგან	_	_	_	_	_	_	_	_
+2	ნათანისით	ნათანი	PROPN	N_Prop_Gen_Sg_Ins_Sg	Case=Gen|Case[sauf]=Ins|NameType=Prs|Number=Sing|Number[sauf]=Sing	4	nmod	4:nmod	_
+3	გან	გან	ADP	Adp_Post	_	2	case	2:case	_
+4	თესლნი	თესლი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	0:root	SpaceAfter=No
+5	:	:	PUNCT	Punct_Colon	_	6	punct	6:punct	_
+6	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	4	appos	4:appos	_
+7	სუვალისნი	სუვალი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	6	nmod	6:nmod	SpaceAfter=No
+8	,	,	PUNCT	Punct_Comma	_	9	punct	9:punct	_
+9	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	6	conj	6:conj	_
+10	ასუფაჲსნი	ასუფაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	9	nmod	9:nmod	SpaceAfter=No
+11	,	,	PUNCT	Punct_Comma	_	12	punct	12:punct	_
+12	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	6	conj	6:conj	_
+13	ტაბაოთისნი	ტაბაოთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	12	nmod	12:nmod	SpaceAfter=No
+14	,	,	PUNCT	Punct_Comma	_	4	punct	4:punct	_
 
 # sent_id = Ezra_2_44
 # text = ძენი კერაოსისნი, ძენი სეაჲსნი, ძენი ფადოვნისნი,
@@ -1586,7 +1588,7 @@
 6	წლით	წელი	NOUN	N_Ins_Sg	Case=Ins|Number=Sing	1	obl	1:obl	_
 7	გან	გან	ADP	Post	AdpType=Post|Case=Ins	6	case	6:case	_
 8	და	და	CCONJ	Cj_Coord	_	9	cc	9:cc	_
-9	მიმართსა	მიმართი	ADV	Adv_Dat_Sg	Case=Dat|Number=Sing	6	conj	6:conj	SpaceAfter=No
+9	მიმართსა	მიმართი	ADJ	Adj_Dat_Sg	Case=Dat|Number=Sing	6	conj	6:conj	SpaceAfter=No
 10	,	,	PUNCT	Punct_Comma	_	11	punct	11:punct	_
 11	ზედამდგომელად	ზედამდგომელი	NOUN	N_Adv_Sg	Case=Ess|Number=Sing	1	xcomp	1:xcomp	_
 12	ზედა	ზედა	ADP	Prep	AdpType=Pre	13	case	13:case	_
@@ -1657,7 +1659,7 @@
 9	და	და	CCONJ	Cj_Coord	_	10	cc	10:cc	_
 10	ჰბერვიდეს	ბერვა	VERB	V_Act_Imp_S:3Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	1	conj	1:conj	_
 11	ნესტუებსა	ნესტჳ	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	10	obj	10:obj	_
-12	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	11	nmod	11:nmod	SpaceAfter=No
+12	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	11	nmod	11:nmod	SpaceAfter=No
 13	.	.	PUNCT	Punct_FullStop	_	1	punct	1:punct	_
 
 # sent_id = Ezra_3_10_3
@@ -1687,7 +1689,7 @@
 2	ჰრქუა	თქუმა	VERB	V_Act_Aor_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	კაცმან	კაცი	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	2	nsubj	2:nsubj	_
 4	ზჳსსა	ზჳსი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	2	iobj	2:iobj	_
-5	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	4	nmod	4:nmod	SpaceAfter=No
+5	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	4	nmod	4:nmod	SpaceAfter=No
 6	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
 7	აუარებდით	აღსარება	VERB	V_Act_Imp_S:2Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=2|Tense=Imp|VerbForm=Fin	2	ccomp	2:ccomp	_
 8	უფალსა	უფალი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	7	obj	7:obj	_
@@ -1751,7 +1753,7 @@
 21	აწ	აწ	ADV	Adv	_	22	advmod	22:advmod	_
 22	იხილეს	ხილვა	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	16	conj	16:conj	_
 23	თუალითა	თუალი	NOUN	N_Ins_Sg	Case=Ins|Number=Sing	22	obl	22:obl	_
-24	თჳსითა	თჳსი	PRON	Pron_Poss_Refl_Ins_Sg	Case=Ins|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	23	nmod	23:nmod	_
+24	თჳსითა	თჳსი	PRON	Pron_Poss_Refl_Ins_Sg	Case=Ins|Number=Sing|Poss=Yes|PronType=Prs	23	nmod	23:nmod	_
 25	საფუძველი	საფუძველი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	22	obj	22:obj	_
 26	მისი	მისი	PRON	Pron_Poss_3Sg_Nom_Sg	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod	25:nmod	SpaceAfter=No
 27	,	,	PUNCT	Punct_Comma	_	16	punct	16:punct	_
@@ -2437,12 +2439,12 @@
 
 # sent_id = Ezra_4_22
 # text = ნუ შეუნდობთ მათ, ნუცა მიუტეობთ, არამედ გულსა დაიდევით და მოჰჴადეთ ყოველი ხარკი მათი და ზუერი, რაჲთა არა განმრავლდენ და განძლიერდენ და აღუდგენ მჴდომად მეფეთა დიდთა
-1	ნუ	ნუ	PART	Part_Neg_Imp	_	2	advmod:neg	2:advmod:neg	_
-2	შეუნდობთ	შენდობა	VERB	V_Act_Imp_Pv_UV_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Impv1|VerbForm=Fin	0	root	0:root	_
+1	ნუ	ნუ	ADV	Part_Neg_Imp	Polarity=Neg	2	advmod:neg	2:advmod:neg	_
+2	შეუნდობთ	შენდობა	VERB	V_Act_Imp_Pv_UV_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Dat	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obj	2:obj	SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	6	punct	6:punct	_
 5	ნუცა	ნუ	PART	Part_Neg_Encl:ca	_	6	advmod:neg	6:advmod:neg	_
-6	მიუტეობთ	მიტევება	VERB	V_Act_Pres_Imp_Pv_UV_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Impv1|VerbForm=Fin	2	conj	2:conj	SpaceAfter=No
+6	მიუტეობთ	მიტევება	VERB	V_Act_Pres_Imp_Pv_UV_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin	2	conj	2:conj	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	10	punct	10:punct	_
 8	არამედ	არამედ	CCONJ	Cj_Coord	_	10	cc	10:cc	_
 9	გულსა	გული	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	10	iobj	10:iobj	_
@@ -2451,17 +2453,17 @@
 12	მოჰჴადეთ	მოჴდა	VERB	V_Act_Aor_Imp_Pv_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	10	conj	10:conj	_
 13	ყოველი	ყოველი	PRON	Pron_Tot_Gen_Sg_Dat_Sg	Case=Nom|Number=Sing|PronType=Tot	14	amod	14:amod	_
 14	ხარკი	ხარკი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	12	obj	12:obj	_
-15	მათი	იგი	PRON	Pron_Poss_Poss3Pl_Nom_Sg_Att	Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	14	nmod	14:nmod	_
+15	მათი	იგი	PRON	Pron_Poss_Poss3Pl_Nom_Sg_Att	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod	14:nmod	_
 16	და	და	CCONJ	Cj_Coord	_	17	cc	17:cc	_
 17	ზუერი	ზუერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	14	conj	14:conj	SpaceAfter=No
 18	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
 19	რაჲთა	რაჲთა	SCONJ	Cj_Sub	_	21	mark	21:mark|23:mark|25:mark	_
-20	არა	არა	ADV	Adv_Neg	_	21	advmod:neg	21:advmod:neg	_
+20	არა	არა	ADV	Adv_Neg	Polarity=Neg	21	advmod:neg	21:advmod:neg	_
 21	განმრავლდენ	განმრავლება	VERB	V_Pass_Aor_Sub_Pv_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	12	advcl	12:advcl	_
 22	და	და	CCONJ	Cj_Coord	_	23	cc	23:cc	_
 23	განძლიერდენ	განძლიერება	VERB	V_Pass_Aor_Sub_Pv_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	21	conj	21:conj	_
 24	და	და	CCONJ	Cj_Coord	_	25	cc	25:cc	_
-25	აღუდგენ	აღდგომა	VERB	V_Act_Sub_Pv_UV_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Sub2|VerbForm=Fin	21	conj	21:conj	_
+25	აღუდგენ	აღდგომა	VERB	V_Act_Sub_Pv_UV_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	21	conj	21:conj	_
 26	მჴდომად	მჴდომი	VERB	V_Masd_Adv	Case=Ess|VerbForm=Vnoun	25	xcomp	25:xcomp	_
 27	მეფეთა	მეფე	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	26	iobj	26:iobj	_
 28	დიდთა	დიდი	ADJ	A_Obl_Pl	Case=Dat|Number=Plur	27	amod	27:amod	_
@@ -2495,7 +2497,7 @@
 25	მონათა	მონა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	20	conj	20:conj	_
 26	და	და	CCONJ	Cj_Coord	_	27	cc	27:cc	_
 27	მოდგამთა	მოდგამი	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	20	conj	20:conj	_
-28	მათთა	იგი	PRON	Pron_Poss_Poss3Pl_Obl_Pl_Att	Case=Gen|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	27	nmod	27:nmod	SpaceAfter=No
+28	მათთა	იგი	PRON	Pron_Poss_Poss3Pl_Obl_Pl_Att	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	nmod	27:nmod	SpaceAfter=No
 29	.	.	PUNCT	Punct_FullStop	_	14	punct	14:punct	_
 
 # sent_id = Ezra_4_23_2
@@ -2560,7 +2562,7 @@
 3	ანგეა	ანგეა	PROPN	N_Prop	NameType=Prs	2	nsubj	2:nsubj	_
 4	და	და	CCONJ	Cj_Coord	_	5	cc	5:cc	_
 5	ზაქარია	ზაქარია	PROPN	N_Prop	NameType=Prs	3	conj	3:conj	_
-6	ადდოვიაჲ	ადდოვია	PROPN	N_Prop	NameType=Pat	5	flat	5:flat	SpaceAfter=No
+6	ადდოვიაჲ	ადდოვია	PROPN	N_Prop	NameType=Prs	5	flat	5:flat	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	8:punct	_
 8	წინაწარმეტყუელებდეს	წინაწარმეტყუელება	VERB	V_Act_Imp_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin	2	conj	2:conj	_
 9	ზედა	ზედა	ADP	Prep	AdpType=Pre	10	case	10:case	_
@@ -2758,7 +2760,7 @@
 6	მივედით	მისლვა	VERB	V_Act_Aor_Pv_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	1	advcl	1:advcl	_
 7	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl	Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 8	ქუეყანად	ქუეყანა	NOUN	N_Adv_Sg	Case=Ess|Number=Sing	6	obl	6:obl	_
-9	ჰურიასტანისად	ჰურიასტანი	PROPN	N_Prop_Gen_Sg_Adv_Sg	Case=Gen|Case[sauf]=All|NameType=Geo|Number=Sing|Number[sauf]=Sing	8	nmod	8:nmod	SpaceAfter=No
+9	ჰურიასტანისად	ჰურიასტანი	PROPN	N_Prop_Gen_Sg_Adv_Sg	Case=Gen|Case[sauf]=Ess|NameType=Geo|Number=Sing|Number[sauf]=Sing	8	nmod	8:nmod	SpaceAfter=No
 10	,	,	PUNCT	Punct_Comma	_	11	punct	11:punct	_
 11	ქალაქად	ქალაქი	NOUN	N_Adv_Sg	Case=Ess|Number=Sing	8	appos	8:appos	_
 12	იერუსალემდ	იერუსალემი	PROPN	N_Prop_Adv_Sg	Case=Ess|NameType=Geo|Number=Sing	11	nmod	11:nmod	SpaceAfter=No
@@ -3027,7 +3029,7 @@
 16	ვაშენებთ	შენება	VERB	V_Act_Pres_AV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	6	conj	6:conj	_
 17	და	და	CCONJ	Cj_Coord	_	19	cc	19:cc	_
 18	არღა	არღა	ADV	Adv_Neg	Polarity=Neg	19	advmod	19:advmod	_
-19	აღგჳსრულებიეს	აღსრულება	VERB	V_Act_Perf_Pv_IV_S:1Pl_O:3Sg	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Perf|VerbForm=Fin	16	conj	16:conj	SpaceAfter=No
+19	აღგჳსრულებიეს	აღსრულება	VERB	V_Act_Perf_Pv_IV_S:1Pl_O:3Sg	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Pf|VerbForm=Fin	16	conj	16:conj	SpaceAfter=No
 20	.	.	PUNCT	Punct_FullStop	_	4	punct	4:punct	_
 
 # sent_id = Ezra_5_17
@@ -3112,7 +3114,7 @@
 # sent_id = Ezra_6_2_2
 # text = და ესრე წერილ იყო წიგნსა მას საჴსენებელთასა:
 1	და	და	CCONJ	Cj_Coord	_	3	cc	3:cc	_
-2	ესრე	ესრე	ADV	Adv_Dem	PronType=Dem	3	advmod	3:advmod	_
+2	ესრე	ესრე	ADV	Adv_Dem	_	3	advmod	3:advmod	_
 3	წერილ	წერა	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	0:root	_
 4	იყო	ყოფა	AUX	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	aux	3:aux	_
 5	წიგნსა	წიგნი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	3:obl	_
@@ -3184,7 +3186,7 @@
 # sent_id = Ezra_6_4_2
 # text = და ესრეთ აღიშენენ და დაირთუენ ყოველი იგი ტაძარი.
 1	და	და	CCONJ	Cj_Coord	_	3	cc	3:cc	_
-2	ესრეთ	ესრეთ	ADV	Adv_Dem	PronType=Dem	3	advmod	3:advmod	_
+2	ესრეთ	ესრეთ	ADV	Adv_Dem	_	3	advmod	3:advmod	_
 3	აღიშენენ	აღშენება	VERB	V_Pass_Aor_Imp_Pv_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	და	და	CCONJ	Cj_Coord	_	5	cc	5:cc	_
 5	დაირთუენ	რთვა	VERB	V_Pass_Aor_Imp_Pv_IV_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	conj	3:conj	_
@@ -3232,7 +3234,7 @@
 34	და	და	CCONJ	Cj_Coord	_	35	cc	35:cc	_
 35	მიიღეთ	ღება	VERB	V_Act_Aor_Imp_Pv_IV_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	33	conj	33:conj	_
 36	ადგილად	ადგილი	NOUN	N_Adv	Case=Ess|Number=Sing	35	obl	35:obl	_
-37	თჳსად	თჳსი	PRON	Pron_Poss_Refl_Adv	Case=Ess|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	36	nmod	36:nmod	SpaceAfter=No
+37	თჳსად	თჳსი	PRON	Pron_Poss_Refl_Adv	Case=Ess|Number=Sing|Poss=Yes|PronType=Prs	36	nmod	36:nmod	SpaceAfter=No
 38	,	,	PUNCT	Punct_Comma	_	39	punct	39:punct	_
 39	სახლსა	სახლი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	36	appos	36:appos	_
 40	ღმრთისასა	ღმერთი	NOUN	N_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|Number=Sing|Number[sauf]=Sing	39	nmod	39:nmod	SpaceAfter=No
@@ -3251,7 +3253,7 @@
 9	სათრაბუზანს	სათრაბუზან	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	5	appos	5:appos	_
 10	და	და	CCONJ	Cj_Coord	_	11	cc	11:cc	_
 11	მონათმოდგამთა	მონათმოდგამი	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	9	conj	9:conj	_
-12	თჳსთა	თჳსი	PRON	Pron_Poss_Refl_Obl_Pl	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	11	nmod	11:nmod	_
+12	თჳსთა	თჳსი	PRON	Pron_Poss_Refl_Obl_Pl	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	11	nmod	11:nmod	_
 13	აფარსაქეეს	აფარსაქეე	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	11	appos	11:appos	_
 14	მდინარით	მდინარე	NOUN	N_Ins_Sg	Case=Ins|Number=Sing	15	obl	15:obl	_
 15	კერძოსა	კერძო	ADP	Post	Case=Ins|Case[sauf]=Dat|Number[sauf]=Sing	13	case	13:case	_
@@ -3284,26 +3286,26 @@
 19	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	18	det	18:det	_
 20	ღმრთისაჲ	ღმერთი	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	18	nmod	18:nmod	_
 21	ადგილსავე	ადგილი	NOUN	N_Dat_Sg_ve	Case=Dat|Number=Sing	17	obl	17:obl	_
-22	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	21	nmod	21:nmod	SpaceAfter=No
+22	თჳსსა	თჳსი	PRON	Pron_Poss_Refl_Dat_Sg	Case=Dat|Number=Sing|Poss=Yes|PronType=Prs	21	nmod	21:nmod	SpaceAfter=No
 23	.	.	PUNCT	Punct_FullStop	_	3	punct	3:punct	_
 
 # sent_id = Ezra_6_8
 # text = და მე მიბრძანებიეს, რაჲთა არღარავინ აყენებდეს მოხუცებულთა ჰურიასტანისანისათა აღშენებად სახლისა უფლისა, ღმრთისა თჳსისასა, და ჴელმწიფებისაგან სუფევისა ჩემისაჲსა, რომელ არიან ხარკისმომჴდელნი მდინარით კერძონი, ყოვლითა კრძალულებითა მისცედ საჴმარი კაცთა მაგათ და ნუმცა დააბრკოლებენ.
 1	და	და	CCONJ	Cj_Coord	_	3	cc	3:cc	_
 2	მე	მე	PRON	Pron_Pers_1Sg	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	მიბრძანებიეს	ბრძანება	VERB	V_Act_Perf_Pv_IV_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Perf|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+3	მიბრძანებიეს	ბრძანება	VERB	V_Act_Perf_Pv_IV_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pf|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	7	punct	7:punct	_
 5	რაჲთა	რაჲთა	SCONJ	Cj_Sub	_	7	mark	7:mark	_
 6	არღარავინ	არღარავინ	PRON	Pron_Neg_Nom	Case=Nom|PronType=Neg	7	nsubj	7:nsubj	_
-7	აყენებდეს	ყენება	VERB	V_Act_Pres_Subj_AV_Pv_S:3Sg	Mood=Subj|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl	_
+7	აყენებდეს	ყენება	VERB	V_Act_Pres_Subj_AV_Pv_S:3Sg	Mood=Sub|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl	_
 8	მოხუცებულთა	მოხუცებული	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	7	obj	7:obj	_
-9	ჰურიასტანისანისათა	ჰურიასტანი	PROPN	N_Prop_Gen_Sg_Nom_Pl_Dat_Pl	Case=Gen|Case[dsauf]=Dat|Case[sauf]=Nom|NameType=Geo|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Plur	8	nmod	8:nmod	_
+9	ჰურიასტანისანისათა	_	X	X	_	3	dep	3:dep	_
 10	აღშენებად	აღშენება	VERB	V_Masd_Pv_Adv	Case=Ess|VerbForm=Vnoun	7	xcomp	7:xcomp	_
 11	სახლისა	სახლი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	10	obj	10:obj	_
 12	უფლისა	უფალი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	11	nmod	11:nmod	SpaceAfter=No
 13	,	,	PUNCT	Punct_Comma	_	14	punct	14:punct	_
 14	ღმრთისა	ღმერთი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	12	appos	12:appos	_
-15	თჳსისასა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Gen_Sg	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	14	nmod	14:nmod	SpaceAfter=No
+15	თჳსისასა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Gen_Sg	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Sing|Poss=Yes|PronType=Prs	14	nmod	14:nmod	SpaceAfter=No
 16	,	,	PUNCT	Punct_Comma	_	31	punct	31:punct	_
 17	და	და	CCONJ	Cj_Coord	_	31	cc	31:cc	_
 18-19	ჴელმწიფებისაგან	_	_	_	_	_	_	_	_
@@ -3364,7 +3366,7 @@
 31	,	,	PUNCT	Punct_Comma	_	34	punct	34:punct	_
 32	ვითარცა	ვითარცა	SCONJ	Cj_Sub	_	34	mark	34:mark	_
 33	იგინი	იგი	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	34	nsubj	34:nsubj	_
-34	მიიღებდენ	მიღება	VERB	V_Act_Pres_Subj_Pv_SV_S:3Pl	Mood=Subj|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	28	advcl	28:advcl	SpaceAfter=No
+34	მიიღებდენ	მიღება	VERB	V_Act_Pres_Subj_Pv_SV_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	28	advcl	28:advcl	SpaceAfter=No
 35	.	.	PUNCT	Punct_FullStop	_	28	punct	28:punct	_
 
 # sent_id = Ezra_6_10
@@ -3463,14 +3465,14 @@
 15	მეუფებაჲ	მეუფება	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	14	obj	14:obj	_
 16	და	და	CCONJ	Cj_Coord	_	17	cc	17:cc	_
 17	ერი	ერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	15	conj	15:conj	SpaceAfter=No
-18	,	,	PUNCT	Punct_Comma	_	20	punct	20:punct	_
-19	რომელი	რომელი	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	20	nsubj	20:nsubj	_
-20	წარმდებ	წარმდებ	ADJ	A_Abs	Case=Abs	17	acl:relcl	17:acl:relcl	_
-21	იქმნა	ქმნა	AUX	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	20	aux	20:aux	_
+18	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
+19	რომელი	რომელი	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	21:nsubj	_
+20	წარმდებ	წარმდებ	ADJ	A_Abs	Case=Abs	21	xcomp	21:xcomp	_
+21	იქმნა	ქმნა	VERB	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	17	acl:relcl	17:acl:relcl	_
 22	და	და	CCONJ	Cj_Coord	_	23	cc	23:cc	_
-23	აღყო	აღყოფა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	20	conj	20:conj	_
+23	აღყო	აღყოფა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	21	conj	21:conj	_
 24	ჴელი	ჴელი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	23	obj	23:obj	_
-25	თჳსი	თჳსი	PRON	Pron_Poss_Refl_Nom_Sg	Case=Nom|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	24	nmod	24:nmod	_
+25	თჳსი	თჳსი	PRON	Pron_Poss_Refl_Nom_Sg	Case=Nom|Number=Sing|Poss=Yes|PronType=Prs	24	nmod	24:nmod	_
 26	დაყენებად	დაყენება	VERB	V_Masd_Pv_Adv	Case=Ess|VerbForm=Vnoun	23	xcomp	23:xcomp	_
 27	და	და	CCONJ	Cj_Coord	_	28	cc	28:cc	_
 28	განრყუნად	განრყუნა	VERB	V_Masd_Pv_Adv	Case=Ess|VerbForm=Vnoun	26	conj	26:conj	_
@@ -3577,8 +3579,8 @@
 2	დღესა	დღე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	3:obl	_
 3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	16	acl:relcl	16:acl:relcl	_
 4	იყო	ყოფა	AUX	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
-5	ადარ	ადარ	PROPN	N_Prop	NameType=Mon	6	nmod	6:nmod	_
-6	თთჳსაჲ	თთუე	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	3	nmod	3:nmod	SpaceAfter=No
+5	ადარ	ადარ	NOUN	N_Abs	Case=Abs	3	nmod	3:nmod	_
+6	თთჳსაჲ	თთუე	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	5	appos	5:appos	SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	3	punct	3:punct	_
 8	წელსა	წელი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	16	obl	16:obl	_
 9	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	8	det	8:det	_
@@ -3586,7 +3588,7 @@
 11	შარავანდედებასა	შარავანდედება	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	appos	8:appos	_
 12	დარელისსა	დარელ	PROPN	N_Prop_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|NameType=Prs|Number=Sing|Number[sauf]=Sing	11	nmod	11:nmod	SpaceAfter=No
 13	,	,	PUNCT	Punct_Comma	_	15	punct	15:punct	_
-14	მეჰრაკნისა	მეჰრაკნი	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Mon|Number=Sing	15	nmod	15:nmod	_
+14	მეჰრაკნისა	მეჰრაკნი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	15	nmod	15:nmod	_
 15	თთუესა	თთუე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	appos	8:appos	_
 16	აღესრულა	აღსრულება	VERB	V_Pass_Aor_Pv_EV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 17	ტაძარი	ტაძარი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	16	nsubj:pass	16:nsubj:pass	_
@@ -3665,7 +3667,7 @@
 4	იგი	იგი	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	3	det	3:det	_
 5	თითოეულად	თითოეულად	ADV	Adv	_	2	advmod	2:advmod	_
 6	ადგილთა	ადგილი	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	2	obl	2:obl	_
-7	თჳსთა	თჳსი	PRON	Pron_Poss_Refl_Dat_Pl	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	nmod	6:nmod	_
+7	თჳსთა	თჳსი	PRON	Pron_Poss_Refl_Dat_Pl	Case=Dat|Number=Plur|Poss=Yes|PronType=Prs	6	nmod	6:nmod	_
 8	და	და	CCONJ	Cj_Coord	_	9	cc	9:cc	_
 9	ლევიტელნი	ლევიტელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	3	conj	3:conj	_
 10	იგი	იგი	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	9	det	9:det	_
@@ -4030,7 +4032,7 @@
 # sent_id = Ezra_7_9
 # text = და თთჳსთავსა მის მეხუთისა თთჳსასა მოვიდა ეზრა იერუსალემდ, რამეთუ ჴელი უფლისა ღმრთისაჲ აღმაღლებულ იყო მის თანა.
 1	და	და	CCONJ	Cj_Coord	_	6	cc	6:cc	_
-2	თთჳსთავსა	თთჳსთავი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing|NumType=Ord	6	obl	6:obl	_
+2	თთჳსთავსა	თთჳსთავი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	6	obl	6:obl	_
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	5	det	5:det	_
 4	მეხუთისა	მეხუთე	NUM	A_Gen_Sg	Case=Gen|Number=Sing	5	amod	5:amod	_
 5	თთჳსასა	თთუე	NOUN	N_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|Number=Sing|Number[sauf]=Sing	2	nmod	2:nmod	_
@@ -4223,8 +4225,8 @@
 15	მან	იგი	PRON	Pron_Dem_Erg_Sg	Case=Erg|Number=Sing|PronType=Dem	14	det	14:det	_
 16	და	და	CCONJ	Cj_Coord	_	17	cc	17:cc	_
 17	მღდელთა	მღდელი	NOUN	N_Obl_Pl	Case=Erg|Number=Plur	14	conj	14:conj	_
-18	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Erg|Number=Plur|PronType=Dem	17	det	17:det	_
-19	თანა	თანა	ADP	Post	AdpType=Post|Case=Erg	17	case	17:case	_
+18	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Dat|Number=Plur|PronType=Dem	17	det	17:det	_
+19	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	17	case	17:case	_
 20	წარიღედ	წარღება	VERB	V_Act_Aor_Imp_IV_Pv_S:3Pl_O:3Pl	Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	10	conj	10:conj	_
 21	და	და	CCONJ	Cj_Coord	_	22	cc	22:cc	_
 22	მიიღედ	მიღება	VERB	V_Act_Aor_Imp_Pv_IV_S:3Pl_O:3Pl	Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	20	conj	20:conj	_
@@ -4244,7 +4246,7 @@
 6	,	,	PUNCT	Punct_Comma	_	5	punct	5:punct	_
 7	იგინი	იგინი	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	8	obj	8:obj	_
 8	განმზადენთ	განმზადება	VERB	V_Act_Aor_Imp_Pv_S:2Pl_O:3Pl	Mood=Imp|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	0:root	_
-9	ესრე	ესრე	ADV	Adv_Dem	PronType=Dem	10	advmod	10:advmod	_
+9	ესრე	ესრე	ADV	Adv_Dem	_	10	advmod	10:advmod	_
 10	სახედ	სახე	NOUN	N_Adv_Sg	Case=Ess|Number=Sing	8	obl	8:obl	SpaceAfter=No
 11	,	,	PUNCT	Punct_Comma	_	13	punct	13:punct	_
 12	ვითარცა	ვითარცა	SCONJ	Cj_Sub	_	13	mark	13:mark	_
@@ -4301,7 +4303,7 @@
 22	უფალსა	უფალი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	21	iobj	21:iobj	_
 23	თქუენსა	თქუენი	PRON	Pron_Poss_2Pl_Dat_Sg	Case=Dat|Number=Sing|Person=2|Poss=Yes|PronType=Prs	22	nmod	22:nmod	SpaceAfter=No
 24	,	,	PUNCT	Punct_Comma	_	21	punct	21:punct	_
-25	ეგრეცა	ეგრეცა	ADV	Adv_Dem	PronType=Dem	11	conj	11:conj	_
+25	ეგრეცა	ეგრეცა	ADV	Adv_Dem	_	11	conj	11:conj	_
 26	ყავთ	ყოფა	VERB	V_Act_Aor_Imp_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	25	conj	25:conj	SpaceAfter=No
 27	.	.	PUNCT	Punct_FullStop	_	11	punct	11:punct	_
 
@@ -4469,10 +4471,10 @@
 21	მათ	იგი	PRON	Pron_Pers_3Pl_Obl_Pl	Case=Dat|Number=Plur|Person=3|PronType=Prs	20	iobj	20:iobj	_
 22	ხარკი	ხარკი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	20	nsubj:pass	20:nsubj:pass	SpaceAfter=No
 23	,	,	PUNCT	Punct_Comma	_	25	punct	25:punct	_
-24	არცა	არცა	CCONJ	Cj_Coord_Neg	Polarity=Neg	25	cc	25:cc	_
+24	არცა	არცა	CCONJ	Cj_Coord_Neg	_	25	cc	25:cc	_
 25	ბაჟი	ბაჟი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	22	conj	22:conj	_
 26	და	და	CCONJ	Cj_Coord	_	29	cc	29:cc	_
-27	არცა	არცა	CCONJ	Cj_Coord_Neg	Polarity=Neg	29	advmod	29:advmod	_
+27	არცა	არცა	CCONJ	Cj_Coord_Neg	_	29	advmod	29:advmod	_
 28	საზუერე	საზუერე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	29	obj	29:obj	_
 29	მიხადოთ	მიხდა	VERB	V_Act_Aor_Subj_S:2Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	20	conj	20:conj	_
 30	მათ	იგი	PRON	Pron_Pers_3Pl_Dat_Pl	Case=Dat|Number=Plur|Person=3|PronType=Prs	29	iobj	29:iobj	SpaceAfter=No
@@ -4529,7 +4531,7 @@
 1	და	და	CCONJ	Cj_Coord	_	13	cc	13:cc	_
 2	ყოველივე	ყოველივე	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	13	dislocated	13:dislocated	_
 3	რომელი	რომელი	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	5:nsubj	_
-4	არა	არა	ADV	adv_Neg	Polarity=Neg	5	advmod	5:advmod	_
+4	არა	არა	ADV	Adv_Neg	Polarity=Neg	5	advmod	5:advmod	_
 5	ჰყოფდეს	ყოფა	VERB	V_Act_Pres_Subj_S:3Sg_O:3Sg	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 6	შჯულსა	შჯული	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	5	obj	5:obj	_
 7	ღმრთისა	ღმერთი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	6	nmod	6:nmod	_
@@ -5045,7 +5047,7 @@
 19	მათსა	იგი	PRON	Pron_Dem_Obl_Pl_Dat_Sg	Case=Gen|Case[sauf]=Dat|Number=Plur|Number[sauf]=Sing|PronType=Dem	18	nmod	18:nmod	SpaceAfter=No
 20	,	,	PUNCT	Punct_Comma	_	22	punct	22:punct	_
 21	რაჲთა	რაჲთა	SCONJ	Cj_Sub	_	22	mark	22:mark	_
-22	ეტყოდიან	თქუმა	VERB	V_SubjM_S:3Pl_IO:3	Aspect=Imp|Mood=Subj|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	_
+22	ეტყოდიან	თქუმა	VERB	V_SubjM_S:3Pl_IO:3	Aspect=Imp|Mood=Sub|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	16	advcl	16:advcl	_
 23	ძმათა	ძმა	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	22	iobj	22:iobj	_
 24	თჳსთა	თჳსი	PRON	Pron_Poss_Gen_Sg_Obl_Pl	Case=Gen|Case[sauf]=Dat|Number=Sing|Number[sauf]=Plur|Poss=Yes|PronType=Prs	23	nmod	23:nmod	_
 25	თანა	თანა	ADP	Post	AdpType=Post|Case=Dat	23	case	23:case	SpaceAfter=No
@@ -5058,7 +5060,7 @@
 32	მეფასეთასა	მეფასე	NOUN	N_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|Number=Sing|Number[sauf]=Sing	31	nmod	31:nmod	SpaceAfter=No
 33	,	,	PUNCT	Punct_Comma	_	35	punct	35:punct	_
 34	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	35	obj	35:obj	_
-35	მოიყვანნეს	მოყვანება	VERB	V_Act_Aor_Subj_Pv_IV_S:3Pl_O:3Pl	Mood=Subj|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	23	acl:relcl	23:acl:relcl	_
+35	მოიყვანნეს	მოყვანება	VERB	V_Act_Aor_Subj_Pv_IV_S:3Pl_O:3Pl	Mood=Sub|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	23	acl:relcl	23:acl:relcl	_
 36	ჩუენდა	ჩუენ	PRON	Pron_Pers_1Pl_Adv	Case=Ess|Number=Plur|Person=1|PronType=Prs	35	obl	35:obl	SpaceAfter=No
 37	,	,	PUNCT	Punct_Comma	_	39	punct	39:punct	_
 38	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	39	nsubj	39:nsubj	_
@@ -5084,7 +5086,7 @@
 7	ჴელი	ჴელი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	nsubj	6:nsubj	_
 8	ღმრთისა	ღმერთი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	7	nmod	7:nmod	_
 9	ჩუენისაჲ	ჩუენი	PRON	Pron_Poss_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing|Poss=Yes|PronType=Prs	8	nmod	8:nmod	_
-10	აღსამაღლებელად	აღსამაღლებელი	ADJ	A_Part_FuturePart_Adv_Sg	Case=Ess|Number=Sing|Tense=Fut|VerbForm=Part	6	obl	6:obl	_
+10	აღსამაღლებელად	აღმაღლება	VERB	A_Part_FuturePart_Adv_Sg	Case=Ess|Number=Sing|Tense=Fut|VerbForm=Part	6	obl	6:obl	_
 11	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl_Gen	Case=Gen|Number=Plur|Person=1|PronType=Prs	10	obl	10:obl	_
 12	თანა	თანა	ADP	Post	AdpType=Post|Case=Gen	11	case	11:case	_
 13	მარადის	მარადის	ADV	Adv	AdvType=Tim	6	advmod	6:advmod	_
@@ -5171,7 +5173,7 @@
 # text = და მივაწჳეთ მუნ მარხვაჲ კიდესა მის მდინარისასა ავუთაისსა, და ვილოცევდით წინაშე უფლისა, ღმრთისა ჩუენისა, და ვითხოვდით მისგან გზასა სიწრფოებისასა ჩუენთჳს და შვილთა ჩუენთათჳს და ყოვლისათჳს, რომელი იყო ჩუენ თანა.
 1	და	და	CCONJ	Cj_Coord	_	2	cc	2:cc	_
 2	მივაწჳეთ	წუევა	VERB	V_Act_Aor_Pv_AV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	მუნ	მუნ	ADV	Adv_Dem	PronType=Dem	2	advmod	2:advmod	_
+3	მუნ	მუნ	ADV	Adv_Dem	_	2	advmod	2:advmod	_
 4	მარხვაჲ	მარხვა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	2:obj	_
 5	კიდესა	კიდე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	2	obl	2:obl	_
 6	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	7	det	7:det	_
@@ -5242,7 +5244,7 @@
 2	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl	Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 3	მეფესა	მეფე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	1	iobj	1:iobj	_
 4	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	3	det	3:det	_
-5	ესრეთ	ესრეთ	ADV	Adv_Dem	PronType=Dem	1	advmod	1:advmod	SpaceAfter=No
+5	ესრეთ	ესრეთ	ADV	Adv_Dem	_	1	advmod	1:advmod	SpaceAfter=No
 6	,	,	PUNCT	Punct_Comma	_	7	punct	7:punct	_
 7	ვითარმედ	ვითარმედ	SCONJ	Cj_Sub	_	15	mark	15:mark	SpaceAfter=No
 8	:	:	PUNCT	Punct_Colon	_	7	punct	7:punct	_
@@ -5357,7 +5359,7 @@
 28	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	30	nsubj	30:nsubj	_
 29	ერთვე	ერთვე	ADV	Adv	_	30	advmod	30:advmod	_
 30	იყვნეს	ყოფა	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	_
-31	მუნ	მუნ	ADV	Adv_Dem	PronType=Dem	30	advmod	30:advmod	SpaceAfter=No
+31	მუნ	მუნ	ADV	Adv_Dem	_	30	advmod	30:advmod	SpaceAfter=No
 32	.	.	PUNCT	Punct_FullStop	_	2	punct	2:punct	_
 
 # sent_id = Ezra_8_26
@@ -5549,7 +5551,7 @@
 3	იერუსალემდ	იერუსალემი	PROPN	N_Prop_Adv_Sg	Case=Ess|NameType=Geo|Number=Sing	2	obl	2:obl	_
 4	და	და	CCONJ	Cj_Coord	_	5	cc	5:cc	_
 5	განვისუენეთ	სუენება	VERB	V_Act_Aor_Pv_IV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	2	conj	2:conj	_
-6	მუნ	მუნ	ADV	Adv_Dem	PronType=Dem	5	advmod	5:advmod	_
+6	მუნ	მუნ	ADV	Adv_Dem	_	5	advmod	5:advmod	_
 7	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	8	nummod	8:nummod	_
 8	დღჱ	დღე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	5	obl	5:obl	_
 9	ოდენ	ოდენ	ADV	Adv	_	8	advmod	8:advmod	SpaceAfter=No
@@ -5684,7 +5686,7 @@
 # text = და მისცეს აღწერილი იგი წიგნი ჭურჭრისაჲ მის, რომელ-იგი ებრძანა მეფესა მას ნახპეტთა მათ მისთა, რომელნი-იგი იყვნეს მეფისანი, და მთავართა მათ მდინარით კერძოთა ევფრატისათა.
 1	და	და	CCONJ	Cj_Coord	_	2	cc	2:cc	_
 2	მისცეს	მიცემა	VERB	V_Act_Aor_Pv_S:3Pl_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	აღწერილი	აღწერა	ADJ	A_Part_PastPart_Adv_Sg	Case=Ess|Number=Sing|Tense=Past|VerbForm=Part	5	amod	5:amod	_
+3	აღწერილი	აღწერა	VERB	A_Part_PastPart_Adv_Sg	Case=Ess|Number=Sing|Tense=Past|VerbForm=Part	5	amod	5:amod	_
 4	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
 5	წიგნი	წიგნი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	2:obj	_
 6	ჭურჭრისაჲ	ჭურჭერი	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	5	nmod	5:nmod	_
@@ -5881,7 +5883,7 @@
 2	მე	მე	PRON	Pron_Pers_1Sg_Nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 3	ვჯედ	ჯდომა	VERB	V_Act_Aor_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	ეგრეთვე	ეგრეთვე	ADV	Adv	_	3	advmod	3:advmod	_
-5	მგლოვარედ	მგლოვარე	ADV	Adv	Case=Ess	3	advmod	3:advmod	_
+5	მგლოვარედ	მგლოვარე	ADJ	A_Adv	Case=Ess	3	advmod	3:advmod	_
 6	ვიდრე	ვიდრე	ADP	Prep	AdpType=Pre	7	case	7:case	_
 7-8	მოწევნადმდე	_	_	_	_	_	_	_	_
 7	მოწევნად	მოწევნა	VERB	V_Masd_Pv_Adv	Case=Ess|VerbForm=Vnoun	3	obl	3:obl	_
@@ -6178,7 +6180,7 @@
 8	,	,	PUNCT	Punct_Comma	_	10	punct	10:punct	_
 9	და	და	CCONJ	Cj_Coord	_	10	cc	10:cc	_
 10	სთქუ	თქუმა	VERB	V_Act_Aor_S:2Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin	2	conj	2:conj	_
-11	ესრე	ესრე	ADV	Adv_Dem	PronType=Dem	10	advmod	10:advmod	SpaceAfter=No
+11	ესრე	ესრე	ADV	Adv_Dem	_	10	advmod	10:advmod	SpaceAfter=No
 12	,	,	PUNCT	Punct_Comma	_	13	punct	13:punct	_
 13	ვითარმედ	ვითარმედ	SCONJ	Conj_Sub	_	28	mark	28:mark	SpaceAfter=No
 14	:	:	PUNCT	Punct_Colon	_	13	punct	13:punct	_
@@ -6216,7 +6218,7 @@
 # text = და აწ ნუ მოჰგური შენ ასულთა მათთაგანსა ცოლად ძესა შენსა და ასულთა თქუენთა ნუ მისცემთ ცოლად ძეთა მათთა, და ნუცა ეძიებ ყოფად მშჳდობისა მათ თანა ყოველთავე ჟამთა.
 1	და	და	CCONJ	Cj_Coord	_	4	cc	4:cc	_
 2	აწ	აწ	ADV	Adv	_	4	advmod	4:advmod	_
-3	ნუ	ნუ	PART	Part_Neg_Imp	Polarity=Neg	4	advmod	4:advmod	_
+3	ნუ	ნუ	ADV	Pdv_Neg_Imp	Polarity=Neg	4	advmod	4:advmod	_
 4	მოჰგური	მოგუარა	VERB	V_Act_Aor_Pv_S:2Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	შენ	შენ	PRON	Pron_Pers_2Sg_Nom	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 6	ასულთა	ასული	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	4	obj	4:obj	_
@@ -6229,14 +6231,14 @@
 12	და	და	CCONJ	Cj_Coord	_	16	cc	16:cc	_
 13	ასულთა	ასული	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	16	obj	16:obj	_
 14	თქუენთა	თქუენი	PRON	Pron_Poss_2Pl_Obl_Pl	Case=Dat|Number=Plur|Person=2|Poss=Yes|PronType=Prs	13	nmod	13:nmod	_
-15	ნუ	ნუ	PART	Part_Neg_Imp	Polarity=Neg	16	advmod	16:advmod	_
+15	ნუ	ნუ	ADV	Adv_Neg_Imp	Polarity=Neg	16	advmod	16:advmod	_
 16	მისცემთ	მიცემა	VERB	V_Act_Pres_Pv_S:2Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=2|Tense=Pres|VerbForm=Fin	4	conj	4:conj	_
 17	ცოლად	ცოლი	NOUN	N_Adv_Sg	Case=Ess|Number=Sing	16	xcomp	16:xcomp	_
 18	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	16	iobj	16:iobj	_
 19	მათთა	მათი	PRON	Pron_Poss_3Pl_Obl_Pl	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	nmod	18:nmod	SpaceAfter=No
 20	,	,	PUNCT	Punct_Comma	_	23	punct	23:punct	_
 21	და	და	CCONJ	Cj_Coord	_	23	cc	23:cc	_
-22	ნუცა	ნუცა	PART	Part_Neg_Encl:ca	Polarity=Neg	23	advmod	23:advmod	_
+22	ნუცა	ნუცა	ADV	Part_Neg_Encl:ca	Polarity=Neg	23	advmod	23:advmod	_
 23	ეძიებ	ძიება	VERB	V_Act_Pres_Pv_EV_S:2Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	4	conj	4:conj	_
 24	ყოფად	ყოფა	VERB	V_Masd_Adv	Case=Ess	23	xcomp	23:xcomp	_
 25	მშჳდობისა	მშჳდობა	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	24	obj	24:obj	_
@@ -6712,7 +6714,7 @@
 22	,	,	PUNCT	Punct_Comma	_	26	punct	26:punct	_
 23	და	და	CCONJ	Cj_Coord	_	26	cc	26:cc	_
 24	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	26	nsubj	26:nsubj	_
-25	თავადი	თავადი	PRON	Pron_Intens_Nom_Sg	Case=Nom|Number=Sing|PronType=Emp	24	appos	24:appos	_
+25	თავადი	თავადი	PRON	Pron_Intens_Nom_Sg	Case=Nom|Number=Sing|PronType=Prs	24	appos	24:appos	_
 26	განჴედინ	განჴდომა	VERB	V_Act_Pres_Imp_Pv_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	17	conj	17:conj	_
 27	კრებულისა	კრებული	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	26	obl	26:obl	_
 28-29	მისგან	_	_	_	_	_	_	_	_
@@ -6984,7 +6986,7 @@
 # text = და ყვეს ეგრე, რომელნი-იგი გამოსრულ იყვნეს ტყუეობისა მისგან, და გამოირჩინა ეზრა მღდელმან კაცნი იგი მთავარნი მამათმთავართა მათგან სახლისა თჳსისათა, კაცნი სახელოვანნი, და მოვლეს თთჳსთავსა მას მეათისა მის თჳსასა და განაგეს.
 1	და	და	CCONJ	Cj_Coord	_	2	cc	2:cc	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	ეგრე	ეგრე	ADV	Adv_Dem	PronType=Dem	2	advmod	2:advmod	SpaceAfter=No
+3	ეგრე	ეგრე	ADV	Adv_Dem	_	2	advmod	2:advmod	SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	6	punct	6:punct	_
 5	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	6	nsubj	6:nsubj	_
 6	გამოსრულ	გამოსლვა	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	2	advcl	2:advcl	_
@@ -7006,7 +7008,7 @@
 20	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	19	det	19:det	_
 21	გან	გან	ADP	Post	AdpType=Post|Case=Gen	19	case	19:case	_
 22	სახლისა	სახლი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	19	nmod	19:nmod	_
-23	თჳსისათა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Obl_Pl	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	22	nmod	22:nmod	SpaceAfter=No
+23	თჳსისათა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Obl_Pl	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Plur|Poss=Yes|PronType=Prs	22	nmod	22:nmod	SpaceAfter=No
 24	,	,	PUNCT	Punct_Comma	_	25	punct	25:punct	_
 25	კაცნი	კაცი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	16	appos	16:appos	_
 26	სახელოვანნი	სახელოვანი	ADJ	A_Nom_Pl	Case=Nom|Number=Plur	25	amod	25:amod	SpaceAfter=No
@@ -7101,7 +7103,7 @@
 5	ცოდვათა	ცოდვა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	2	obl	2:obl	_
 6	თჳს	თჳს	ADP	Post	AdpType=Post|Case=Gen	5	case	5:case	_
 7	უმეცრებისა	უმეცრება	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	5	nmod	5:nmod	_
-8	თჳსისათა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Obl_Pl	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	nmod	7:nmod	SpaceAfter=No
+8	თჳსისათა	თჳსი	PRON	Pron_Poss_Refl_Gen_Sg_Obl_Pl	Case=Gen|Case[sauf]=Gen|Number=Sing|Number[sauf]=Plur|Poss=Yes|PronType=Prs	7	nmod	7:nmod	SpaceAfter=No
 9	.	.	PUNCT	Punct_FullStop	_	2	punct	2:punct	_
 
 # sent_id = Ezra_10_20
@@ -7330,7 +7332,7 @@
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	2:det	_
 4	გან	გან	ADP	Post	AdpType=Post|Case=Gen	3	case	3:case	_
 5	ფაათ	ფაათ	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	2	nmod	2:nmod	_
-6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[sauf]=Gen|Case[dsauf]=Nom|NameType=Geo|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Sing	5	nmod	5:nmod	SpaceAfter=No
+6	მოაბისათაჲ	მოაბი	PROPN	N_Prop_Gen_Sg_Obl_Pl_Nom_Sg	Case=Gen|Case[dsauf]=Nom|Case[sauf]=Gen|NameType=Geo|Number=Sing|Number[dsauf]=Plur|Number[sauf]=Sing	5	nmod	5:nmod	SpaceAfter=No
 7	:	:	PUNCT	Punct_Colon	_	8	punct	8:punct	_
 8	ადნე	ადნე	PROPN	N_Prop	NameType=Prs	0	root	0:root	SpaceAfter=No
 9	,	,	PUNCT	Punct_Comma	_	10	punct	10:punct	_
