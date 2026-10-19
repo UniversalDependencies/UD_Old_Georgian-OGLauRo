@@ -13,17 +13,19 @@ We are grateful to Dr. Paul Meurer for his discussion and guidance and to Prof. 
 
 ## References
 
-For the details of annotation principles, see Lin, Chia-Wei and Diego Luinetti.(forthcoming). 
+For the details of annotation principles, see Lin, Chia-Wei and Diego Luinetti (2026). 
 
 ``` bibtex
-@article{LinLuinetti2026,
-  author    = {Lin, Chia-Wei and Luinetti, Diego},
-  title     = {Building a Treebank for {Ezra} Book of {Old} {Georgian} {Oshki} {Bible}},
-  journal = {Journal of Historical Syntax},
-  number   = {},
-  year      = {forthcoming},
-  doi      = {},
+@article{Lin-2026,
+ author = {Lin, Chia-Wei and Luinetti, Diego},
+ doi = {10.5334/johd.559},
+ journal = {Journal of Open Humanities Data},
+ keyword = {en},
+ month = {Jul},
+ title = {Building a Treebank for the Book of Ezra in the Old Georgian Oshki Bible},
+ year = {2026}
 }
+
 ```
 
 
