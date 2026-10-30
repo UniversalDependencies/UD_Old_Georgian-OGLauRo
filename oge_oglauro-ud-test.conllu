@@ -1,5 +1,6 @@
 # sent_id = Ezra_1_1
 # text = პირველსა მას წელსა კჳროს მეფისა სპარსთაჲსა, აღსრულებასა სიტყჳსა უფლისაჲსა პირითა იერემია წინაწარმეტყუელისაჲთა განაღჳძა უფალმან სული კჳროსისი, მეფისა სპარსთაჲსაჲ, და მისცა ბრძანებაჲ მცნებისაჲ ყოველსა საშარავანდედოსა თჳსსა და მიწერა ყოველთა მიმართ სახე ესე:
+# parallel_id = bible/ezra-1-1
 1	პირველსა	პირველი	NUM	A_Ord_Dat_Sg	Case=Dat|Number=Sing|NumType=Ord	3	amod	_	_
 2	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	3	det	_	_
 3	წელსა	წელი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	14	obl	_	_
@@ -38,6 +39,7 @@
 
 # sent_id = Ezra_1_2
 # text = ესრე იტყჳს კჳროს, მეფჱ სპარსთაჲ: ყოველი შარავანდედებაჲ ქუეყანისაჲ მომცა მე უფალმან, ღმერთმან ზეცისამან, და მან მიბრძანა მე მოძიებად, რაჲთა უშჱნო მას ტაძარი იერუსალემს ჰურიასტანისასა.
+# parallel_id = bible/ezra-1-2
 1	ესრე	ესრე	ADV	Adv	_	2	advmod	_	_
 2	იტყჳს	თქუმა	VERB	V_Act_Pres_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	კჳროს	კჳროსი	PROPN	N_Prop	NameType=Prs	2	nsubj	_	SpaceAfter=No
@@ -71,6 +73,7 @@
 
 # sent_id = Ezra_1_3
 # text = თუ ვინმე იყოს თქუენგანი ყოველსა მაგას ერსა უფლისასა, რომელსა თანა იყოს ღმერთი მისი, მის თანა აღვედინ იერუსალემს ჰურიასტანისასა და აღაშჱნენ სახლი იგი უფლისა ღმრთისა ისრაელისაჲ.
+# parallel_id = bible/ezra-1-3
 1	თუ	თუ	SCONJ	Cj_Sub	_	3	mark	_	_
 2	ვინმე	ვინმე	PRON	Pron_Ind_Nom_Sg	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	_
 3	იყოს	ყოფა	VERB	V_Act_Subj_IV_S:3Sg	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	19	advcl	_	Preverb=No|Version=I
@@ -104,6 +107,7 @@
 
 # sent_id = Ezra_1_4_1
 # text = და თავადი ღმერთი, რომელი-იგი დამკჳდრებულ არს იერუსალემს, იყავნ მის თანა; და ყოველი განმზადებულებაჲ მის თანა წარიღენ ადგილსა მას, სადა-იგი თჳთ დამკჳდრებულ არს. და თანა-წარიღენ ყოველივე აღსაგებელი თჳსი, რომელ-რაჲ იყოს ოქროჲსაჲ და ვეცხლისაჲ.
+# parallel_id = bible/ezra-1-4/part1
 1	და	და	CCONJ	Cj_Coord	_	10	cc	_	_
 2	თავადი	თავადი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	3	amod	_	_
 3	ღმერთი	ღმერთი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	10	nsubj	_	SpaceAfter=No
@@ -146,6 +150,7 @@
 
 # sent_id = Ezra_1_4_2
 # text = სხუაჲ ჭურჭერი და საცხოვარი მოყუასთა თჳსთა თანა წარიღენ განსაგებელად ტაძრისა მის ღმრთისა იერუსალემდ.
+# parallel_id = bible/ezra-1-4/part2
 1	სხუაჲ	სხუა	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	2	amod	_	_
 2	ჭურჭერი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	8	obj	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -163,6 +168,7 @@
 
 # sent_id = Ezra_1_5
 # text = და აღდგეს მფლობელნი იგი მამათმთავართაჲ მათ იუდაჲსთაჲ და ბენიამენისთაჲ და მღდელნი იგი და ლევიტელნი და ყოველნივე, რომელთაჲ განაღჳძა უფალმან ღმერთმან სული მათი აღსლვად და აღშჱნებად ტაძრისა მის უფლისა იერუსალემდ.
+# parallel_id = bible/ezra-1-5
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღდგეს	აღდგომა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მფლობელნი	მფლობელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	nsubj	_	_
@@ -197,6 +203,7 @@
 
 # sent_id = Ezra_1_6
 # text = და ყოველნი იგი, რომელნი იყვნეს გარემოჲს მათსა, შემწე ეყოფოდეს და განაძლიერებდეს, ჴელთა მათთა მისცემდეს ოქროსა და ვეცხლსა და ჭურჭერსა და საცხოვარსა და ძღუნითა და შესაწირავითა აღავსებდეს.
+# parallel_id = bible/ezra-1-6
 1	და	და	CCONJ	Cj_Coord	_	11	cc	_	_
 2	ყოველნი	ყოველი	PRON	Pron_Tot_Nom_Pl	Case=Nom|Number=Plur|PronType=Tot	11	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	SpaceAfter=No
@@ -230,6 +237,7 @@
 
 # sent_id = Ezra_1_7
 # text = და მეფემან კჳროს მღებად სცა ყოველი იგი სამსახურებელი სახლისა მის უფლისაჲ რომელ გამოიღო ნაბუქოდონოსორ მეფემან იერუსალემით და მისცა დამარხვად სახლსა ღმრთისა თჳსისასა.
+# parallel_id = bible/ezra-1-7
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	მეფემან	მეფე	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	5	nsubj	_	_
 3	კჳროს	კჳროს	PROPN	N_Prop	NameType=Prs	2	appos	_	_
@@ -256,6 +264,7 @@
 
 # sent_id = Ezra_1_8
 # text = მოღებად სცა ყოველი იგი კჳროს, მეფემან სპარსთამან, ჴელითა მითრდატ მეფასისაჲთა და მიუთუალა და მისცა სამნასარს, მთავარსა იუდაჲსსა.
+# parallel_id = bible/ezra-1-8
 1	მოღებად	მოღება	NOUN	N_Adv	Case=Ess	2	xcomp	_	_
 2	სცა	ცემა	VERB	V_Act_Aor_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
@@ -280,6 +289,7 @@
 
 # sent_id = Ezra_1_9
 # text = და ესე არს რიცხჳ აღთუალვისაჲ მის: საზორველნი იგი ოქროჲსანი ოცდაათ და საზორველნი სამსახურებელთა მათ ვეცხლისათანი ათას ოცდაცხრა
+# parallel_id = bible/ezra-1-9
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	არს	ყოფა	VERB	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No
@@ -301,6 +311,7 @@
 
 # sent_id = Ezra_1_10
 # text = და პინაკები ოქროჲსაჲ ოცდაათ და ვეცხლისანი მერმე ათას.
+# parallel_id = bible/ezra-1-10
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	პინაკები	პინაკი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 3	ოქროჲსაჲ	ოქრო	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	2	nmod	_	_
@@ -313,6 +324,7 @@
 
 # sent_id = Ezra_1_11
 # text = და ყოველი ჭურჭერი ოქროჲსაჲ და ვეცხლსაჲ ხუთ ათას ოთხას ყოვლითურთ, რომელნი გამოვიდოდეს სამნასარის თანა ბაბილონით იერუსალემდ.
+# parallel_id = bible/ezra-1-11
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	3	det	_	_
 3	ჭურჭერი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
@@ -334,6 +346,7 @@
 
 # sent_id = Ezra_2_1
 # text = და ესე არიან ძენი თითოეულად ადგილთაგან თჳსთა, რომელნი გამოვიდოდეს ტყუეობისა მისგან, რომელნი წარტყუენნა ნაბუქოდონოსორ, მეფემან ბაბილონისამან, ბაბილონდ, რომელნი მიაქცინა კჳროს ბაბილონით იერუსალემდ ჰურიასტანდ, კაცი თითოეულად ქალაქსა თჳსსა,
+# parallel_id = bible/ezra-2-1
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 3	არიან	ყოფა	VERB	V_Act_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No
@@ -375,6 +388,7 @@
 
 # sent_id = Ezra_2_2
 # text = რომელნი-იგი გამოსრულ იყვნეს ზორობაბელის თანა: ისუ, ნეემია, სარეა, ზრიელია, მარდოქეა, ბალაასან, მასაფარ, გაგუვარ, ჰრეუმ, ბაანა, ესე არს რიცხჳ კრებულისაჲ მის ისრაელისაჲ:
+# parallel_id = bible/ezra-2-2
 1	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	2	nsubj	_	_
 2	გამოსრულ	გამოსლვა	VERB	V_Part_Pv_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=Yes
 3	იყვნეს	ყოფა	AUX	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	2	aux	_	_
@@ -411,6 +425,7 @@
 
 # sent_id = Ezra_2_3
 # text = ძენი ფურსისნი ორ ათას ას სამეოცდათორმეტ,
+# parallel_id = bible/ezra-2-3
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ფურსისნი	ფურსი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ორ	ორი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -421,6 +436,7 @@
 
 # sent_id = Ezra_2_4
 # text = ძენი არისისნი შჳდას სამეოცდაათექუსმეტ,
+# parallel_id = bible/ezra-2-4
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	არისისნი	არისი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	შჳდას	შჳდასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -429,6 +445,7 @@
 
 # sent_id = Ezra_2_5
 # text = ძენი არისისნი შჳდას სამეოცდაათექუსმეტ,
+# parallel_id = bible/ezra-2-5
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	არისისნი	არისი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	შჳდას	შჳდასი	NUM	Num_Nom	Case=Abs|NumType=Card	1	nummod	_	_
@@ -437,6 +454,7 @@
 
 # sent_id = Ezra_2_6
 # text = ძენი ლეფთალემისნი მოაბელისანი და ძეთა ისუისთაჲ და ჰროაბისთაჲ ორ ათას რვაას და ათორმეტ,
+# parallel_id = bible/ezra-2-6
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ლეფთალემისნი	ლეფთალემი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	მოაბელისანი	მოაბელი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Geo|Number=Sing|Number[sauf]=Plur	2	appos	_	_
@@ -454,6 +472,7 @@
 
 # sent_id = Ezra_2_7
 # text = ძენი ელამისნი ორ ათას ორას ერგასის და ოთხ,
+# parallel_id = bible/ezra-2-7
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ელამისნი	ელამი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ორ	ორი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -468,6 +487,7 @@
 # text = ძენი ზატუნაჲსნი ცხრაას ოცდახუთ,
 # gk_text = υἱοὶ Ζαθουα ἐννακόσιοι τεσσαράκοντα πέντε.
 # arm_text = որդիք զատոնայ՝ ինն հարիւր քառասուն եւ հինգ։
+# parallel_id = bible/ezra-2-8
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ზატუნაჲსნი	ზატუნაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ცხრაას	ცხრაასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -476,6 +496,7 @@
 
 # sent_id = Ezra_2_9
 # text = ძენი ქობერისნი შჳდას ერგასის,
+# parallel_id = bible/ezra-2-9
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ქობერისნი	ქობერი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	შჳდას	შჳდასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -484,6 +505,7 @@
 
 # sent_id = Ezra_2_10
 # text = ძენი ბანეაჲსნი ექუსას ორმეოცდარვა,
+# parallel_id = bible/ezra-2-10
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბანეაჲსნი	ბანეაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ექუსას	ექუსასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -492,6 +514,7 @@
 
 # sent_id = Ezra_2_11
 # text = ძენი ბებჱსნი ექუსას ოცდასამ,
+# parallel_id = bible/ezra-2-11
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბებჱსნი	ბებჱ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ექუსას	ექუსასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -500,6 +523,7 @@
 
 # sent_id = Ezra_2_12
 # text = ძენი არგჱსნი სამ ათას სამას ოცდაორ,
+# parallel_id = bible/ezra-2-12
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	არგჱსნი	არგჱ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -510,6 +534,7 @@
 
 # sent_id = Ezra_2_13
 # text = ძენი ადონიკამისნი ექუსას სამეოცდაშჳდ,
+# parallel_id = bible/ezra-2-13
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ადონიკამისნი	ადონიკამი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ექუსას	ექუსასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -518,6 +543,7 @@
 
 # sent_id = Ezra_2_14
 # text = ძენი ბასორისნი ორ ათას ექუსას და ექუს,
+# parallel_id = bible/ezra-2-14
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბასორისნი	ბასორი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ორ	ორი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -529,6 +555,7 @@
 
 # sent_id = Ezra_2_15
 # text = ძენი ადდინაჲსნი ოთხას ერგასის და ოთხ,
+# parallel_id = bible/ezra-2-15
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ადდინაჲსნი	ადდინაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ოთხას	ოთხასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -539,6 +566,7 @@
 
 # sent_id = Ezra_2_16
 # text = ძენი აზარ ეზეკიაჲსნი ოთხმეოცდაათორმეტ,
+# parallel_id = bible/ezra-2-16
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	აზარ	აზარ	PROPN	N_Prop	NameType=Prs	1	nmod	_	_
 3	ეზეკიაჲსნი	ეზეკიაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	2	nmod	_	_
@@ -547,6 +575,7 @@
 
 # sent_id = Ezra_2_17
 # text = ძენი ბესეაჲსნი სამას ოცდასამ,
+# parallel_id = bible/ezra-2-17
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბესეაჲსნი	ბესეაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	სამას	სამასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -555,6 +584,7 @@
 
 # sent_id = Ezra_2_18
 # text = ძენი იაროვაჲსნი ას ოცდათორმეტ,
+# parallel_id = bible/ezra-2-18
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	იაროვაჲსნი	იაროვაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -563,6 +593,7 @@
 
 # sent_id = Ezra_2_19
 # text = ძენი ასუმისნი ორას ოცდასამ,
+# parallel_id = bible/ezra-2-19
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ასუმისნი	ასუმი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ორას	ორასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -571,6 +602,7 @@
 
 # sent_id = Ezra_2_20
 # text = ძენი გაბერისნი ოთხმეოცდათოთხმეტ,
+# parallel_id = bible/ezra-2-20
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	გაბერისნი	გაბერი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ოთხმეოცდათოთხმეტ	ოთხმეოცდათოთხმეტი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	SpaceAfter=No
@@ -578,6 +610,7 @@
 
 # sent_id = Ezra_2_21
 # text = ძენი ბეთლემისნი ას ოცდაორ,
+# parallel_id = bible/ezra-2-21
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბეთლემისნი	ბეთლემი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -586,6 +619,7 @@
 
 # sent_id = Ezra_2_22
 # text = ძენი ნოტოფისნი ერგასის და ექუს,
+# parallel_id = bible/ezra-2-22
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ნოტოფისნი	ნოტოფი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ერგასის	ერგასისი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -595,6 +629,7 @@
 
 # sent_id = Ezra_2_23
 # text = ძენი ანთუთისნი ას ოცდარვა,
+# parallel_id = bible/ezra-2-23
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ანთუთისნი	ანთუთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -603,6 +638,7 @@
 
 # sent_id = Ezra_2_24
 # text = ძენი ასემოთისნი ორმეოცდაორ,
+# parallel_id = bible/ezra-2-24
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ასემოთისნი	ასემოთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ორმეოცდაორ	ორმეოცდაორი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	SpaceAfter=No
@@ -610,6 +646,7 @@
 
 # sent_id = Ezra_2_25
 # text = ძენი კარიათირიმისნი _ ქაფირა და ბეროთ შჳდას ორმეოცდასამ.
+# parallel_id = bible/ezra-2-25
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	კარიათირიმისნი	კარიათირიმი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	_	_	PUNCT	Punct_Dash	_	4	punct	_	_
@@ -622,6 +659,7 @@
 
 # sent_id = Ezra_2_28
 # text = ძენი ბეთელისნი და იედეაჲსნი ოთხას ოცდასამ,
+# parallel_id = bible/ezra-2-28
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბეთელისნი	ბეთელი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -632,6 +670,7 @@
 
 # sent_id = Ezra_2_29
 # text = ძენი ნაბუისნი ას ერგასის და ორ,
+# parallel_id = bible/ezra-2-29
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ნაბუისნი	ნაბუი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -642,6 +681,7 @@
 
 # sent_id = Ezra_2_30
 # text = ძენი მაგებისნი ას ერგასის და ექუს,
+# parallel_id = bible/ezra-2-30
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	მაგებისნი	მაგები	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -652,6 +692,7 @@
 
 # sent_id = Ezra_2_31
 # text = ძენი ელამარისნი ათას ორას ერგასის და ოთხ,
+# parallel_id = bible/ezra-2-31
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ელამარისნი	ელამარი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -663,6 +704,7 @@
 
 # sent_id = Ezra_2_32
 # text = ძენი არამისნი სამას და ოც,
+# parallel_id = bible/ezra-2-32
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	არამისნი	არამი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	სამას	სამასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -672,6 +714,7 @@
 
 # sent_id = Ezra_2_33
 # text = ძენი ლიდდონისნი _ ლოვ და დიდ და ონა შჳდას ოცდახუთ,
+# parallel_id = bible/ezra-2-33
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ლიდდონისნი	ლიდდონი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	_	_	PUNCT	Punct_Dash	_	4	punct	_	_
@@ -686,6 +729,7 @@
 
 # sent_id = Ezra_2_34
 # text = ძენი იერიქოვისნი სამას ორმეოცდახუთ,
+# parallel_id = bible/ezra-2-34
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	იერიქოვისნი	იერიქოვი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	სამას	სამასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -694,6 +738,7 @@
 
 # sent_id = Ezra_2_35
 # text = ძენი სენნაჲსნი სამ ათას ექუსას ოცდაათ,
+# parallel_id = bible/ezra-2-35
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	სენნაჲსნი	სენნაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -704,6 +749,7 @@
 
 # sent_id = Ezra_2_36
 # text = და ძენი მღდელთანი მათ ძენი ედდოაჲსნი, სახლისა იუდაჲსნი იესე დეკეანისანი ცხრაას სამეოცდაცამეტ,
+# parallel_id = bible/ezra-2-36
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 3	მღდელთანი	მღდელი	NOUN	N_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf]=Nom|Number=Plur|Number[sauf]=Plur	2	nmod	_	_
@@ -721,6 +767,7 @@
 
 # sent_id = Ezra_2_37
 # text = ძენი ემერისნი ათას ერგასის და ორ,
+# parallel_id = bible/ezra-2-37
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ემერისნი	ემერი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -731,6 +778,7 @@
 
 # sent_id = Ezra_2_38
 # text = ძენი ფასურისნი ათას ორას ორმეოცდაშჳდ,
+# parallel_id = bible/ezra-2-38
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ფასურისნი	ფასური	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -740,6 +788,7 @@
 
 # sent_id = Ezra_2_39
 # text = ძენი ერემისნი ათას შჳდას.
+# parallel_id = bible/ezra-2-39
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ერემისნი	ერემი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	_
 3	ათას	ათასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -748,6 +797,7 @@
 
 # sent_id = Ezra_2_40
 # text = და ლევიტელნი იგი ძენი ისუისნი და კადმიელ ძისა იუდიაჲსი სამეოცდაათოთხმეტ.
+# parallel_id = bible/ezra-2-40
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ლევიტელნი	ლევიტელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -762,6 +812,7 @@
 
 # sent_id = Ezra_2_41
 # text = და რომელნი-იგი იყვნეს მეფსალმუნენი და შემასხმელნი - და ძენი იგი ასაფისნი ას ოცდარვა.
+# parallel_id = bible/ezra-2-41
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	რომელნი-იგი	რომელი	PRON	Pron_Rel_Nom_Pl	Case=Nom|Number=Plur|PronType=Rel	3	nsubj	_	_
 3	იყვნეს	ყოფა	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
@@ -779,6 +830,7 @@
 
 # sent_id = Ezra_2_42
 # text = ძენი მეკარეთანი მათ: ძენი ელომისნი, ძენი ელუმიაჲსნი, ძენი ატტარისნი, ძენი ტელმონისნი, ძენი აკკუბისნი, ძენი ქატიტაისნი, ძენი სობაჲსნი _ ყოველნივე ას ოცდარვა.
+# parallel_id = bible/ezra-2-42
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	მეკარეთანი	მეკარე	NOUN	N_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf]=Nom|Number=Plur|Number[sauf]=Plur	1	nmod	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	_	SpaceAfter=No
@@ -811,6 +863,7 @@
 
 # sent_id = Ezra_2_43
 # text = და ნათანისითგან თესლნი: ძენი სუვალისნი, ძენი ასუფაჲსნი, ძენი ტაბაოთისნი,
+# parallel_id = bible/ezra-2-43
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2-3	ნათანისითგან	_	_	_	_	_	_	_	_
 2	ნათანისით	ნათანი	PROPN	N_Prop_Gen_Sg_Ins_Sg	Case=Gen|Case[sauf]=Ins|NameType=Prs|Number=Sing|Number[sauf]=Sing	4	nmod	_	_
@@ -829,6 +882,7 @@
 
 # sent_id = Ezra_2_44
 # text = ძენი კერაოსისნი, ძენი სეაჲსნი, ძენი ფადოვნისნი,
+# parallel_id = bible/ezra-2-44
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	კერაოსისნი	კერაოსი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -841,6 +895,7 @@
 
 # sent_id = Ezra_2_45
 # text = ძენი ლაბანისნი, ძენი გაბანისნი, ძენი იაკობისნი,
+# parallel_id = bible/ezra-2-45
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ლაბანისნი	ლაბანი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -853,6 +908,7 @@
 
 # sent_id = Ezra_2_46
 # text = ძენი აბაბისნი, ძენი სელამისნი, ძენი ანანისნი,
+# parallel_id = bible/ezra-2-46
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	აბაბისნი	აბაბი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -865,6 +921,7 @@
 
 # sent_id = Ezra_2_47
 # text = ძენი ეგდადესნი, ძენი გაარისნი, ძენი ჰერადისნი,
+# parallel_id = bible/ezra-2-47
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ეგდადესნი	ეგდადე	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -877,6 +934,7 @@
 
 # sent_id = Ezra_2_48
 # text = ძენი ჰერასუნისნი, ძენი გაზაამისნი, ძენი ნიკოვდანისნი,
+# parallel_id = bible/ezra-2-48
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ჰერასუნისნი	ჰერასუნი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -889,6 +947,7 @@
 
 # sent_id = Ezra_2_49
 # text = ძენი ასაისნი, ძენი ფასესნი, ძენი ბაასისნი,
+# parallel_id = bible/ezra-2-49
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ასაისნი	ასაი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -903,6 +962,7 @@
 # text = ძენი ასაისნი, ძენი მონიმისნი, ძენი ნეფუსიმისნი,
 # gk_text = υἱοὶ Ασενα, υἱοὶ Μαωνιμ, υἱοὶ Ναϕισων,
 # arm_text = որդիք ասենայ. որդիք մովանիմ. որդիք նեփուսիմ.
+# parallel_id = bible/ezra-2-50
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ასაისნი	ასაი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -915,6 +975,7 @@
 
 # sent_id = Ezra_2_51
 # text = ძენი გასუთისნი, ძენი აკუფაჲსნი, ძენი არურაჲსნი,
+# parallel_id = bible/ezra-2-51
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	გასუთისნი	გასუთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -927,6 +988,7 @@
 
 # sent_id = Ezra_2_52
 # text = ძენი ბავლუთისნი, ძენი მიდაჲსნი, ძენი არისაჲსნი,
+# parallel_id = bible/ezra-2-52
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბავლუთისნი	ბავლუთი	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -939,6 +1001,7 @@
 
 # sent_id = Ezra_2_53
 # text = ძენი ბაკურისნი, ძენი სისარაჲსნი, ძენი მაანისნი,
+# parallel_id = bible/ezra-2-53
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ბაკურისნი	ბაკური	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -951,6 +1014,7 @@
 
 # sent_id = Ezra_2_54
 # text = ძენი ნესოვაჲსნი, ძენი ატტოფაჲსნი,
+# parallel_id = bible/ezra-2-54
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	ნესოვაჲსნი	ნესოვაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -960,6 +1024,7 @@
 
 # sent_id = Ezra_2_55
 # text = ძენი მონათა მათ სოლომონისთანი, ძენი სოტჳაჲსნი, ძენი ასუფერატისნი, ძენი ფადდურაჲსნი,
+# parallel_id = bible/ezra-2-55
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	მონათა	მონა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	1	nmod	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	2	det	_	_
@@ -977,6 +1042,7 @@
 
 # sent_id = Ezra_2_56
 # text = ძენი იჱლაჲსნი, ძენი კერდოვნისნი, ძენი კედდიელისნი,
+# parallel_id = bible/ezra-2-56
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	იჱლაჲსნი	იჱლაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -989,6 +1055,7 @@
 
 # sent_id = Ezra_2_57
 # text = ძენი საფატიაჲსნი, ძენი ატტილისნი, ძენი ფაქერათა-საბუმისნი, ძენი იემეისნი.
+# parallel_id = bible/ezra-2-57
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	საფატიაჲსნი	საფატიაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -1004,6 +1071,7 @@
 
 # sent_id = Ezra_2_58
 # text = ყოველნი იგი ძენი ნათანისნი და ძენი მონათაჲ მათ სოლომონისთანი სამას ოთხმეოცდაათორმეტ.
+# parallel_id = bible/ezra-2-58
 1	ყოველნი	ყოველი	PRON	Pron_Tot_Nom_Pl	Case=Nom|Number=Plur|PronType=Tot	4	det	_	_
 2	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	1	det	_	_
 3	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
@@ -1019,6 +1087,7 @@
 
 # sent_id = Ezra_2_59
 # text = და ესე არიან გამოსრულნი თელმელექდ, ლარესად, ქერობდ, ედარჱ, მეჰერდ, და ვერ შეუძლეს თხრობად სახელთა მამათა თჳსთასა, უკუეთუ არს ნათესავი მათი ისრაელისაგან.
+# parallel_id = bible/ezra-2-59
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	3	nsubj	_	_
 3	არიან	ყოფა	VERB	V_Act_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No
@@ -1052,6 +1121,7 @@
 
 # sent_id = Ezra_2_60
 # text = ძენი დაზაჲსნი, ძენი ტობიაჲსნი, ძენი ნეკოდაჲსნი ექუსას ერგასის და ორ.
+# parallel_id = bible/ezra-2-60
 1	ძენი	ძე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	დაზაჲსნი	დაზაჲ	PROPN	N_Prop_Gen_Sg_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Plur	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -1068,6 +1138,7 @@
 
 # sent_id = Ezra_2_61
 # text = და ძეთა მათგან მღდელთაჲსა: ძენი აბაისნი, ძენი აკოსისნი, ძენი ბერზელჱსნი, ვითარცა მოიყვანნა ასულთა მათგან ბერზელოჲსთა გაალადიტელისაჲ თჳსა ცოლად, იყო დავიწყება სახელთა მათთა.
+# parallel_id = bible/ezra-2-61
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	0	root	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -1103,6 +1174,7 @@
 
 # sent_id = Ezra_2_62
 # text = და ეძიებდეს ნათესავთა რიცხუსა წიგნსა მათსა და არა იპოვა, და განაშორნეს იგინი მღდელთაგან. ათას შჳდას ორმეოცდაათ წინაწარმეტყუელი.
+# parallel_id = bible/ezra-2-62
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ეძიებდეს	ძიება	VERB	V_Act_Imp_EV_S:3Pl_IO:3	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=No|Version=E
 3	ნათესავთა	ნათესავი	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	4	nmod	_	_
@@ -1128,6 +1200,7 @@
 
 # sent_id = Ezra_2_63
 # text = და ჰრქუა ნათესავთა მათ: არა წეს არს თქუენდა ჭამად სიწმიდისა მისგან წმიდათაჲსა, ვიდრემდის ადგეს მღდელთმოძღუარი და განცხადებულად უჩუენოს და მის მიერ განათლდენ ყოველნი სრულიად.
+# parallel_id = bible/ezra-2-63
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ჰრქუა	რქუმა	VERB	V_Act_Aor_S:3Sg_IO:3Pl	Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	7	advcl	_	Preverb=No
 3	ნათესავთა	ნათესავი	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	2	iobj	_	_
@@ -1160,6 +1233,7 @@
 
 # sent_id = Ezra_2_64
 # text = და იყო ყოველი იგი კრებული ერთბამად ოთხ ბევრ ორ ათას სამას სამეოც,
+# parallel_id = bible/ezra-2-64
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყო	ყოფა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	5	det	_	_
@@ -1176,6 +1250,7 @@
 
 # sent_id = Ezra_2_65_1
 # text = გარნა მონათა და მჴევალთა მათთა.
+# parallel_id = bible/ezra-2-65/part1
 1	გარნა	გარნა	ADP	Prep	AdpType=Pre|Case=Gen	2	case	_	_
 2	მონათა	მონა	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	0	root	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -1185,6 +1260,7 @@
 
 # sent_id = Ezra_2_65_2
 # text = და მწყემსნი მათნი შჳდ ათას სამეოცდაათშჳდმეტ, და შემასხმელნი მეფსალმუნენი მათნი მამანი და დედანი ორას.
+# parallel_id = bible/ezra-2-65/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მწყემსნი	მწყემსი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 3	მათნი	მათი	PRON	Pron_Poss_Nom_Pl	Case=Nom|Number=Plur|Poss=Yes|PronType=Prs	2	nmod	_	_
@@ -1204,6 +1280,7 @@
 
 # sent_id = Ezra_2_66
 # text = ცხენები მათი შჳდას ოცდათექუსმეტ და ჯორები მათი ორასორმეოცდახუთ
+# parallel_id = bible/ezra-2-66
 1	ცხენები	ცხენი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 2	მათი	მათი	PRON	Pron_Poss_Nom_Sg	Case=Nom|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
 3	შჳდას	შჳდასი	NUM	Num_Abs	Case=Abs|NumType=Card	1	nummod	_	_
@@ -1215,6 +1292,7 @@
 
 # sent_id = Ezra_2_67
 # text = და აქლემები მათი ოთხას ოცდაათხუთმეტ და ვირები მათი ექუს ათას შჳდას და ოც.
+# parallel_id = bible/ezra-2-67
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აქლემები	აქლემი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
 3	მათი	მათი	PRON	Pron_Poss_Nom_Sg	Case=Nom|Number=Sing|Poss=Yes|PronType=Prs	2	nmod	_	_
@@ -1232,6 +1310,7 @@
 
 # sent_id = Ezra_2_68
 # text = და მფლობელნი იგი მამათმთავარნი, რომელნი მოვიდეს სახლსა უფლისასა იერუსალემდ, შეწირეს სახლსა ღმრთისასა განმზადებულებაჲ საშჱნებელად მისა,
+# parallel_id = bible/ezra-2-68
 1	და	და	CCONJ	Cj_Coord	_	12	cc	_	_
 2	მფლობელნი	მფლობელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	12	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -1253,6 +1332,7 @@
 
 # sent_id = Ezra_2_69
 # text = რავდენცა იყო ძალი მათი სახლად აღსაგებელად საფასესა საჴმრისა მის: ოქროჲ ექუსი ბევრი და ათათასი დრამაჲ და ვეცხლი ხუთათასი ქანქარი და კუართები სამღდელოჲ ას ერგასის.
+# parallel_id = bible/ezra-2-69
 1	რავდენცა	რავდენცა	ADV	Adv	_	2	advmod	_	_
 2	იყო	ყოფა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	ძალი	ძალა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -1282,6 +1362,7 @@
 
 # sent_id = Ezra_2_70
 # text = და დასხდეს მღდელნი იგი და ლევიტელნი იგი და ერისა მისგანნი და შემასხმელნი იგი და მეკარენი იგი და ნათანიელნი იგი ქალაქთა თჳსთა.
+# parallel_id = bible/ezra-2-70
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დასხდეს	დასხდომა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მღდელნი	მღდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	nsubj	_	_
@@ -1309,6 +1390,7 @@
 
 # sent_id = Ezra_3_1
 # text = მოვიდა და მოიწია ერთიღა იგი შჳდეული, და იყვნეს ძენი იგი ისრაელისანი თითოეულად თჳსსა ქალაქსა, და შეკრბა ყოველი იგი ერი ერთბამად, ვითარცა ერთი კაცი, იერუსალემდ.
+# parallel_id = bible/ezra-3-1
 1	მოვიდა	მოსლვა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 3	მოიწია	მიწევნა	VERB	V_Act_Aor_Pv_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	1	conj	_	Preverb=Yes|Version=I
@@ -1341,6 +1423,7 @@
 
 # sent_id = Ezra_3_2
 # text = და აღდგა ისუ იოსედეკეანი და ძმანი მისნი, მღდელნი იგი, და ზორობაბელ, ძჱ სალათიელისი, და ძმანი მისნი, და აღაშჱნეს საკურთხეველი საკუერთხთაჲ უფლისა ღმრთისა ისრაელისაჲ შეწირვად მას ზედა საკუერთხი, ვითარცა წერილ არს შჯულსა მოსესსა, კაცისა მის ღმრთისა.
+# parallel_id = bible/ezra-3-2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღდგა	აღდგომა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ისუ	ისუ	PROPN	N_Prop	NameType=Prs	2	nsubj	_	_
@@ -1387,6 +1470,7 @@
 
 # sent_id = Ezra_3_3_1
 # text = და განჰმზადნეს საზორველნი და განმზადებულებისა მისებრ თჳსისაჲსა, რამეთუ ეშინოდა ნათესავთაგან მის ქუეყანისათა.
+# parallel_id = bible/ezra-3-3/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	განჰმზადნეს	განმზადება	VERB	V_Act_Aor_Pv_S:3Pl_O:3Pl_IO:3	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[io]=3|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	საზორველნი	საზორველი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	obj	_	_
@@ -1406,6 +1490,7 @@
 
 # sent_id = Ezra_3_3_2
 # text = და შეწირეს მას ზედა საკუერთხი მეყსეულად უფლისა ღმრთისა თჳსისა _ ერთი ცისკარს და ერთი მწუხრი.
+# parallel_id = bible/ezra-3-3/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შეწირეს	შეწირვა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	obl	_	_
@@ -1425,6 +1510,7 @@
 
 # sent_id = Ezra_3_4
 # text = და ყვეს დღესასწაული ტაძრობისაჲ, ვითარცა წერილ არს, და საკუერთხი დღითი-დღედ ერთ რიცხუად, ვითარცა ამცნო მათ უფალმან.
+# parallel_id = bible/ezra-3-4
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	დღესასწაული	დღესასწაული	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -1448,6 +1534,7 @@
 
 # sent_id = Ezra_3_5
 # text = და შესწირვიდეს სხუათაცა საკუერთხთა თთჳსთავთა და შაბათთა და ყოველთა დღესასწაულთა წელიწადეულთა უფლისა სიწმიდეთა და ყოველთა მათ უვნებელთა, რომელთა შესცოდეს უფალსა.
+# parallel_id = bible/ezra-3-5
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შესწირვიდეს	შეწირვა	VERB	V_Act_Imp_Pv_S:3Pl_O:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=Yes
 3	სხუათაცა	სხუა	PRON	Pron_Ind_Obl_Pl	Case=Dat|Number=Plur|PronType=Ind	4	amod	_	_
@@ -1473,6 +1560,7 @@
 
 # sent_id = Ezra_3_6_1
 # text = და პირველისა მის თთჳსა მეშჳდესა იწყეს შეწირვად საკუერთხთა უფლისა ღმრთისა.
+# parallel_id = bible/ezra-3-6/part1
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	პირველისა	პირველი	NUM	A_Gen_Sg	Case=Gen|Number=Sing|NumType=Ord	4	amod	_	_
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	4	det	_	_
@@ -1487,6 +1575,7 @@
 
 # sent_id = Ezra_3_6_2
 # text = და სახლისაჲ მის უფლისაჲ არღარა დადებულ იყო საფუძველი.
+# parallel_id = bible/ezra-3-6/part2
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	სახლისაჲ	სახლი	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	8	nmod	_	_
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	4	det	_	_
@@ -1499,6 +1588,7 @@
 
 # sent_id = Ezra_3_7_1
 # text = და მისცა ვეცხლი ქვისმჴდელთა და ხუროთა და საჭმელი და სასუმელი და ზეთი.
+# parallel_id = bible/ezra-3-7/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მისცა	მიცემა	VERB	V_Act_Aor_Pv_S:3Sg_IO:3Pl	Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ვეცხლი	ვეცხლი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -1515,6 +1605,7 @@
 
 # sent_id = Ezra_3_7_2
 # text = სიდონელთა და ტჳრელთა დამოაქუნდა ნაძჳსა ძელი ლიბანით, ზღჳთ იოპეთ, ვითარცა უბრძანა კჳროს, მეფემან სპარსთამან.
+# parallel_id = bible/ezra-3-7/part2
 1	სიდონელთა	სიდონელი	PROPN	N_Prop_Obl_Pl	Case=Dat|NameType=Geo|Number=Plur	4	nsubj	_	_
 2	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 3	ტჳრელთა	ტჳრელი	PROPN	N_Prop_Obl_Pl	Case=Dat|NameType=Geo|Number=Plur	1	conj	_	_
@@ -1536,6 +1627,7 @@
 
 # sent_id = Ezra_3_8_1
 # text = და მეორესა წელსა გამოსლვისა მათისასა, რაჟამს მოვიდეს ტაძარსა მას უფლისასა იერუსალემდ, თთუესა მას მეორესა იწყეს ზორობაბელ სალათიელეანმან და ისუ იოსედეკეანმან და ძმათა მათთა და მღდელთა მათ და ლევიტელთა და ყოველთაჲ მათ მოსლვაჲ ტყუეობისა მისგან იერუსალემდ.
+# parallel_id = bible/ezra-3-8/part1
 1	და	და	CCONJ	Cj_Coord	_	17	cc	_	_
 2	მეორესა	მეორე	NUM	A_Dat_Sg	Case=Dat|Number=Sing|NumType=Ord	3	amod	_	_
 3	წელსა	წელი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	17	obl	_	_
@@ -1579,6 +1671,7 @@
 
 # sent_id = Ezra_3_8_2
 # text = დაადგინებდეს ლევიტელთა მათ, ოც წლითგან და მიმართსა, ზედამდგომელად ზედა საქმესა მას სახლისა უფლისასა.
+# parallel_id = bible/ezra-3-8/part2
 1	დაადგინებდეს	დადგინება	VERB	V_Act_Imp_Pv_AV_S:3Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 2	ლევიტელთა	ლევიტელი	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	1	obj	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Dat|Number=Plur|PronType=Dem	2	det	_	SpaceAfter=No
@@ -1600,6 +1693,7 @@
 
 # sent_id = Ezra_3_9
 # text = და ისუ და ძენი მისნი და ძმანი მისნი, კარდიელ და ძმანი მისნი და ძენი იუდაჲსნი ზედამდგომელნი ზედა საქმესა სახლისა მის უფლისასა, ძენი ენადისნი, ძენი და ძმანი მისნი ლევიტელნი.
+# parallel_id = bible/ezra-3-9
 1	და	და	CCONJ	Cj_Coord	_	17	cc	_	_
 2	ისუ	ისუ	PROPN	N_Prop	NameType=Prs	17	nsubj	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -1635,6 +1729,7 @@
 
 # sent_id = Ezra_3_10_1
 # text = და დადვეს საფუძველი და იწყეს შენებად სახლსა მას უფლისასა.
+# parallel_id = bible/ezra-3-10/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დადვეს	დადება	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	საფუძველი	საფუძველი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -1648,6 +1743,7 @@
 
 # sent_id = Ezra_3_10_2
 # text = დგეს მღდელნი იგი და შთაეცუა მათ კუართები მათი და ჰბერვიდეს ნესტუებსა თჳსსა.
+# parallel_id = bible/ezra-3-10/part2
 1	დგეს	დგომა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 2	მღდელნი	მღდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	1	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -1664,6 +1760,7 @@
 
 # sent_id = Ezra_3_10_3
 # text = და ლევიტელნი იგი და ძენი ასაფისნი წინწილაჲთა აკურთხევდეს უფალსა ღმერთსა, ვითარცა განაწესა დავით, მეფემან ისრაელისამან.
+# parallel_id = bible/ezra-3-10/part3
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	ლევიტელნი	ლევიტელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	8	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -1685,6 +1782,7 @@
 
 # sent_id = Ezra_3_11_1
 # text = და ჰრქუა კაცმან ზჳსსა თჳსსა: აუარებდით უფალსა და აქებდით, რამეთუ კეთილ, რამეთუ უკუნისამდე არს წყალობაჲ მისი ისრაელსა ზედა.
+# parallel_id = bible/ezra-3-11/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ჰრქუა	თქუმა	VERB	V_Act_Aor_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	კაცმან	კაცი	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	2	nsubj	_	_
@@ -1710,6 +1808,7 @@
 
 # sent_id = Ezra_3_11_2
 # text = და ყოველი იგი კრებული დიდითა ჴმითა აკურთხევდეს უფალსა, რამეთუ დაიდვა საფუძველი სახლისა უფლისაჲ.
+# parallel_id = bible/ezra-3-11/part2
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
@@ -1728,6 +1827,7 @@
 
 # sent_id = Ezra_3_12_1
 # text = და მრავალნი მღდელთაგანნი და ლევიტელთაგანნი და მფლობელთა მათ მამათმთავართა და მოხუცებულთა, რომელთა ეხილვა ტაძარი იგი უფლისაჲ და აწ იხილეს თუალითა თჳსითა საფუძველი მისი, ტიროდეს დიდითა ჴმითა.
+# parallel_id = bible/ezra-3-12/part1
 1	და	და	CCONJ	Cj_Coord	_	28	cc	_	_
 2	მრავალნი	მრავალი	ADJ	A_Nom_Pl	Case=Nom|Number=Plur	28	nsubj	_	_
 3-4	მღდელთაგანნი	_	_	_	_	_	_	_	_
@@ -1764,6 +1864,7 @@
 
 # sent_id = Ezra_3_12_2
 # text = და ყოველი იგი ერი სასწაულსა ჰყოფდა სიხარულისასა და აამაღლებდეს ჴმასა მათსა.
+# parallel_id = bible/ezra-3-12/part2
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
@@ -1779,6 +1880,7 @@
 
 # sent_id = Ezra_3_13
 # text = და არავინ იყო კრებულისა მისგან, რომელმანმცა შეუძლო ცნობად და სმენად ჴმაჲ იგი სიხარულისაჲ მის მათისაჲ ჴმითა მით ტირილისა მისგან სიმრავლისაჲსა, რამეთუ ერი იგი ღაღადებდა დიდითა ჴმითა და მიესმოდა ჴმაჲ იგი შორიელთა ადგილთა.
+# parallel_id = bible/ezra-3-13
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	არავინ	არავინ	PRON	Pron_Neg_Nom_Sg	Case=Nom|Number=Sing|PronType=Neg	3	nsubj	_	_
 3	იყო	ყოფა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
@@ -1823,6 +1925,7 @@
 
 # sent_id = Ezra_4_1_1
 # text = და ესმა, რომელნი-იგი აჭირვებდეს იუდასა და ბენიამენსა, ვითარმედ ძენი იგი ისრაელისანი მოქცეულ არიან ტყუეობისაგან აშენებენ სახლსა უფლისასა, ღმრთისა ისრაელისასა.
+# parallel_id = bible/ezra-4-1/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ესმა	სმენა	VERB	V_Act_Aor_EV_S:3Sg_IO:3Pl	Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Preverb=No|Version=E
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -1851,6 +1954,7 @@
 
 # sent_id = Ezra_4_2_1
 # text = და მიეახლნეს ზორობაბელს და მფლობელთა მათ მამათმთავართა და ჰრქუეს მათ: ვაშენებდეთ ჩუენ თქუენ თანა, ვითარცა თქუენ, ვითხოვთ უფლისაგან, ღმრთისა თქუენისა, რამეთუ ჩუენ ეგრე შევსწირავთ შესაწირავსა დღით მიერითგან.
+# parallel_id = bible/ezra-4-2/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მიეახლნეს	მიახლება	VERB	V_Act_Aor_Pv_EV_S:3Pl_O:3Pl_IO:3Sg	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	ზორობაბელს	ზორობაბელი	PROPN	N_Prop_Dat_Sg	Case=Dat|NameType=Prs|Number=Sing	2	obl	_	_
@@ -1889,6 +1993,7 @@
 
 # sent_id = Ezra_4_2_2
 # text = ვინაჲთგან ასარდან, მეფემან ასურასტანისამან, მოგჳყვანნა ჩუენ აქა.
+# parallel_id = bible/ezra-4-2/part2
 1	ვინაჲთგან	ვინაჲთგან	SCONJ	Cj_Sub	_	7	mark	_	_
 2	ასარდან	ასარდან	PROPN	N_Prop	Case=Erg|NameType=Prs|Number=Sing	7	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -1902,6 +2007,7 @@
 
 # sent_id = Ezra_4_3_1
 # text = და ჰრქუა მათ ზორობაბელ და ისუ იოსედეკეანმან და ნეშტთა მათ მფლობელთა, მამათმთავართა ისრაელისათა: არა წეს-არს ჩუენდა და თქუენდა ერთბამად აღშენებად სახლისა უფლისა, ღმრთისა ჩუენისაჲ.
+# parallel_id = bible/ezra-4-3/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ჰრქუა	თქუმა	VERB	V_Act_Aor_S:3Sg_IO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Dat|Number=Plur|PronType=Dem	2	iobj	_	_
@@ -1933,6 +2039,7 @@
 
 # sent_id = Ezra_4_3_2
 # text = ჩუენ თჳთ აღვაშენოთ სახლი უფლისა, ღმრთისა ჩუენისაჲ, ვითარცა გჳბრძანა ჩუენ კჳროს, მეფემან სპარსთამან.
+# parallel_id = bible/ezra-4-3/part2
 1	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl_Nom	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
 2	თჳთ	თჳთ	ADV	Adv	_	3	advmod	_	_
 3	აღვაშენოთ	აღშენება	VERB	V_Act_Subj_Pv_AV_S:1Pl_O:3	Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -1953,6 +2060,7 @@
 
 # sent_id = Ezra_4_4
 # text = და ერი იგი მის ქუეყანისაჲ დააშთინებდა ჴელთა კრებულისა მის ჰურიასტანისათა და დააბრკოლებდეს შენებისა მისგან.
+# parallel_id = bible/ezra-4-4
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ერი	ერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -1973,6 +2081,7 @@
 
 # sent_id = Ezra_4_5
 # text = და დაიდგინნეს მორეწენი და ზრახვიდეს, ვითარმცა დააბრკოლნეს იგინი ყოველთა დღეთა კჳროს მეფისა სპარსთაჲსა, ვიდრე დღედმდე დარელ მეფისა სპარსთაჲსა.
+# parallel_id = bible/ezra-4-5
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დაიდგინნეს	დადგინება	VERB	V_Act_Aor_Pv_IV_S:3Pl_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	მორეწენი	მორეწე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	obj	_	_
@@ -1999,6 +2108,7 @@
 
 # sent_id = Ezra_4_6
 # text = შარავანდედებასა ასარსურაისსა სპარსთა ზედა, დასაბამსა შარავანდედებისა მისისასა, მიწერეს წიგნი, რომელნი დამკჳდრებულ იყვნეს ჰურიასტანს შინა და იერუსალემს.
+# parallel_id = bible/ezra-4-6
 1	შარავანდედებასა	შარავანდედება	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	10	obl	_	_
 2	ასარსურაისსა	ასარსურაისი	PROPN	N_Prop_Gen_Sg_Dat_Sg	Case=Gen|Case[sauf]=Dat|NameType=Prs|Number=Sing|Number[sauf]=Sing	1	nmod	_	_
 3	სპარსთა	სპარსი	PROPN	N_Prop_Obl_Pl	Case=Dat|NameType=Geo|Number=Plur	1	nmod	_	_
@@ -2022,6 +2132,7 @@
 
 # sent_id = Ezra_4_7
 # text = დღეთა არტასესთ მეფისა სპარსთაჲსა მიწერა ხარკისმომჴდელმან მან წიგნი ასურებრი, და იყო იგი გამოთარგმნებულ.
+# parallel_id = bible/ezra-4-7
 1	დღეთა	დღე	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	5	obl	_	_
 2	არტასესთ	არტასესთ	PROPN	N_Prop	Case=Gen|NameType=Prs|Number=Sing	1	nmod	_	_
 3	მეფისა	მეფე	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	2	appos	_	_
@@ -2040,6 +2151,7 @@
 
 # sent_id = Ezra_4_8
 # text = ერეუმ, ბაალტემ და სამსაი მწერალმან მიწერა წიგნი ერთი იერუსალემისათჳს ართასათ მეფისა.
+# parallel_id = bible/ezra-4-8
 1	ერეუმ	ერეუმ	PROPN	N_Prop	NameType=Prs	7	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	ბაალტემ	ბაალტემ	PROPN	N_Prop	NameType=Prs	1	conj	_	_
@@ -2058,6 +2170,7 @@
 
 # sent_id = Ezra_4_9
 # text = ესე გამოირჩიეს ერეუმ, ბაალტამ და სამსაი მწერალმან და სხუათა მონათა და მოდგამთა ჩუენთა: დენეე, აფასათაქაიე, ტარფალიე, ალფარსიე, აქუვე, ბაბილვნიე, სუსაან, ქეედა, უეღე,
+# parallel_id = bible/ezra-4-9
 1	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	obj	_	_
 2	გამოირჩიეს	გამორჩევა	VERB	V_Act_Aor_Pv_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	ერეუმ	ერეუმ	PROPN	N_Prop	NameType=Prs	2	nsubj	_	SpaceAfter=No
@@ -2094,6 +2207,7 @@
 
 # sent_id = Ezra_4_10
 # text = და სხუანი იგი დაშთომილნი ნათესავნი, რომელნი-იგი დაამკჳდრნა სჳნაფარ დიდმან და პატიოსანმან და დაამკჳდრნა ქუეყანასა, ქალაქსა სომორონს, ესე არს სამარიაჲ, და ნეშტნი იგი წიაღ მდინარესა მას.
+# parallel_id = bible/ezra-4-10
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	სხუანი	სხუა	PRON	Pron_Ind_Nom_Pl	Case=Nom|Number=Plur|PronType=Ind	5	amod	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	5	det	_	_
@@ -2127,6 +2241,7 @@
 
 # sent_id = Ezra_4_11
 # text = ესე არიან სიტყუანი მის წიგნისანი, რომელნი-იგი მიუძღუანნეს მათ: ართასასთ მეფესა, მონანი შენნი, კაცნი, რომელნი დამკჳდრებულ არიან წიაღ მდინარესა.
+# parallel_id = bible/ezra-4-11
 1	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	არიან	ყოფა	AUX	V_Act_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	სიტყუანი	სიტყუა	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	0	root	_	_
@@ -2154,6 +2269,7 @@
 
 # sent_id = Ezra_4_12
 # text = აწ უწყებულ იყავნ შენდა, მეფისა, რამეთუ ჰურიანი ესე, რომელ მოვიდეს აქა შენგან ჩუენდა, შევიდეს ქალაქსა იერუსალემსა, განდგომილსა და განმამწარებელსა, რომელსა აწცა აშენებენ და ზღუდეთა მისთა აღმართებაჲ ჰნებავს და საფუძველთა მისთა აღამაღლებენ.
+# parallel_id = bible/ezra-4-12
 1	აწ	აწ	ADV	Adv	_	2	advmod	_	_
 2	უწყებულ	უწყება	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=No
 3	იყავნ	ყოფა	AUX	V_Act_Imp_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
@@ -2197,6 +2313,7 @@
 
 # sent_id = Ezra_4_13
 # text = და აწ უწყებულ იყავნ შენდა, მეფე, უკუეთუ ქალაქი ესე აეშენოს და ზღუდენი მისნი აღემაღლნენ, ხარკი შენ არავინ მოგცეს და მჴდომ ექმნენ მეფეთა.
+# parallel_id = bible/ezra-4-13
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	აწ	აწ	ADV	Adv	_	3	advmod	_	_
 3	უწყებულ	უწყება	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=No
@@ -2226,6 +2343,7 @@
 
 # sent_id = Ezra_4_14
 # text = და ესრეთ წარმდებად და მჴდომად აღუდგენ მეფეთა და ჩუენ არა გუნებავს ხილვად. და ამის ყოვლისათჳს მივწერეთ შენდა, მეფე,
+# parallel_id = bible/ezra-4-14
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ესრეთ	ესრეთ	ADV	Adv	_	6	advmod	_	_
 3	წარმდებად	წარმდები	VERB	V_Masd_Adv	Case=Ess|VerbForm=Vnoun	6	xcomp	_	Preverb=No
@@ -2252,6 +2370,7 @@
 
 # sent_id = Ezra_4_15
 # text = რაჲთა იხილო და ძიება ჰყო მატიანთა საჴსენებელსა მამათა შენთასა და ჰპოვო და გულისჴმა-ჰყო, ვითარმედ ქალაქი ესე განდგომილთაჲ არს
+# parallel_id = bible/ezra-4-15
 1	რაჲთა	რაჲთა	SCONJ	Cj_Sub	_	2	mark	_	_
 2	იხილო	ხილვა	VERB	V_Act_Aor_Subj_IV_S:2Sg	Mood=Sub|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
@@ -2276,6 +2395,7 @@
 
 # sent_id = Ezra_4_16_1
 # text = აწ გაუწყებთ თქუენ, მეფესა, უკუეთუ ქალაქი ესე აღეშენოს და ზღუდენი ამისნი აღემართნენ, არა იყოს შენდა მშჳდობა.
+# parallel_id = bible/ezra-4-16/part1
 1	აწ	აწ	ADV	Adv	_	2	advmod	_	_
 2	გაუწყებთ	უწყება	VERB	V_Act_Pres_AV_S:1Pl_O:2	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No|Version=U
 3	თქუენ	თქუენ	PRON	Pron_Pers_2Pl	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	SpaceAfter=No
@@ -2299,6 +2419,7 @@
 
 # sent_id = Ezra_4_17
 # text = და მიწერა მეფემან ჰრეუმ ბალტემისა და სამასაი მწერალისა და სხუათა მონათა და მოდგამთა მათთა, რომელნი დამკჳდრებულ იყვნეს სამარიას, და ნეშტთა მათ წიაღ მდინარისათა: "მშჳდობაჲ თქუენ თანა". და ჰრქუა:
+# parallel_id = bible/ezra-4-17
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მიწერა	მიწერა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მეფემან	მეფე	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	2	nsubj	_	_
@@ -2337,6 +2458,7 @@
 
 # sent_id = Ezra_4_18
 # text = ხარკისმომჴდელნი ესე, რომელ მოავლინენით ჩემდა, მოვიდეს ჩემ წინაშე
+# parallel_id = bible/ezra-4-18
 1	ხარკისმომჴდელნი	ხარკისმომჴდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	8	nsubj	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	1	det	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -2351,6 +2473,7 @@
 # note = lemma uncertain for საუკუნითგან
 # sent_id = Ezra_4_19
 # text = და გულისჴმა-მიყვეს მე ყოველივე, და მივიწიე და ვპოვე, რამეთუ ქალაქი ეგე საუკუნითგან ჟამთა განდგომილ არს და მჴდომ მეფეთა ყოველთა.
+# parallel_id = bible/ezra-4-19
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2-3	გულისჴმა-მიყვეს	_	_	_	_	_	_	_	_
 2	გულისჴმა	გულისჴმა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	3	compound:lvc	_	_
@@ -2381,6 +2504,7 @@
 # note = lemma uncertain for თავსმოთნებით
 # sent_id = Ezra_4_20
 # text = და მეფენი ძლიერნი და ფიცხელნი და დადგრომილ იერუსალემს, და განძლიერდეს და დაიპყრეს ყოველი ქუეყანაჲ მზის დასავალით კერძო, წიაღ ევფრატსა მდინარესა. აწ დასდევით მათ ზედა ხარკი და ზუერი, რაჲთა არა მერმეცა თავსმოთნებით განლაღნენ.
+# parallel_id = bible/ezra-4-20
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	მეფენი	მეფე	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	7	nsubj	_	_
 3	ძლიერნი	ძლიერი	ADJ	A_Nom_Pl	Case=Nom|Number=Plur	2	amod	_	_
@@ -2421,6 +2545,7 @@
 
 # sent_id = Ezra_4_21
 # text = აწ გაუწყებ თქუენ: მივედით და დააყენენით იგინი და დააბრკოლეთ საქმე იგი მათი, რაჲთა არა აღიშენონ ქალაქი იგი მათი.
+# parallel_id = bible/ezra-4-21
 1	აწ	აწ	ADV	Adv_Time	_	2	advmod	_	_
 2	გაუწყებ	უწყება	VERB	V_Act_Pres_AV_S:1Sg_O:2	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No|Version=A
 3	თქუენ	თქუენ	PRON	Pron_Pers_2Pl	Case=Dat|Number=Plur|Person=2|PronType=Prs	2	iobj	_	SpaceAfter=No
@@ -2445,6 +2570,7 @@
 
 # sent_id = Ezra_4_22
 # text = ნუ შეუნდობთ მათ, ნუცა მიუტეობთ, არამედ გულსა დაიდევით და მოჰჴადეთ ყოველი ხარკი მათი და ზუერი, რაჲთა არა განმრავლდენ და განძლიერდენ და აღუდგენ მჴდომად მეფეთა დიდთა
+# parallel_id = bible/ezra-4-22
 1	ნუ	ნუ	ADV	Part_Neg_Imp	Polarity=Neg	2	advmod:neg	_	_
 2	შეუნდობთ	შენდობა	VERB	V_Act_Pres_Pv_UV_S:2Pl_IO:3	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=Yes|Version=U
 3	მათ	იგი	PRON	Pron_Pers_3Pl_Dat	Case=Dat|Number=Plur|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -2476,6 +2602,7 @@
 
 # sent_id = Ezra_4_23_1
 # text = მას ჟამსა ხარკისმომჴდელმან მან ართასასთ მეფისამან (ესე რომელ არს არტახშესისი), მოიღო და აღმოიკითხა წიგნი იგი წინაშე ჰრეუმის და საის მწერლისა და მონათა და მოდგამთა მათთა.
+# parallel_id = bible/ezra-4-23/part1
 1	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|Person=3|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	14	obl	_	_
 3	ხარკისმომჴდელმან	ხარკისმომჴდელი	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	14	nsubj	_	_
@@ -2508,6 +2635,7 @@
 
 # sent_id = Ezra_4_23_2
 # text = და აღვიდეს მსწრაფლ იერუსალემდ და ჰურიასტანდ დიდითა ძლიერებითა და მჴედრებითა.
+# parallel_id = bible/ezra-4-23/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღვიდეს	აღსვლა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მსწრაფლ	მსწრაფლ	ADV	Adv	_	2	advmod	_	_
@@ -2522,6 +2650,7 @@
 
 # sent_id = Ezra_4_24_1
 # text = და დააყენნეს და დააბრკოლნეს ერნი იგი შენებისა მისგან, მას ჟამსა დაბრკოლებულ, მოცალე იქმნა საქმე იგი ტაძრისა ღმრთისაჲ იერუსალემს.
+# parallel_id = bible/ezra-4-24/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დააყენნეს	დაყენება	VERB	V_Act_Aor_Pv_AV_S:3Pl_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -2548,6 +2677,7 @@
 
 # sent_id = Ezra_4_24_2
 # text = და იყო მოცალებულ ვიდრე მეორედ წლადმდე დარელ მეფისა სპარსთაჲსა.
+# parallel_id = bible/ezra-4-24/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყო	ყოფა	AUX	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	მოცალებულ	მოცალება	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=No
@@ -2563,6 +2693,7 @@
 
 # sent_id = Ezra_5_1
 # text = და წინაწარმეტყუელებდეს ანგეა და ზაქარია ადდოვიაჲ, წინაწარმეტყუელებდეს ზედა ჰურიასტანსა და იერუსალემსა, სახლსა ღმრთისა ისრაელისასა.
+# parallel_id = bible/ezra-5-1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	წინაწარმეტყუელებდეს	წინაწარმეტყუელება	VERB	V_Act_Imp_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=No
 3	ანგეა	ანგეა	PROPN	N_Prop	NameType=Prs	2	nsubj	_	_
@@ -2583,6 +2714,7 @@
 
 # sent_id = Ezra_5_2
 # text = მას ჟამსა აღდგეს ზორობაბელ სალათიელეანი და ისუ იოსედეკეანი, იწყეს შენებად სახლისაჲ მის უფლისა ღმრთისა იერუსალემს, და ერთსიტყუა იყვნეს მათ თანა, წინაწარმეტყუელნი იგი ღმრთისანი შეეწეოდეს მათ.
+# parallel_id = bible/ezra-5-2
 1	მას	იგი	PRON	Pron_Dem_Dat	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	_	_
 3	აღდგეს	აღდგომა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -2615,6 +2747,7 @@
 
 # sent_id = Ezra_5_3
 # text = მას ჟამსა მოვიდა მათა თათანი, მთავარი იგი, ევფრატით მდინარით კერძოჲ და საფრაბუზან და მონათმოდგამნი მათნი, და ჰრქუეს მათ: ვინ გიბრძანა შენებაჲ სახლისაჲ მაგის თქუენ, ანუ ვისითა სიტყჳთა აღჰმართენით თქუენ გოდოლნი მაგისნი?
+# parallel_id = bible/ezra-5-3
 1	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	_	_
 3	მოვიდა	მოსლვა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -2655,6 +2788,7 @@
 
 # sent_id = Ezra_5_4
 # text = ანუ რაჲ ჰრქჳან სახელი კაცთა მაგათ, რომელნი წინამძღუარ არიან შენებისათჳს ამის ქალაქისაჲსა?
+# parallel_id = bible/ezra-5-4
 1	ანუ	ანუ	CCONJ	Cj_Coord	_	3	cc	_	_
 2	რაჲ	რა	PRON	Pron_Int_Nom	Case=Nom|Number=Sing|PronType=Int	4	amod	_	_
 3	ჰრქჳან	თქუმა	VERB	V_Act_Iter2_S:3Pl_IO:3	Aspect=Iter|Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
@@ -2674,6 +2808,7 @@
 
 # sent_id = Ezra_5_5
 # text = და იყვნეს თუალნი უფლისანი ზედა ჰურიათა, მოქცეულთა მათ ტყუეობისაგან, და არა დააყენნეს იგინი, ვიდრემდის აუწყონ დარელს მეფესა. და მაშინ წარავლინეს ხარკისამომჴდელი იგი ამის საქმისათჳს,
+# parallel_id = bible/ezra-5-5
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყვნეს	ყოფა	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	თუალნი	თუალი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	nsubj	_	_
@@ -2710,6 +2845,7 @@
 
 # sent_id = Ezra_5_6
 # text = რაჲთა მეცნიერ იქმნენ წიგნთა, რომელ-იგი წარავლინეს თათანაელ, მთავარმან მან მდინარით კერძომან, და სათრაბუზმან და მოდგამთა მათთა და აფარასაქეე მდინარით კერძოჲ, დარელ მეფისა,
+# parallel_id = bible/ezra-5-6
 1	რაჲთა	რაჲთა	SCONJ	Cj_Sub	_	3	mark	_	_
 2	მეცნიერ	მეცნიერი	ADJ	A_Abs_Sg	Case=Abs|Number=Sing	3	xcomp	_	_
 3	იქმნენ	ქმნა	VERB	V_Pass_Aor_Subj_IV_S:3Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
@@ -2740,6 +2876,7 @@
 
 # sent_id = Ezra_5_7
 # text = რეისიმ მიავლინნა მისა და ესრეთ წერილ იყო დარელ მეფისა: "მშჳდობაჲ მრავალი თქუენდა!
+# parallel_id = bible/ezra-5-7
 1	რეისიმ	რეისიმ	PROPN	N_Prop	NameType=Prs	2	nsubj	_	_
 2	მიავლინნა	მივლინება	VERB	V_Act_Aor_Pv_AV_S:3Sg_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	მისა	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	2	obl	_	_
@@ -2758,6 +2895,7 @@
 
 # sent_id = Ezra_5_8_1
 # text = უწყებულ იყავნ მეფისა, რამეთუ მივედით ჩუენ ქუეყანად ჰურიასტანისად, ქალაქად იერუსალემდ, და ვიხილეთ ტაძარი უფლისა ღმრთისა დიდისაჲ, რამეთუ აშენებდეს რჩეულითა ქვითა და ძელთა სათხეპელად უპყრობდეს კედელთა მისთა.
+# parallel_id = bible/ezra-5-8/part1
 1	უწყებულ	უწყება	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=No
 2	იყავნ	ყოფა	AUX	V_Act_Aor_Imp_IV_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	1	aux	_	_
 3	მეფისა	მეფე	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	1	iobj	_	SpaceAfter=No
@@ -2792,6 +2930,7 @@
 
 # sent_id = Ezra_5_8_2
 # text = და საქმე იგი იყო წარმართებულ და განმარჯუებულ ჴელთა შინა მათთა.
+# parallel_id = bible/ezra-5-8/part2
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	საქმე	საქმე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	5	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -2806,6 +2945,7 @@
 
 # sent_id = Ezra_5_9
 # text = მაშინ ვჰკითხეთ მოხუცებულთა მათთა და ვარქუთ მათ: ვინ გიბრძანა თქუენ ამის სახლისა შენებაჲ, ანუ ვისითა სიტყჳთა დაამტკიცეთ ეგე?
+# parallel_id = bible/ezra-5-9
 1	მაშინ	მაშინ	ADV	Adv	_	2	advmod	_	_
 2	ვჰკითხეთ	კითხვა	VERB	V_Act_Aor_S:1Pl_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	მოხუცებულთა	მოხუცებული	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	2	iobj	_	_
@@ -2830,6 +2970,7 @@
 
 # sent_id = Ezra_5_10
 # text = და ვჰკითხეთ სახელი კაცთაჲ მათ წინამძღუართაჲ, რაჲთამცა გაუწყეთ შენ ესე, და მი-მცა-ვწერენით სახელნი კაცთაჲ მათ და მთავართა მათთაჲ
+# parallel_id = bible/ezra-5-10
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ვჰკითხეთ	კითხვა	VERB	V_Act_Aor_S:1Pl_IO:3Pl	Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	სახელი	სახელი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -2855,6 +2996,7 @@
 
 # sent_id = Ezra_5_11
 # text = და ესე მომიგეს ჩუენ ჰურიათა მათ და მრქუეს ჩუენ: ჩუენ ვართ მონანი უფლისა ღმრთისა ცისა და ქუეყანისანი, და ვაშენებთ სახლსა მას, ვითარცა შენებულ იყო უწინარეს მრავლისა წლისა, რომელი-იგი აღაშენა მეფემან ისრაელისამან დიდმან მან სოლომონ, მსგავსად მის სახლისაებრ ჩუენცა დავამტკიცოთ ესე.
+# parallel_id = bible/ezra-5-11
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	obj	_	_
 3	მომიგეს	მოგება	VERB	V_Act_Aor_Pv_IV_S:3Pl_IO:1	Mood=Ind|Number[io]=Plur|Number[subj]=Plur|Person[io]=1|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
@@ -2904,6 +3046,7 @@
 
 # sent_id = Ezra_5_12
 # text = რამეთუ მამათა ჩუენთა განარისხეს ღმერთი ცისაჲ და ქუეყნისაჲ და მისცნა იგინი ჴელთა ნაბუქოდონოსორ მეფისა ბაბილონელთაჲსა და ქალდეველთაჲსა და სახლი ესე აღაოჴრა და ერი იგი ჰმსახურებდა ბაბილონს.
+# parallel_id = bible/ezra-5-12
 1	რამეთუ	რამეთუ	SCONJ	Cj_Sub	_	4	mark	_	_
 2	მამათა	მამა	NOUN	N_Obl_Pl	Case=Erg|Number=Plur	4	nsubj	_	_
 3	ჩუენთა	ჩუენი	PRON	Pron_Poss_1Pl_Obl_Pl	Case=Erg|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	_
@@ -2934,6 +3077,7 @@
 
 # sent_id = Ezra_5_13
 # text = და პირველსა წელსა კჳროს მეფისა ბაბილოვნელთაჲსა კჳროს მეფემან ბრძანა შენებაჲ სახლისა ამის უფლისა ღმრთისაჲ.
+# parallel_id = bible/ezra-5-13
 1	და	და	CCONJ	Cj_Coord	_	10	cc	_	_
 2	პირველსა	პირველი	NUM	A_Dat_Sg	Case=Dat|Number=Sing|NumType=Ord	3	amod	_	_
 3	წელსა	წელი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	9	obl	_	_
@@ -2952,6 +3096,7 @@
 
 # sent_id = Ezra_5_14
 # text = და ჭურჭელი იგი სახლისა მის უფლისა ღმრთისაჲ, ვეცხლისაჲ და ოქროჲსაჲ, რომელ-იგი წარიღო ნაბუქოდონოსორ იერუსალემით, და მოვიდა და მოიღო სახლთა ღმერთთა თჳსთასა, გამოიღო იგი კჳროს მეფემან სახლით სამეუფოჲთ და მისცა სამნასარს მეფასესა.
+# parallel_id = bible/ezra-5-14
 1	და	და	CCONJ	Cj_Coord	_	26	cc	_	_
 2	ჭურჭელი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	26	dislocated	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -2991,6 +3136,7 @@
 
 # sent_id = Ezra_5_15
 # text = და ჰრქუა მას: ყოველივე სამსახურებელი ჭურჭერი აღიღე და მიიღე სახლსა უფლისა ღმრთისასა, რომელ-იგი არს იერუსალემს, და მიიღე ჭურჭერი ეგე ადგილსა თჳსსა.
+# parallel_id = bible/ezra-5-15
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ჰრქუა	თქუმა	VERB	V_Act_Aor_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	iobj	_	SpaceAfter=No
@@ -3019,6 +3165,7 @@
 
 # sent_id = Ezra_5_16
 # text = მას ჟამსა სამნასარ მოვიდა და დადვა საფუძველი სახლისა მის უფლისა ღმრთისაჲ იერუსალემს, და მიერითგან ვაშენებთ და არღა აღგჳსრულებიეს.
+# parallel_id = bible/ezra-5-16
 1	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	4	obl	_	_
 3	სამნასარ	სამნასარი	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	4	nsubj	_	_
@@ -3042,6 +3189,7 @@
 
 # sent_id = Ezra_5_17
 # text = აწ თუ ჯერ-გიჩნდეს შენ, მეფესა ძიება ყავ და იხილე სახლთა და სამარხველთა წიგნთა საჴსენებელთა მეფეთა ბაბილონისთაჲსა, რაჲთა გულისჴმა-ჰყო, უკუეთუ ნანდჳლვე კჳროს მეფემან ბრძანა შენებაჲ სახლისაჲ მის უფლისაჲ ჰურიასტანს და იერუსალემს და მეცნიერ იქმენ შენ, მეფჱ, ამის საქმისათჳს მოწერე ჩუენდა.
+# parallel_id = bible/ezra-5-17
 1	აწ	აწ	ADV	Adv	_	4	advmod	_	_
 2	თუ	თუ	SCONJ	Cj_Sub	_	4	mark	_	_
 3	ჯერ-გიჩნდეს	ჯერ-ჩნდება	VERB	V_Act_Subj_IV_S:3Sg_IO:2	Mood=Sub|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|VerbForm=Fin	7	advcl	_	Preverb=No|Version=I
@@ -3092,6 +3240,7 @@
 
 # sent_id = Ezra_6_1
 # text = მას ჟამსა დარელ მეფემან ძიება ყო და პოვა სახლსა მატიანთასა, საჴსენებელთა ბაბილონელთასა,
+# parallel_id = bible/ezra-6-1
 1	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	6	obl	_	_
 3	დარელ	დარელ	PROPN	N_Prop	NameType=Prs	6	nsubj	_	_
@@ -3109,6 +3258,7 @@
 
 # sent_id = Ezra_6_2_1
 # text = და პოვა იამათიას, ქალაქსა ბატანაიელთასა თავი ერთი წიგნი ტომარი,
+# parallel_id = bible/ezra-6-2/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	პოვა	პოვნა	VERB	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	იამათიას	იამათია	PROPN	N_Prop_Dat_Sg	Case=Dat|NameType=Geo|Number=Sing	2	obl	_	SpaceAfter=No
@@ -3123,6 +3273,7 @@
 
 # sent_id = Ezra_6_2_2
 # text = და ესრე წერილ იყო წიგნსა მას საჴსენებელთასა:
+# parallel_id = bible/ezra-6-2/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესრე	ესრე	ADV	Adv_Dem	_	3	advmod	_	_
 3	წერილ	წერა	VERB	V_PastPart_Abs	Case=Abs|Tense=Past|VerbForm=Part	0	root	_	Preverb=No
@@ -3134,6 +3285,7 @@
 
 # sent_id = Ezra_6_3_1
 # text = "წელსა პირველსა კჳროს მეფისასა კჳროს მეფემან უბრძანა სახლისა უფლისაჲ, რომელ არს იერუსალემს, და თქუა: აღიშენენ ტაძარი უფლისაჲ და ადგილი, სადა შეწირონ შესაწირავი უფლისაჲ.
+# parallel_id = bible/ezra-6-3/part1
 1	"	"	PUNCT	Punct_Quote	_	8	punct	_	SpaceAfter=No
 2	წელსა	წელი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	obl	_	_
 3	პირველსა	პირველი	NUM	A_Dat_Sg	Case=Dat|Number=Sing|NumType=Ord	2	amod	_	_
@@ -3166,6 +3318,7 @@
 
 # sent_id = Ezra_6_3_2
 # text = და მისცა ზომი სიმაღლისაჲ სამეოც წყრთა და სივრცისაჲ სამეოც წყრთა,
+# parallel_id = bible/ezra-6-3/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მისცა	მიცემა	VERB	V_Act_Aor_Pv_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ზომი	ზომი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -3180,6 +3333,7 @@
 
 # sent_id = Ezra_6_4_1
 # text = და სამი ჯერი ქვათაგან ძლიერთაჲ და ჯერი ერთი ძელი.
+# parallel_id = bible/ezra-6-4/part1
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	სამი	სამი	NUM	Num_Nom_Sg	Case=Nom|Number=Sing|NumType=Card	3	nummod	_	_
 3	ჯერი	ჯერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
@@ -3195,6 +3349,7 @@
 
 # sent_id = Ezra_6_4_2
 # text = და ესრეთ აღიშენენ და დაირთუენ ყოველი იგი ტაძარი.
+# parallel_id = bible/ezra-6-4/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესრეთ	ესრეთ	ADV	Adv_Dem	_	3	advmod	_	_
 3	აღიშენენ	აღშენება	VERB	V_Pass_Aor_Imp_Pv_IV_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -3207,6 +3362,7 @@
 
 # sent_id = Ezra_6_5
 # text = და ჭურჭერი იგი სახლისა უფლისაჲ, ოქროჲსაჲ და ვეცხლისაჲ, რომელი-იგი წარმოიღო ნაბუქოდონოსორ სახლისა მისგან უფლისა იერუსალემით და დადვა ბაბილონს, აწ მიეცით და მიიღეთ ადგილად ტაძრად უფლისა იერუსალემდ, და მივედით და მიიღეთ ადგილად თჳსად, სახლსა ღმრთისასა.
+# parallel_id = bible/ezra-6-5
 1	და	და	CCONJ	Cj_Coord	_	23	cc	_	_
 2	ჭურჭერი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	23	obj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -3252,6 +3408,7 @@
 
 # sent_id = Ezra_6_6
 # text = აწ მიეცით წიგნი ბრძანებისაჲ მთავრისაჲ მის მდინარით კერძოჲსა სათრაბუზანს და მონათმოდგამთა თჳსთა აფარსაქეეს მდინარით კერძოსა და უფროჲსღა შორიელთა ადგილთა.
+# parallel_id = bible/ezra-6-6
 1	აწ	აწ	ADV	Adv_Time	_	2	advmod	_	_
 2	მიეცით	მიცემა	VERB	V_Act_Aor_Imp_Pv_EV_S:2Pl_IO:3	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=E
 3	წიგნი	წიგნი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -3275,6 +3432,7 @@
 
 # sent_id = Ezra_6_7
 # text = აწ ამიერითგან მიუშჳთ შენებაჲ სახლისა მის ღმრთისაჲ მთავართა მათ და ჰურიათა და მოხუცებულთა მათ ისრაელისათა და აღაშენეთ სახლი იგი ღმრთისაჲ ადგილსავე თჳსსა.
+# parallel_id = bible/ezra-6-7
 1	აწ	აწ	ADV	Adv_Time	_	3	advmod	_	_
 2	ამიერითგან	ამიერითგან	ADV	Adv	_	3	advmod	_	_
 3	მიუშჳთ	შუება	VERB	V_Act_Aor_Imp_Pv_UV_S:2Pl_IO:3	Mood=Imp|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=U
@@ -3301,6 +3459,7 @@
 
 # sent_id = Ezra_6_8
 # text = და მე მიბრძანებიეს, რაჲთა არღარავინ აყენებდეს მოხუცებულთა ჰურიასტანისანისათა აღშენებად სახლისა უფლისა, ღმრთისა თჳსისასა, და ჴელმწიფებისაგან სუფევისა ჩემისაჲსა, რომელ არიან ხარკისმომჴდელნი მდინარით კერძონი, ყოვლითა კრძალულებითა მისცედ საჴმარი კაცთა მაგათ და ნუმცა დააბრკოლებენ.
+# parallel_id = bible/ezra-6-8
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	მე	მე	PRON	Pron_Pers_1Sg	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	მიბრძანებიეს	ბრძანება	VERB	V_Act_Perf_Pv_IV_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pf|VerbForm=Fin	0	root	_	SpaceAfter=No|Preverb=Yes|Version=I
@@ -3345,6 +3504,7 @@
 
 # sent_id = Ezra_6_9
 # text = შვილნი კუროთანი და ვერძთანი, წელიწადეულნი საკუერთხად უფლისა ღმრთისა ზეცათაჲსა; იფქლი და მარილი და ღჳნოჲ და ზეთი, ვითარცა გიბრძანონ მღდელთმოძღუართა მათ იერუსალემისთა, იყავნ დაუბრკოლებელად მიცემულ დღითი დღედ, ვითარცა იგინი მიიღებდენ.
+# parallel_id = bible/ezra-6-9
 1	შვილნი	შვილი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	28	nsubj	_	_
 2	კუროთანი	კურო	NOUN	N_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf]=Nom|Number=Plur|Number[sauf]=Plur	1	nmod	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -3383,6 +3543,7 @@
 
 # sent_id = Ezra_6_10
 # text = და შეწირეთ მსხუერპლი სულნელი უფლისა, ღმრთისა ზეცათაჲსა, და ლოცვა-ყვედ ცხორებისათჳს მეფისაჲსა და ძისა მისისა.
+# parallel_id = bible/ezra-6-10
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შეწირეთ	შეწირვა	VERB	V_Act_Aor_Imp_Pv_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მსხუერპლი	მსხუერპლი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -3407,6 +3568,7 @@
 
 # sent_id = Ezra_6_11_1
 # text = და ჩემგან განვიდა ბრძანებაჲ ესე, და ყოველი კაცი, რომელი წინა-აღუდგეს ბრძანებასა ჩემსა, დაარღჳეთ სახლი მისი და მიიღეთ ძელი სახლისაგან მისისა და აჰმართეთ ძელი იგი და დაჰმშჭუალეთ კაცი იგი მას ზედა, რომელი წინა-აღუდგეს ბრძანებასა ჩემსა.
+# parallel_id = bible/ezra-6-11/part1
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2-3	ჩემგან	_	_	_	_	_	_	_	_
 2	ჩემ	მე	PRON	Pron_Pers_1Sg_Obl	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
@@ -3453,6 +3615,7 @@
 
 # sent_id = Ezra_6_11_2
 # text = და იყავნ მისა საყუედრელად საუკუნოდ.
+# parallel_id = bible/ezra-6-11/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყავნ	ყოფა	VERB	V_Act_Imp_IV_S:3Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	მისა	იგი	PRON	Pron_Pers_3Sg_Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
@@ -3462,6 +3625,7 @@
 
 # sent_id = Ezra_6_12_1
 # text = და ღმერთმან, რომლისაჲ დამკჳდრებულ არს სახელი მისი მას ზედა, განჴრწენინ და დაარღჳენ მეუფებაჲ და ერი, რომელი წარმდებ იქმნა და აღყო ჴელი თჳსი დაყენებად და განრყუნად სახლისა მის უფლისა ღმრთისა, რომელ-იგი არს იერუსალემს.
+# parallel_id = bible/ezra-6-12/part1
 1	და	და	CCONJ	Cj_Coord	_	12	cc	_	_
 2	ღმერთმან	ღმერთი	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -3502,6 +3666,7 @@
 
 # sent_id = Ezra_6_12_2
 # text = მე, დარელ მეფემან, დავდევ ბრძანებაჲ ესე და ნუვის უფლიეს გარდასლვად."
+# parallel_id = bible/ezra-6-12/part2
 1	მე	მე	PRON	Pron_Pers_1Sg_Erg	Case=Erg|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	დარელ	დარელ	PROPN	N_Prop	NameType=Prs	1	appos	_	_
@@ -3519,6 +3684,7 @@
 
 # sent_id = Ezra_6_13
 # text = მას ჟამსა მთავარი იგი მდინარით კერძოჲ და სათრაბუზმან და მონათმოდგამნი მათნი, რომელ-იგი მიწერა დარელ მეფემან, მსწრაფლ აღასრულეს ბრძანებაჲ იგი მისი.
+# parallel_id = bible/ezra-6-13
 1	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
 2	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	19	obl	_	_
 3	მთავარი	მთავარი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	19	nsubj	_	_
@@ -3545,6 +3711,7 @@
 
 # sent_id = Ezra_6_14
 # text = და მოხუცებულნი ჰურიათანი აშენებდეს და ლევიტელნი იგი, ჟამთა მათ წინაწარმეტყუელებისათა ანგეაჲსთა და ზაქარიაჲსთა, ძისა ადდოვეაჲსისა, აღაშენეს და დაამტკიცეს ბრძანებისა მისებრ უფლისა, ღმრთისა ისრაელისა, ვითარცა უბრძანა კჳროს მეფემან და დარელ და ჟამთა ართასასისთა, მეფისა სპარსთაჲსა.
+# parallel_id = bible/ezra-6-14
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	მოხუცებულნი	მოხუცებული	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	4	nsubj	_	_
 3	ჰურიათანი	ჰურია	PROPN	N_Prop_Obl_Pl_Nom_Pl	Case=Gen|Case[sauf]=Nom|NameType=Geo|Number=Plur|Number[sauf]=Plur	2	nmod	_	_
@@ -3589,6 +3756,7 @@
 
 # sent_id = Ezra_6_15
 # text = რომელსა დღესა სამ იყო ადარ თთჳსაჲ, წელსა მას მეექუსესა შარავანდედებასა დარელისსა, მეჰრაკნისა თთუესა აღესრულა ტაძარი იგი ღმრთისაჲ.
+# parallel_id = bible/ezra-6-15
 1	რომელსა	რომელი	PRON	Pron_Rel_Dat_Sg	Case=Dat|Number=Sing|PronType=Rel	2	det	_	_
 2	დღესა	დღე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	3	obl	_	_
 3	სამ	სამი	NUM	Num_Abs	Case=Abs|NumType=Card	16	acl:relcl	_	_
@@ -3612,6 +3780,7 @@
 
 # sent_id = Ezra_6_16
 # text = და ყვეს ძეთა ისრაელისათა, მღდელთა მათ და ლევიტელთა და რომელნი-იგი გამოსრულ იყვნეს ტყუეობისა მისგან, სატფური სახლისა უფლისაჲ დიდითა სიხარულითა.
+# parallel_id = bible/ezra-6-16
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	ძეთა	ძე	NOUN	N_Erg_Pl	Case=Erg|Number=Plur	2	nsubj	_	_
@@ -3639,6 +3808,7 @@
 
 # sent_id = Ezra_6_17
 # text = შეწირეს სატფურსა მას სახლისა უფლისასა ზუარაკი ასი, ვერძი ორასი, კრავები ოთხასი და წელიწადეული თხათაგან ცოდვათათჳს ყოვლისა ისრაელისათჳს ათორმეტ, მსგავსად რიცხჳსა მისებრ ნათესავთა ისრაელისათა.
+# parallel_id = bible/ezra-6-17
 1	შეწირეს	შეწირვა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	სატფურსა	სატფური	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	1	obl	_	_
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
@@ -3675,6 +3845,7 @@
 
 # sent_id = Ezra_6_18
 # text = და დაადგინნეს მღდელნი იგი თითოეულად ადგილთა თჳსთა და ლევიტელნი იგი განწილვისა მისებრ განყოფისა მათისაჲსა მსახურებასა მას უფლისა ღმრთისასა იერუსალემს, ვითარცა წერილ არს წიგნსა მას მოსესსა.
+# parallel_id = bible/ezra-6-18
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დაადგინნეს	დადგინება	VERB	V_Act_Aor_Pv_AV_S:3Pl_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	მღდელნი	მღდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	obj	_	_
@@ -3705,6 +3876,7 @@
 
 # sent_id = Ezra_6_19
 # text = და ყვეს ძეთა ისრაელისათა, გამოსრულთა მათ ტყუეობისაგან, ზატიკი იგი უფლისაჲ მეათოთხმეტესა თთუესა მის პირველისასა.
+# parallel_id = bible/ezra-6-19
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	ძეთა	ძე	NOUN	N_Erg_Pl	Case=Erg|Number=Plur	2	nsubj	_	_
@@ -3727,6 +3899,7 @@
 
 # sent_id = Ezra_6_20
 # text = და განწმიდნეს მღდელნი იგი და ლევიტელნი იგი, და იყვნეს ყოველნი წმიდა და შეწირეს ზატიკი იგი უფლისაჲ ყოველთა, რომელნი-იგი გამოსრულ იყვნეს ტყუეობისა მისგან ძმათა მათთა და მღდელთა.
+# parallel_id = bible/ezra-6-20
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	განწმიდნეს	განწმიდება	VERB	V_Pass_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მღდელნი	მღდელი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	2	nsubj:pass	_	_
@@ -3761,6 +3934,7 @@
 
 # sent_id = Ezra_6_21
 # text = და შეჭამეს ძეთა ისრაელისათა ზატიკი იგი, რომელნი გამოსრულ იყვნეს ტყუეობისაგან და ყოველნივე, რომელნი განშორებულ იყვნეს სიბილწისა მისგან ნათესავთაგან მის ქუეყანისათა, და რომელნი-იგი მოსრულ იყვნეს მათა გამოძიებად უფლისა ღმრთისა ისრაელისა.
+# parallel_id = bible/ezra-6-21
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შეჭამეს	შეჭამა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ძეთა	ძე	NOUN	N_Erg_Pl	Case=Erg|Number=Plur	2	nsubj	_	_
@@ -3803,6 +3977,7 @@
 
 # sent_id = Ezra_6_22
 # text = და ყვეს დღესასწაული ბალარჯობისაჲ შჳდ დღჱ და განმხიარულდეს ფრიად, რამეთუ მხიარულ ყვნა იგინი უფალმან და მოაქცია გული მეფისაჲ მის ასურთაჲ მათა მომართ, რაჲთა შეეწიოს და განაძლიერნეს ჴელნი მათნი საქმედ ტაძრისა მის უფლისა, ღმრთისა ისრაელისაჲსა.
+# parallel_id = bible/ezra-6-22
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	დღესასწაული	დღესასწაული	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	obj	_	_
@@ -3844,6 +4019,7 @@
 
 # sent_id = Ezra_7_1
 # text = და შემდგომად მათ სიტყუათა შარავანდედებასა არტაშესის, მეფისა სპარსთაჲსა, გამოვიდა ეზრა, ძჱ სარუველისი, ძჱ აზარიაჲსი, ძჱ ქელკიაჲსი,
+# parallel_id = bible/ezra-7-1
 1	და	და	CCONJ	Cj_Coord	_	11	cc	_	_
 2	შემდგომად	შემდგომად	ADP	Pre	AdpType=Pre|Case=Gen	4	case	_	_
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	4	det	_	_
@@ -3869,6 +4045,7 @@
 
 # sent_id = Ezra_7_2
 # text = ძჱ სალუმაჲსი, ძჱ სუდაკისი, ძჱ აქიტობისი,
+# parallel_id = bible/ezra-7-2
 1	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 2	სალუმაჲსი	სალუმა	PROPN	N_Prop_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Sing	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -3881,6 +4058,7 @@
 
 # sent_id = Ezra_7_3
 # text = ძჱ სამარიაჲსი, ძჱ ეზრაჲსი, ძჱ სათიოლისი,
+# parallel_id = bible/ezra-7-3
 1	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 2	სამარიაჲსი	სამარია	PROPN	N_Prop_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Sing	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -3893,6 +4071,7 @@
 
 # sent_id = Ezra_7_4
 # text = ძჱ ზარეაჲსი, ძჱ ოზიაჲსი, ძჱ ბუკეიისი,
+# parallel_id = bible/ezra-7-4
 1	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 2	ზარეაჲსი	ზარეა	PROPN	N_Prop_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Sing	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -3905,6 +4084,7 @@
 
 # sent_id = Ezra_7_5_1
 # text = ძჱ აბისუმაჲსი, ძჱ ფენესესი, ძჱ ელეაზარისი, ძჱ აჰრონისი, პირველისა მის მღდელისაჲ.
+# parallel_id = bible/ezra-7-5/part1
 1	ძჱ	ძე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 2	აბისუმაჲსი	აბისუმა	PROPN	N_Prop_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|NameType=Prs|Number=Sing|Number[sauf]=Sing	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -3924,6 +4104,7 @@
 
 # sent_id = Ezra_7_6
 # text = ესე ეზრა, რომელი გამოვიდა ბაბილონით, და ესე იყო მწერალი მალედ შჯულისა მის მოსესისაჲ, რომელი მისცა უფალმან, ღმერთმან ისრაელისამან, და მისცა მას მეფემან ყოველივე, რაჲცა უნდა და ითხოვოს, რამეთუ ჴელი უფლისა, ღმრთისა თჳსისაჲ იყო მის თანა.
+# parallel_id = bible/ezra-7-6
 1	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
 2	ეზრა	ეზრა	PROPN	N_Prop	NameType=Prs	11	dislocated	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -3971,6 +4152,7 @@
 
 # sent_id = Ezra_7_7_1
 # text = და გამოვიდეს მის თანა ძეთა მათგან ისრაელისათა და მღდელთა მათგანნი და ლევიტელთაჲ და შემასხმელთა მათგანნი, მსახურთაჲ და მეკარეთა მათგანნი და ნათანაელთა მათგანნი იერუსალემდ.
+# parallel_id = bible/ezra-7-7/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	გამოვიდეს	გამოსლვა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	2	obl	_	_
@@ -4009,6 +4191,7 @@
 
 # sent_id = Ezra_7_7_2
 # text = თჳსთავსა პირველისა მის თჳსასა გამოვიდა ეზრა ბაბილონით და თთჳსთავსა თხუთმეტეულისასა შევიდა იერუსალემდ წელსა მეშჳდესა არტახშესის მეფისასა.
+# parallel_id = bible/ezra-7-7/part2
 1	თჳსთავსა	თჳსთავი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	5	obl	_	_
 2	პირველისა	პირველი	NUM	A_Gen_Sg	Case=Gen|Number=Sing|NumType=Ord	4	amod	_	_
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	4	det	_	_
@@ -4029,6 +4212,7 @@
 
 # sent_id = Ezra_7_8
 # text = გამოვიდა იერუსალემდ თთუესა მას მეხუთესა, რომელი-იგი იყო წელი მეშჳდე მეფისაჲ მის,
+# parallel_id = bible/ezra-7-8
 1	გამოვიდა	გამოსლვა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	იერუსალემდ	იერუსალემი	PROPN	N_Prop_Adv_Sg	Case=Ess|NameType=Geo|Number=Sing	1	obl	_	_
 3	თთუესა	თთუე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	1	obl	_	_
@@ -4045,6 +4229,7 @@
 
 # sent_id = Ezra_7_9
 # text = და თთჳსთავსა მის მეხუთისა თთჳსასა მოვიდა ეზრა იერუსალემდ, რამეთუ ჴელი უფლისა ღმრთისაჲ აღმაღლებულ იყო მის თანა.
+# parallel_id = bible/ezra-7-9
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	თთჳსთავსა	თთჳსთავი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	6	obl	_	_
 3	მის	იგი	PRON	Pron_Dem_Gen_Sg	Case=Gen|Number=Sing|PronType=Dem	5	det	_	_
@@ -4066,6 +4251,7 @@
 
 # sent_id = Ezra_7_10
 # text = და დაიდვა ეზრა გულსა თჳსსა მოძიებად შჯულისა მის უფლისა და აღწერად მისა და სწავლად ისრაელისა ბრძანებანი მისნი და განკითხვანი.
+# parallel_id = bible/ezra-7-10
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დაიდვა	დადვა	VERB	V_Act_Aor_Pv_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	ეზრა	ეზრა	PROPN	N_Prop_Erg_Sg	Case=Erg|NameType=Prs|Number=Sing	2	nsubj	_	_
@@ -4089,6 +4275,7 @@
 
 # sent_id = Ezra_7_11
 # text = და ესე არს წელი ბრძანებისაჲ, რომელი-იგი მისცა არტახშეს მეფემან ეზრას, მღდელსა და მწერალსა წიგნთასა, და სიტყუათა უფლისათა და ბრძანებათა მათ, რომელი იყო ზედა იერუსალემსა:
+# parallel_id = bible/ezra-7-11
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
 3	არს	ყოფა	AUX	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -4121,6 +4308,7 @@
 
 # sent_id = Ezra_7_12
 # text = არტახშეს, მეფჱ მეფეთაჲ, ეზრას, მწერალსა შჯულისა უფლისა, ღმრთისასა ზეცათაჲსა, ყოვლითა სიმტკიცითა
+# parallel_id = bible/ezra-7-12
 1	არტახშეს	არტახშეს	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	მეფჱ	მეფე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	1	appos	_	_
@@ -4140,6 +4328,7 @@
 
 # sent_id = Ezra_7_13
 # text = მივეც მე ბრძანებაჲ ყოველთა ზედა, რომელნი არიან სუფევასა ჩემსა ერისა მისგან ისრაელთაჲსა, მღდელთა მათგან და ლევიტელთა, რაჲთა აღვიდენ ყოველნი იერუსალემდ შენ თანა.
+# parallel_id = bible/ezra-7-13
 1	მივეც	მიცემა	VERB	V_Act_Aor_Pv_EV_S:1Sg_IO:3	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	მე	მე	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	ბრძანებაჲ	ბრძანება	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	1	obj	_	_
@@ -4173,6 +4362,7 @@
 
 # sent_id = Ezra_7_14
 # text = პირისაგან მეფისაჲსა და შჳდთა თანამზრახვალთა მიწერა წიგნი მოძიებაჲ ჰურიათაჲ წინამძღურებითა ეზრაჲსითა, რომლისაჲ იყო შჯული ღმრთისაჲ ჴელთა შინა მისთა.
+# parallel_id = bible/ezra-7-14
 1-2	პირისაგან	_	_	_	_	_	_	_	_
 1	პირისა	პირი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	7	obl	_	_
 2	გან	გან	ADP	Post	AdpType=Post|Case=Gen	1	case	_	_
@@ -4198,6 +4388,7 @@
 
 # sent_id = Ezra_7_15
 # text = და უბრძანა მეფემან სახლსა უფლისასა ვეცხლი და ოქროჲ თანამზრახვალითურთ თჳსით იერუსალემდ დადებად ტაძარსა მას შინა წინაშე უფლისა, ღმრთისა ისრაელისა.
+# parallel_id = bible/ezra-7-15
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	უბრძანა	ბრძანება	VERB	V_Act_Aor_UV_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=U
 3	მეფემან	მეფე	NOUN	N_Erg_Sg	Case=Erg|Number=Sing	2	nsubj	_	_
@@ -4222,6 +4413,7 @@
 
 # sent_id = Ezra_7_16
 # text = და ყოველივე რავდენიცა იპოვოს ვეცხლი და ოქროჲ, რომელნი მიიტყუენნეს ჰურიანი მსხემობით ბაბილონდ ერმან მან და მღდელთა მათ თანა წარიღედ და მიიღედ სახლსა მას ღმრთისასა იერუსალემდ.
+# parallel_id = bible/ezra-7-16
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ყოველივე	ყოველივე	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	5	det	_	_
 3	რავდენიცა	რავდენიცა	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	4	advcl	_	_
@@ -4252,6 +4444,7 @@
 
 # sent_id = Ezra_7_17
 # text = და ყოველთავე, რომელნი განვიდენ, იგინი განმზადენთ ესრე სახედ, ვითარცა მივწერეთ: ზუარაკები, ვერძები და კრავები და საკუერთხნი და შესაწირავნი მათნი, და შეწირეთ ზედა საკურთხეველსა უფლისა, ღმრთისა თჳსისასა, იერუსალემდ.
+# parallel_id = bible/ezra-7-17
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	ყოველთავე	ყოველი	PRON	Pron_Tot_Obl_Pl	Case=Dat|Number=Plur|PronType=Tot	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -4291,6 +4484,7 @@
 
 # sent_id = Ezra_7_18
 # text = და უფროჲს და უმეტეს შენთჳს და ძმათა შენთათჳს ვყავ ქველისსაქმჱ და დაუტევე ოქროჲ და ვეცხლი, და ვითარცა შეაშუს უფალსა თქუენსა, ეგრეცა ყავთ.
+# parallel_id = bible/ezra-7-18
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	უფროჲს	უფროჲს	ADV	Adv	_	8	advmod	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -4323,6 +4517,7 @@
 
 # sent_id = Ezra_7_19
 # text = და ჭურჭერი იგი მიგეცეს შენ სამსახურებელად სახლისა უფლისა, წარიღე შენ თანა და მიეც სახლსა უფლისასა იერუსალემს.
+# parallel_id = bible/ezra-7-19
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ჭურჭერი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	4	nsubj:pass	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -4344,6 +4539,7 @@
 
 # sent_id = Ezra_7_20
 # text = და ნეშტი იგი მიეც დამარხვად საფასესა სახლსა სამეუფოსა.
+# parallel_id = bible/ezra-7-20
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ნეშტი	ნეშტი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	4	obj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -4356,6 +4552,7 @@
 
 # sent_id = Ezra_7_21
 # text = და ჩემ მიერ მე, არტახშეს მეფემან მივეც ბრძანებაჲ ყოველთა ხაზინადართა, რომელნი არიან წიაღ მდინარესა, რაჲთა ყოველი, რაჲცა გთხოვოს ეზრა მღდელმან, მწერალმან შჯულისა უფლისა, ღმრთისა ზეცათაჲსა, ყოვლითა სიმტკიცითა მიეცემოდის მას.
+# parallel_id = bible/ezra-7-21
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	ჩემ	მე	PRON	Pron_Pers_1Sg_Gen_Sg	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 3	მიერ	მიერ	ADP	Post	AdpType=Post|Case=Gen	2	case	_	_
@@ -4396,6 +4593,7 @@
 
 # sent_id = Ezra_7_22
 # text = ვიდრე ას ტალანტადმდე ვეცხლი და ას საწყაულადმდე იფქლი და მიას საწყაულადმდე ღჳნოჲ და მიას საწყაულადმდე ზეთი და მარილი, რომლისაჲ არა არს საწყაული.
+# parallel_id = bible/ezra-7-22
 1	ვიდრე	ვიდრე	ADV	Adv_Time	_	3	advmod	_	_
 2	ას	ასი	NUM	Num_Abs	Case=Abs|NumType=Card	3	nummod	_	_
 3-4	ტალანტადმდე	_	_	_	_	_	_	_	_
@@ -4431,6 +4629,7 @@
 
 # sent_id = Ezra_7_23
 # text = ყოველივე, რაჲცა არს ბრძანებისაგან ღმრთისა ზეცათაჲსა იქმენინ და მიეცემოდინ სახლსა ღმრთისა ზეცათაჲსა, რაჲთა არა იყოს რისხვაჲ ღმრთისაჲ ზედა სუფევასა მეფისასა და ძეთა მისთასა.
+# parallel_id = bible/ezra-7-23
 1	ყოველივე	ყოველივე	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
 3	რაჲცა	რაჲცა	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	4	nsubj	_	_
@@ -4462,6 +4661,7 @@
 
 # sent_id = Ezra_7_24
 # text = და თქუენ გაუწყებთ ყოველთავე მღდელთა და ლევიტელთა, მგალობელთა და მეკარეთა და მსახურთა სახლისა მის ღმრთისათა, რაჲთა არა მიეცემოდის მათ ხარკი, არცა ბაჟი და არცა საზუერე მიხადოთ მათ.
+# parallel_id = bible/ezra-7-24
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	თქუენ	თქუენ	PRON	Pron_Pers_2Pl	Number=Plur|Person=2|PronType=Prs	3	iobj	_	_
 3	გაუწყებთ	უწყება	VERB	V_Act_Pres_S:1Pl_AV_O:2Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=2|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No|Version=U
@@ -4496,6 +4696,7 @@
 
 # sent_id = Ezra_7_25
 # text = და შენ, ეზრა, ვითარცა სიბრძნჱ იგი ღმრთისაჲ არს ჴელთა შინა შენთა, დაადგინენ მწიგნობარნი და მსაჯულნი, რაჲთა შჯიდენ ყოველსა მას ერსა წიაღ მდინარესა, და ყოველთავე, რომელნი იცნობდენ შჯულსა უფლისა ღმრთისა შენისასა და რომელმან არა იცოდის, აუწყეთ.
+# parallel_id = bible/ezra-7-25
 1	და	და	CCONJ	Cj_Coord	_	15	cc	_	_
 2	შენ	შენ	PRON	Pron_Pers_2Sg	Number=Sing|Person=2|PronType=Prs	15	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -4542,6 +4743,7 @@
 
 # sent_id = Ezra_7_26
 # text = და ყოველივე რომელი არა ჰყოფდეს შჯულსა ღმრთისა შენისასა და შჯულსა მეფისასა გულსმოდგინედ დასაჯეთ იგი გინა თუ სიკუდილად, გინა თუ ტანჯვად და ეგზემად, გინა თუ საპყრობილედ.
+# parallel_id = bible/ezra-7-26
 1	და	და	CCONJ	Cj_Coord	_	13	cc	_	_
 2	ყოველივე	ყოველივე	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	13	dislocated	_	_
 3	რომელი	რომელი	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	_
@@ -4573,6 +4775,7 @@
 
 # sent_id = Ezra_7_27
 # text = კურთხეულ არს უფალი ღმერთი მამათა ჩუენთაჲ, რომელმან მოსცა ესე გულსა მეფისასა დიდებად სახლსა უფლისასა იერუსალემდ.
+# parallel_id = bible/ezra-7-27
 1	კურთხეულ	კურთხეული	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 2	არს	ყოფა	AUX	V_Act_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	უფალი	უფალი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	1	nsubj	_	_
@@ -4593,6 +4796,7 @@
 
 # sent_id = Ezra_7_28
 # text = და ჩემ ზედა მოაქცია წყალობაჲ წინაშე მეფისა და მზრახვალთა მისთა და წინაშე ყოველთა მთავართა მისთა, და მე განვძლიერდი შეწევნითა ღმრთისა ჩემისათა, რომელი იყო ჩემ ზედა, და შევკრიბენ ისრაელისაგან მთავარნი აღსლვად ჩემ თანა.
+# parallel_id = bible/ezra-7-28
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ჩემ	მე	PRON	Pron_Pers_1Sg_Dat_Sg	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
 3	ზედა	ზედა	ADP	Post	AdpType=Post|Case=Dat	2	case	_	_
@@ -4634,6 +4838,7 @@
 
 # sent_id = Ezra_8_1
 # text = და ესე არიან მფლობელნი მამათმთავართანი, რომელნი გამოსრულ იყვნეს ჩემ თანა შარავანდედებასა არტახშეს მეფისასა და მეფისა მის ბაბილონელთაჲსა:
+# parallel_id = bible/ezra-8-1
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Pl	Case=Nom|Number=Plur|PronType=Dem	4	nsubj	_	_
 3	არიან	ყოფა	AUX	V_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -4656,6 +4861,7 @@
 
 # sent_id = Ezra_8_2
 # text = ძეთაგან ფინეეზისთაჲ გერსონ; და ძეთა მათგან ითამარისთაჲ დანიელ; და ძეთა მათგან დავითისთაჲ ატუუს;
+# parallel_id = bible/ezra-8-2
 1-2	ძეთაგან	_	_	_	_	_	_	_	_
 1	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	4	nmod	_	_
 2	გან	გან	ADP	Post	AdpType=Post|Case=Gen	1	case	_	_
@@ -4681,6 +4887,7 @@
 
 # sent_id = Ezra_8_3
 # text = და ძეთა მათგან ზაქარიაჲსთა და ძეთა მათგან ფოროსისთაჲ ზაქარია და მის თანა ასერგასის კაც;
+# parallel_id = bible/ezra-8-3
 1	და	და	CCONJ	Cj_Coord	_	11	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	11	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4703,6 +4910,7 @@
 
 # sent_id = Ezra_8_4
 # text = ძეთა მათგან ფაათმოაბ ელიანა, ძე ზარეაჲსი, და მის თანა ორასი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-4
 1	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	5	nmod	_	_
 2-3	მათგან	_	_	_	_	_	_	_	_
 2	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Gen|Number=Plur|PronType=Dem	1	det	_	_
@@ -4725,6 +4933,7 @@
 
 # sent_id = Ezra_8_5
 # text = და ძეთა მათგან ზათუველ სექენია, ძჱ აზილისი, და მათ თანა სამასი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-5
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	5	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4748,6 +4957,7 @@
 
 # sent_id = Ezra_8_6
 # text = და ძეთა მათგან ადეაჲსთაჲ ობენ, ძე იონათანისი, და მის თანა ერგასის კაცთა მათგანი;
+# parallel_id = bible/ezra-8-6
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4771,6 +4981,7 @@
 
 # sent_id = Ezra_8_7
 # text = და ძეთა მათგან ელამისთაჲ ესაია, ძე ათალიაჲსი, და მის თანა სამეოცდაათი კაცთა მათგანი.
+# parallel_id = bible/ezra-8-7
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4794,6 +5005,7 @@
 
 # sent_id = Ezra_8_8
 # text = და ძეთა მათგან საფატისთაჲ ზამბდია, ძე მიქაელისი, და მის თანა სამეოცდაათი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-8
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4817,6 +5029,7 @@
 
 # sent_id = Ezra_8_9
 # text = და ძეთა მათგან იოაბადია, ძჱ იეელისი, და მის თანა ორას და თორმეტ კაცთა მათგანი;
+# parallel_id = bible/ezra-8-9
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	5	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4841,6 +5054,7 @@
 
 # sent_id = Ezra_8_10
 # text = და ძეთა მათგან ბაანისთაჲ სელიმიუთ, ძჱ იოსეფიაჲსი, და მის თანა ას სამეოცი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-10
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4865,6 +5079,7 @@
 
 # sent_id = Ezra_8_11
 # text = და ძეთა მათგან ბაბეისთაჲ ზაქარია, ძჱ ბებესი, და მის თანა ოცდარვაჲ კაცთა მათგანი;
+# parallel_id = bible/ezra-8-11
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4888,6 +5103,7 @@
 
 # sent_id = Ezra_8_12
 # text = და ძეთა მათგან ადონიკამისთაჲ და აზგადისთაჲ იოენან, ძჱ ზაკატანისი, და მის თანა ას და ათი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-12
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	8	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4915,6 +5131,7 @@
 
 # sent_id = Ezra_8_13_1
 # text = და ძეთა მათგან ადონიკამისთაჲ ესქატი.
+# parallel_id = bible/ezra-8-13/part1
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4926,6 +5143,7 @@
 
 # sent_id = Ezra_8_13_2
 # text = და ესე არს სახელები ამათ ყოველთაჲ: ელიფალათ, იეიელ და სამეაჲ, და მის თანა სამეოცი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-13/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
 3	არს	ყოფა	AUX	V_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
@@ -4951,6 +5169,7 @@
 
 # sent_id = Ezra_8_14
 # text = და ძეთა მათგან ბაგვისთაჲ ურთაჲ და იზბუდ, და მის თანა სამეოცდაათი კაცთა მათგანი;
+# parallel_id = bible/ezra-8-14
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -4973,6 +5192,7 @@
 
 # sent_id = Ezra_8_15_1
 # text = და შევკრიბენ იგინი კიდესა მდინარისასა, რომელი ვალს იევის, და დავდევით მუნ სავანე სამ დღჱ,
+# parallel_id = bible/ezra-8-15/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შევკრიბენ	შეკრება	VERB	V_Act_Aor_Pv_S:1Sg_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	იგინი	იგი	PRON	Pron_Pers_3Pl_Nom	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	obj	_	_
@@ -4993,6 +5213,7 @@
 
 # sent_id = Ezra_8_15_2
 # text = და სიმრავლე იგი ერისაჲ მის და ძეთა მათგან მღდელთაჲ და ძეთა მათგან ლევიტელთაჲ არავინ ვპვენ.
+# parallel_id = bible/ezra-8-15/part2
 1	და	და	CCONJ	Cj_Coord	_	17	cc	_	_
 2	სიმრავლე	სიმრავლე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	17	obj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -5016,6 +5237,7 @@
 
 # sent_id = Ezra_8_16
 # text = და მივავლინენ ელიაზარისა და არიელისა და სემისა აონაამ და ზარიბ და ზეპანათან და ზაქარია და მესოლამ და იოარიბ და ელმათან,
+# parallel_id = bible/ezra-8-16
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მივავლინენ	მივლინება	VERB	V_Act_Aor_Pv_AV_S:1Sg_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	ელიაზარისა	ელიაზარი	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	2	obl	_	_
@@ -5040,6 +5262,7 @@
 
 # sent_id = Ezra_8_17
 # text = და გულისხმა-უყავ და მოვიყვანენ იგინი წინაშე მთავართა მათ, რომელნი-იგი იყვნეს ადგილსა მეფასეთასა, და მივსცენ სიტყუანი პირსა მათსა, რაჲთა ეტყოდიან ძმათა თჳსთა თანა, ნათანიმ, რომელ-იგი არს ადგილსა მეფასეთასა, რომელნი-იგი მოიყვანნეს ჩუენდა, რომელნი-იგი შეასხმიდეს სახლსა ღმრთისა ჩუენისასა, ტაძარსა მას შინა უფლისასა.
+# parallel_id = bible/ezra-8-17
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2-3	გულისხმა-უყავ	_	_	_	_	_	_	_	_
 2	გულისხმა	გულისხმა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	3	compound:lvc	_	_
@@ -5093,6 +5316,7 @@
 
 # sent_id = Ezra_8_18
 # text = და მოვიდეს ჩუენდა, რამეთუ იყო ჴელი ღმრთისა ჩუენისაჲ აღსამაღლებელად ჩუენ თანა მარადის ძეთა მათგან ლევიტელთაჲ და ძეთა მათგან ისრაელისათაჲ; და პირველად მოვიდეს ჩუენდა ძენი მისნი და ძმანი მისნი ათრვამეტ;
+# parallel_id = bible/ezra-8-18
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მოვიდეს	მოსლვა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	ჩუენდა	ჩუენ	PRON	Pron_Pers_1Pl_All	Case=Ess|Number=Plur|Person=1|PronType=Prs	2	obl	_	SpaceAfter=No
@@ -5132,6 +5356,7 @@
 
 # sent_id = Ezra_8_19
 # text = და ასებია და იესეა ძეთა მათგან მერარისთაჲ და ძმანი მისნი და ძენი მისნი ოც კაც.
+# parallel_id = bible/ezra-8-19
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ასებია	ასებია	PROPN	N_Prop	NameType=Prs	0	root	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5153,6 +5378,7 @@
 
 # sent_id = Ezra_8_20_1
 # text = და ნათანისგანნი, რომელნი-იგი მისცნა დავითმან და მთავართა მათ მონებად განცდად ლევიტელთა მათ და ნათანიმ ორას და ოც.
+# parallel_id = bible/ezra-8-20/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2-3	ნათანისგანნი	_	_	_	_	_	_	_	SpaceAfter=No
 2	ნათანის	ნათანი	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Prs|Number=Sing	0	root	_	_
@@ -5177,6 +5403,7 @@
 
 # sent_id = Ezra_8_20_2
 # text = და ყოველნივე შეკრბეს მსგავსად სახელისა მათისა.
+# parallel_id = bible/ezra-8-20/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	ყოველნივე	ყოველივე	PRON	Pron_Tot_Nom_Pl	Case=Nom|Number=Plur|PronType=Tot	3	nsubj	_	_
 3	შეკრბეს	შეკრება	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -5187,6 +5414,7 @@
 
 # sent_id = Ezra_8_21
 # text = და მივაწჳეთ მუნ მარხვაჲ კიდესა მის მდინარისასა ავუთაისსა, და ვილოცევდით წინაშე უფლისა, ღმრთისა ჩუენისა, და ვითხოვდით მისგან გზასა სიწრფოებისასა ჩუენთჳს და შვილთა ჩუენთათჳს და ყოვლისათჳს, რომელი იყო ჩუენ თანა.
+# parallel_id = bible/ezra-8-21
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მივაწჳეთ	წუევა	VERB	V_Act_Aor_Pv_AV_S:1Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	მუნ	მუნ	ADV	Adv_Dem	_	2	advmod	_	_
@@ -5232,6 +5460,7 @@
 
 # sent_id = Ezra_8_22_1
 # text = რამეთუ შევირცხჳნეთ თხოვად მეფისაგან შემწეობისათჳს მჴედრებისა, რაჲთამცა განმარინნეს ჩუენ მტერთა ჩუენთაგან გზასა მას.
+# parallel_id = bible/ezra-8-22/part1
 1	რამეთუ	რამეთუ	SCONJ	Cj_Sub	_	2	mark	_	_
 2	შევირცხჳნეთ	შერცხუენა	VERB	V_Act_Aor_Pv_IV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	თხოვად	თხოვა	VERB	V_Masd_Adv	Case=Ess|VerbForm=Vnoun	2	xcomp	_	Preverb=No
@@ -5256,6 +5485,7 @@
 
 # sent_id = Ezra_8_22_2
 # text = ვარქუთ ჩუენ მეფესა მას ესრეთ, ვითარმედ: ჴელი უფლისა, ღმრთისა ჩუენისაჲ, შემწე არს ყოველთა, რომელნი ეძიებენ მას კეთილსა შინა, და ძლიერებაჲ მისი და რისხვაჲ მისი ყოველთა ზედა არს, რომელთა დაუტევეს იგი.
+# parallel_id = bible/ezra-8-22/part2
 1	ვარქუთ	რქუმა	VERB	V_Act_Aor_AV_S:1Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=A
 2	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
 3	მეფესა	მეფე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	1	iobj	_	_
@@ -5297,6 +5527,7 @@
 
 # sent_id = Ezra_8_23_1
 # text = და ვიმარხევდით და ვითხოვდით ღმრთისაგან ჩუენისა ამის ყოვლისათჳს.
+# parallel_id = bible/ezra-8-23/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ვიმარხევდით	მარხვა	VERB	V_Act_Imp_IV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Imp|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5313,6 +5544,7 @@
 
 # sent_id = Ezra_8_23_2
 # text = და ისმინა ჩუენი.
+# parallel_id = bible/ezra-8-23/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ისმინა	სმენა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	ჩუენი	ჩუენი	PRON	Pron_Poss_1Pl_Nom_Sg	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
@@ -5320,6 +5552,7 @@
 
 # sent_id = Ezra_8_24
 # text = და წარვავლინეთ მთავართა მათგანნი მღდელთაჲსა ათორმეტნი: სარაბიაჲ და ასაბიაჲ, და მათ თანა ძმათა მათგანნი ათნი.
+# parallel_id = bible/ezra-8-24
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	წარვავლინეთ	ვლინება	VERB	V_Act_Aor_Pv_AV_S:1Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	მთავართა	მთავარი	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
@@ -5345,6 +5578,7 @@
 
 # sent_id = Ezra_8_25
 # text = და აღვწონეთ და მივეცით მათ ვეცხლი და ოქროჲ, სამსახურებელი პირველთაჲ მათ ღმრთისა ჩუენისაჲ, რომლითა აღგუამაღლნა ჩუენ მეფემან მან და თანამზრახვალთა მისთა და ყოველმან ისრაელმან, რომელნი-იგი ერთვე იყვნეს მუნ.
+# parallel_id = bible/ezra-8-25
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღვწონეთ	აღწონა	VERB	V_Act_Aor_Pv_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5380,6 +5614,7 @@
 
 # sent_id = Ezra_8_26
 # text = და აღვწონე და მივეც მათ: ვეცხლი ექუსას და ერგასისი ტალანტი და ჭურჭერი ვეცხლისაჲ ასი და ოქროჲსაჲ ასი ტალანტი.
+# parallel_id = bible/ezra-8-26
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღვწონე	აღწონა	VERB	V_Act_Aor_Pv_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5403,6 +5638,7 @@
 
 # sent_id = Ezra_8_27
 # text = და ჭურჭერი ოქროჲსაჲ ოცდასამი და ჭურჭერი სპილენძისაჲ წმიდაჲ, რჩეული, ოქროცხებული.
+# parallel_id = bible/ezra-8-27
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ჭურჭერი	ჭურჭერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 3	ოქროჲსაჲ	ოქრო	NOUN	N_Gen_Sg_Nom_Sg	Case=Gen|Case[sauf]=Nom|Number=Sing|Number[sauf]=Sing	2	nmod	_	_
@@ -5419,6 +5655,7 @@
 
 # sent_id = Ezra_8_28
 # text = და ვარქუ მათ: თქუენცა განწმედილ ხართ უფლისა ღმრთისა მიერ და ყოველი ჭურჭერი წმიდაჲ უფლისაჲ არს ოქროჲსაჲ და ვეცხლისაჲ წარრჩეულითა უფლისა ღმრთისა მამათა ჩუენთაჲსა.
+# parallel_id = bible/ezra-8-28
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ვარქუ	რქუმა	VERB	V_Act_Aor_AV_S:1Sg_O:3	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=A
 3	მათ	იგი	PRON	Pron_Dem_Dat_Pl	Case=Dat|Number=Plur|PronType=Dem	2	iobj	_	SpaceAfter=No
@@ -5449,6 +5686,7 @@
 
 # sent_id = Ezra_8_29
 # text = მღჳძარედ დეგით და ჴუმილევდით, ვიდრემდის აღსწონოთ ეგე წინაშე მთავართა მათ, მღდელთა და ლევიტელთა და მფლობელთა მათ მამათმთავართა ისრაელისათა, რომელნი არიან იერუსალემს, კარავთა შინა სახლისა უფლისათა.
+# parallel_id = bible/ezra-8-29
 1	მღჳძარედ	მღჳძარედ	ADV	Adv	_	2	advmod	_	_
 2	დეგით	დგომა	VERB	V_Act_Aor_Imp_S:2Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5482,6 +5720,7 @@
 
 # sent_id = Ezra_8_30
 # text = და აღიღეს მღდელთა მათ და ლევიტელთა რიცხჳ იგი ოქროჲსაჲ და ვეცხლისაჲ და ჭურჭრისაჲ და მიიღეს იერუსალემდ, სახლსა შინა ღმრთისა ჩუენისასა.
+# parallel_id = bible/ezra-8-30
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღიღეს	აღება	VERB	V_Act_Aor_Pv_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	მღდელთა	მღდელი	NOUN	N_Erg_Pl	Case=Erg|Number=Plur	2	nsubj	_	_
@@ -5507,6 +5746,7 @@
 
 # sent_id = Ezra_8_31_1
 # text = და აღვდეგით და წარვიძრენით აოს მდინარით, რომელსა დღესა ათორმეტ იყო თთუჱ და თთჳსაჲ, და მოვედით და მოვიწიენით იერუსალემდ;
+# parallel_id = bible/ezra-8-31/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღვდეგით	აღდგომა	VERB	V_Act_Aor_Pv_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5531,6 +5771,7 @@
 
 # sent_id = Ezra_8_31_2
 # text = ჴელითა ღმრთისა ჩუენისაჲთა, რომელი იყო ჩუენ თანა, და მიჴსნნა ჩუენ ჴელთაგან მტერთა ჩუენთაჲსა და მბრძოლთა ჩუენთაგან, რომელნი იყვნეს გზასა მას.
+# parallel_id = bible/ezra-8-31/part2
 1	ჴელითა	ჴელი	NOUN	N_Ins_Sg	Case=Ins|Number=Sing	11	obl	_	_
 2	ღმრთისა	ღმერთი	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	1	nmod	_	_
 3	ჩუენისაჲთა	ჩუენი	PRON	Pron_Poss_1Pl_Gen_Sg_Ins_Sg	Case=Gen|Case[sauf]=Ins|Number=Sing|Number[sauf]=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod	_	SpaceAfter=No
@@ -5562,6 +5803,7 @@
 
 # sent_id = Ezra_8_32
 # text = და მოვედით იერუსალემდ და განვისუენეთ მუნ სამ დღჱ ოდენ.
+# parallel_id = bible/ezra-8-32
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მოვედით	მოსლვა	VERB	V_Act_Aor_Pv_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	იერუსალემდ	იერუსალემი	PROPN	N_Prop_Adv_Sg	Case=Ess|NameType=Geo|Number=Sing	2	obl	_	_
@@ -5575,6 +5817,7 @@
 
 # sent_id = Ezra_8_33
 # text = და დღესა მას მეოთხესა აღვწონეთ და მივეცით ვეცხლი იგი და ოქროჲ და ჭურჭერი სახლსა მას ღმრთისა ჩუენისასა ჴელთა მერევმოთისთაჲსა, ძისა ჰურიაჲს მღდელისათა და რომელ-იგი იყო მის თანა ელიაზარ, ძე ფინეზისი, და იოზაბად, ძჱ ისუჲსი, და ნოადია, ძჱ ბანეაჲსი, და სხუანი ლევიტელნი.
+# parallel_id = bible/ezra-8-33
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	დღესა	დღე	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	5	obl	_	_
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
@@ -5627,6 +5870,7 @@
 
 # sent_id = Ezra_8_34_1
 # text = და იყო აღთუალვაჲ რიცხჳსაჲ მის ყოვლისაჲ.
+# parallel_id = bible/ezra-8-34/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყო	ყოფა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	აღთუალვაჲ	აღთუალვა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -5637,6 +5881,7 @@
 
 # sent_id = Ezra_8_34_2
 # text = და დაიწერა ყოველი იგი სწორად რიცხჳსა მის სრულისაჲ.
+# parallel_id = bible/ezra-8-34/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	დაიწერა	დაწერა	VERB	V_Pass_Aor_IV_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=I
 3	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	2	nsubj:pass	_	_
@@ -5649,6 +5894,7 @@
 
 # sent_id = Ezra_8_35
 # text = და მას ჟამსა შინა, რომელნი-იგი გამოსრულ იყვნეს ტყუეობისა მისგან შვილნი მსხემობისანი, შეწირეს საკუერთხი უფლისა ღმრთისა ისრაელისა: ზუარაკები ათორმეტ ყოვლისათჳს ისრაელისა, ვერძები ოთხმეოცდაათექუსმეტ, კრავები სამეოცდაათშჳდმეტ და წელიწადეულნი ცოდვათათჳს ათორმეტ - და ესე ყოველი საკუერთხები შეწირეს უფლისა ღმრთისა.
+# parallel_id = bible/ezra-8-35
 1	და	და	CCONJ	Cj_Coord	_	16	cc	_	_
 2	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	3	det	_	_
 3	ჟამსა	ჟამი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	15	obl	_	_
@@ -5700,6 +5946,7 @@
 
 # sent_id = Ezra_8_36_1
 # text = და მისცეს აღწერილი იგი წიგნი ჭურჭრისაჲ მის, რომელ-იგი ებრძანა მეფესა მას ნახპეტთა მათ მისთა, რომელნი-იგი იყვნეს მეფისანი, და მთავართა მათ მდინარით კერძოთა ევფრატისათა.
+# parallel_id = bible/ezra-8-36/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მისცეს	მიცემა	VERB	V_Act_Aor_Pv_S:3Pl_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	აღწერილი	აღწერა	VERB	A_Part_PastPart_Adv_Sg	Case=Ess|Number=Sing|Tense=Past|VerbForm=Part	5	amod	_	Preverb=No
@@ -5730,6 +5977,7 @@
 
 # sent_id = Ezra_8_36_2
 # text = და დიდებულ ყვეს ერი იგი და ტაძარი იგი ღმრთისაჲ.
+# parallel_id = bible/ezra-8-36/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	დიდებულ	დიდებული	VERB	V_PastPart_Abs_Sg	Case=Abs|Number=Sing|Tense=Past|VerbForm=Part	3	xcomp	_	Preverb=No
 3	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
@@ -5743,6 +5991,7 @@
 
 # sent_id = Ezra_9_1_1
 # text = და აღსრულებასა მას ამის ყოვლისასა მოვიდეს ჩემდა მთავარნი და მრქუეს:
+# parallel_id = bible/ezra-9-1/part1
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	აღსრულებასა	აღსრულება	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	6	obl	_	_
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
@@ -5757,6 +6006,7 @@
 
 # sent_id = Ezra_9_1_2
 # text = არა განეშოვრა ერი იგი ისრაელსაჲ და მღდელნი იგი და ლევიტელნი ერისა მისგან და ქუეყანისა, რომელ განშოვრებულ არიან მათგან:
+# parallel_id = bible/ezra-9-1/part2
 1	არა	არა	ADV	Adv_Neg	Polarity=Neg	2	advmod	_	_
 2	განეშოვრა	განშოვრება	VERB	V_Pass_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ერი	ერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -5784,6 +6034,7 @@
 
 # sent_id = Ezra_9_1_3
 # text = ქანანელნი იგი და ქეტელნი იგი და ფერეზელნი და იებუსელნი იგი და ამორეველნი იგი და მოაბელნი იგი და მეგჳპტელნი იგი და მოვსიურელნი იგი.
+# parallel_id = bible/ezra-9-1/part3
 1	ქანანელნი	ქანანელი	PROPN	N_Prop_Nom_Pl	Case=Nom|NameType=Geo|Number=Plur	0	root	_	_
 2	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	1	det	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5810,6 +6061,7 @@
 
 # sent_id = Ezra_9_2
 # text = და ისხნეს მათ ცოლნი ასულთა მათთაგანნი - შვილნი და შვილთა მათთა შეერია და შეიბილწა თესლი სიწმიდისა მათისაჲ ერსა მის ქუეყანისასა, და იქმნა დასაბამი უშჯულოებისაჲ მის მთავართა მათგან.
+# parallel_id = bible/ezra-9-2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ისხნეს	სხმა	VERB	V_Act_Aor_IV_S:3Pl_O:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Erg|Number=Plur|PronType=Dem	2	nsubj	_	_
@@ -5846,6 +6098,7 @@
 
 # sent_id = Ezra_9_3
 # text = და იყო, რაჟამს მესმეს მე სიტყუანი ესე დავიპე სამოსელი ჩემი და დავიფხურენ თმანი და წუერნი ჩემნი და დავჯედ მგლოვარედ.
+# parallel_id = bible/ezra-9-3
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყო	ყოფა	VERB	V_Act_Aor_IV_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Preverb=No|Version=I
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -5870,6 +6123,7 @@
 
 # sent_id = Ezra_9_4
 # text = და მოკრბეს ჩემდა ყოველნი, რომელთა ეშინოდა ღმრთისაგან ისრაელისა, რომელნი-იგი იყვნეს შეკრებულ, გამოსრულნი იგი მწირობისაგან.
+# parallel_id = bible/ezra-9-4
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მოკრბეს	მოკრება	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ჩემდა	მე	PRON	Pron_Pers_1Sg_Adv	Case=Ess|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
@@ -5895,6 +6149,7 @@
 
 # sent_id = Ezra_9_4_2
 # text = და მე ვჯედ ეგრეთვე მგლოვარედ ვიდრე მოწევნადმდე შესაწირავისა მის სამწუხროჲსა.
+# parallel_id = bible/ezra-9-4/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	მე	მე	PRON	Pron_Pers_1Sg_Nom	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	ვჯედ	ჯდომა	VERB	V_Act_Aor_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
@@ -5911,6 +6166,7 @@
 
 # sent_id = Ezra_9_5_1
 # text = და შეწირვასა მას მწუხრისასა აღვდეგ ურვისაგან ჩემისა და დაპებულითა მით სამოსლითა ჩემითა დაღონებულ ვიყავ და დადრეკილ ზედა მუჴლთა ჩემთა.
+# parallel_id = bible/ezra-9-5/part1
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	შეწირვასა	შეწირვა	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	5	obl	_	_
 3	მას	იგი	PRON	Pron_Dem_Dat_Sg	Case=Dat|Number=Sing|PronType=Dem	2	det	_	_
@@ -5936,6 +6192,7 @@
 
 # sent_id = Ezra_9_5_2
 # text = და განვჰმარტენ და აღვიპყრენ ჴელნი ჩემნი უფლისა მიმართ, ღმრთისა ჩემისა.
+# parallel_id = bible/ezra-9-5/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	განვჰმარტენ	განმარტება	VERB	V_Act_Aor_Pv_S:1Sg_O:3Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -5951,6 +6208,7 @@
 
 # sent_id = Ezra_9_6
 # text = და ვთქუ: უფალო ჩემო და ღმერთო, გურცხუენის და გუეშინის ჩუენ შენგან, აღამაღლე, ღმერთო ჩემო, პირი ჩემი შენდა მიმართ, რამეთუ უშჯულოებანი ჩუენნი განმრავლდეს ზედა თავთა ჩუენთა და ცოდვანი ჩუენნი განდიდნეს და აღმაღლდეს ვიდრე ცადმდე.
+# parallel_id = bible/ezra-9-6
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ვთქუ	თქუმა	VERB	V_Act_Aor_S:1Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Preverb=No
 3	:	:	PUNCT	Punct_Colon	_	2	punct	_	_
@@ -5998,6 +6256,7 @@
 
 # sent_id = Ezra_9_7
 # text = წელთა მათგან და ჟამთა მამათა ჩუენთაჲსა და ვართ ჩუენ ცოდვათა შინა დიდთა მოდღენდელად დღედმდე, და ცოდვათა ჩუენთათჳს მიგუცენ ჩუენ და მეფენი ჩუენნი და შვილნი ჩუენნი ჴელთა მეფეთა წარმართთაჲსა და მახჳლსა და ტყუეობასა და წარსატაცებელად და სირცხჳლსა პირისა ჩუენისასა ვართ მოდღენდელად დღედმდე.
+# parallel_id = bible/ezra-9-7
 1	წელთა	წელი	NOUN	N_Obl_Pl	Case=Dat|Number=Plur	9	obl	_	_
 2-3	მათგან	_	_	_	_	_	_	_	_
 2	მათ	იგი	PRON	Pron_Dem_Obl_Pl	Case=Dat|Number=Plur|PronType=Dem	1	det	_	_
@@ -6052,6 +6311,7 @@
 
 # sent_id = Ezra_9_8
 # text = და აწ მოწყალებანი შენნი იყვნენ ჩუენ ზედა, უფალო, ღმერთო ჩუენო, და მოგუმადლე ჩუენ ცხორებაჲ და დაგუამტკიცენ ჩუენ ადგილსა სიწმიდისა შენისასა და განანათლენ თუალნი გულისა ჩუენისანი, უფალო, ღმერთო ჩუენო, და მოგუეც მაცხოვარებაჲ შენი ჩუენ, ცოდვილთა ამათ, და კაცად-კაცადი მონებასა შინა ჩუენსა.
+# parallel_id = bible/ezra-9-8
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	აწ	აწ	ADV	Adv	_	5	advmod	_	_
 3	მოწყალებანი	მოწყალება	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	5	nsubj	_	_
@@ -6104,6 +6364,7 @@
 
 # sent_id = Ezra_9_9
 # text = რამეთუ დამონებულ ვიყვენით ჩუენ და მონებასა შინა ჩუენსა არა დაგუთხიენ ჩუენ, უფალო, ღმერთო ჩუენო, და მოსდრიკენ ჩუენდა წყალობანი შენნი წინაშე მეფისა მის სპარსთაჲსა მოცემად ჩუენდა მაცხოვარებაჲ შენი და აღმაღლებად და აღშენებად მოოჴრებულისა ამის უდაბნოჲსა და მოზღუდვად სიძნელე იუდაჲსი და იერუსალემისაჲ.
+# parallel_id = bible/ezra-9-9
 1	რამეთუ	რამეთუ	SCONJ	Cj_Sub	_	3	mark	_	_
 2	დამონებულ	დამონება	VERB	V_PastPart_Pv_Abs	Case=Abs|Tense=Past|VerbForm=Part	3	xcomp	_	Preverb=Yes
 3	ვიყვენით	ყოფა	AUX	V_Act_Aor_IV_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	10	advcl	_	_
@@ -6151,6 +6412,7 @@
 
 # sent_id = Ezra_9_10
 # text = და აწ რაჲ-მე მიგიგოთ შენ წინაშე შენსა, უფალო, ღმერთო ჩუენო, ამის ყოვლისათჳს, რამეთუ გარდავჰჴედით შჯულსა შენსა, უფალო, ღმერთო ჩუენო, და ბრძანებასა შენსა,
+# parallel_id = bible/ezra-9-10
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	აწ	აწ	ADV	Adv	_	4	advmod	_	_
 3	რაჲ-მე	რაჲ-მე	PRON	Pron_Int	Case=Nom|PronType=Int	4	obj	_	_
@@ -6186,6 +6448,7 @@
 
 # sent_id = Ezra_9_11
 # text = რომელი მოგუეც ჩუენ ჴელითა მონათა შენთა წინაწარმეტყუელთაჲთა, და სთქუ ესრე, ვითარმედ: ქუეყანასა მას, რომელსა შეხჳდეთ თქუენ დამკჳდრებად მას ზედა, არს ქუეყანაჲ იგი შეგინებული შეგინებითა მით ნათესავთა მათგან მის ქუეყანისათა და ბილწებითა თჳსითა აღავსეს ქუეყანაჲ იგი.
+# parallel_id = bible/ezra-9-11
 1	რომელი	რომელი	PRON	Pron_Rel_Nom	Case=Nom|PronType=Rel	2	obj	_	_
 2	მოგუეც	მოცემა	VERB	V_Act_Aor_Pv_S:2Sg_O:1Pl	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ჩუენ	ჩუენ	PRON	Pron_Pers_1Pl_Dat	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
@@ -6232,6 +6495,7 @@
 
 # sent_id = Ezra_9_12_1
 # text = და აწ ნუ მოჰგური შენ ასულთა მათთაგანსა ცოლად ძესა შენსა და ასულთა თქუენთა ნუ მისცემთ ცოლად ძეთა მათთა, და ნუცა ეძიებ ყოფად მშჳდობისა მათ თანა ყოველთავე ჟამთა.
+# parallel_id = bible/ezra-9-12/part1
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	აწ	აწ	ADV	Adv	_	4	advmod	_	_
 3	ნუ	ნუ	ADV	Pdv_Neg_Imp	Polarity=Neg	4	advmod	_	_
@@ -6266,6 +6530,7 @@
 
 # sent_id = Ezra_9_12_2
 # text = და იყავ შენ განძლიერებულ ჭამად სიპოხესა მის ქუეყანისასა, და დაიმკჳდრედ შვილთა შენთა ქუეყანაჲ იგი უკუნისამდე ჟამთა.
+# parallel_id = bible/ezra-9-12/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იყავ	ყოფა	VERB	V_Act_Imp_IV_S:2Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	შენ	შენ	PRON	Pron_Pers_2Sg_Nom	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
@@ -6287,6 +6552,7 @@
 
 # sent_id = Ezra_9_13
 # text = და რაჲ-იგი წარგჳჴდა ჩუენ საქმეთა ჩუენთათჳს და უკეთურებისათჳს ცოდვათა ჩუენთაჲსა, არამედ შენ, უფალო ღმერთო, მრავალჯერ მოგჳტევენ ცოდვანი ჩუენნი და მოგუეც ჩუენ ესევითარი თესლი და ძირი.
+# parallel_id = bible/ezra-9-13
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	რაჲ-იგი	რაჲ-იგი	PRON	Pron_Rel_Nom	Case=Nom|PronType=Rel	3	nsubj	_	_
 3	წარგჳჴდა	წარჴდომა	VERB	V_Act_Aor_Pv_S:3Sg_O:1Pl	Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -6323,6 +6589,7 @@
 
 # sent_id = Ezra_9_14
 # text = და მერმე მივსდერკით და გარდავაქციეთ შჯულსა შენსა და აღვერიენით სიბილწესა მწიკულევანსა ნათესავთა მის ქუეყანისათა, და არა განჰრისხენ ჩუენ ზედა წარსაწყმედელად ჩუენდა მოაქამდე, ვიდრემდის არა დაშთეს ძლიერი და ნათესავი ჩუენი, და სასტიკებაჲ და სახელი შენი ჩუენ ზედა.
+# parallel_id = bible/ezra-9-14
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	მერმე	მერმე	ADV	Adv	_	3	advmod	_	_
 3	მივსდერკით	მიდრეკა	VERB	V_Act_Aor_Pv_S:1Pl_IO:3	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -6366,6 +6633,7 @@
 
 # sent_id = Ezra_9_15_1
 # text = უფალო, ღმერთო ისრაელისაო, შენ მართალ ხარ და ჭეშმარიტ, და ჩუენ შეცოდებულ შენდამი, და არა მოასრულე ნათესავი ჩუენი ქუეყანისაგან, არამედ დაშთა ძირი და თესლი ერისა ჩუენისაჲ მოდღენდელად დღედმდე.
+# parallel_id = bible/ezra-9-15/part1
 1	უფალო	უფალი	NOUN	N_Voc_Sg	Case=Voc|Number=Sing	7	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	ღმერთო	ღმერთი	NOUN	N_Voc_Sg	Case=Voc|Number=Sing	1	appos	_	_
@@ -6406,6 +6674,7 @@
 
 # sent_id = Ezra_9_15_2
 # text = აწ, აჰა ესერა, ვართ დღეს წინაშე შენსა, უფალო, უშჯულოებათა შინა ჩუენთა და ვერღარა შემძლებელ ვართ დადგომად წინაშე პირსა შენსა, რამეთუ განმრავლდეს უშჯულოებანი ჩუენნი და უკეთურებანი ჩუენნი უფროჲს თმათა თავისა ჩუენისათა.
+# parallel_id = bible/ezra-9-15/part2
 1	აწ	აწ	ADV	Adv	_	6	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	აჰა	აჰა	INTJ	Intj	_	6	discourse	_	_
@@ -6445,6 +6714,7 @@
 
 # sent_id = Ezra_10_1_1
 # text = და რაჟამს თაყუანის-სცა ეზრა აღსაარებითურთ ამით და გოდებითა დიდითა დავრდომილი იდვა ზედა პირსა ქუეყანისასა, წინაშე ტაძარსა მას უფლისასა.
+# parallel_id = bible/ezra-10-1/part1
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	რაჟამს	რაჟამს	SCONJ	Cj_Sub	_	4	mark	_	_
 3-4	თაყუანის-სცა	_	_	_	_	_	_	_	_
@@ -6470,6 +6740,7 @@
 
 # sent_id = Ezra_10_1_2
 # text = შეკრბეს მისა ყოველნი, რომელნი იყვნეს იერუსალემს, ერი მრავალი: მამანი და დედანი, ჭაბუკნი და ქალწულნი; და გოდებდა ერი იგი და აღამაღლეს ჴმაჲ ტირილისა მათისაჲ.
+# parallel_id = bible/ezra-10-1/part2
 1	შეკრბეს	კრება	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	მისა	იგი	PRON	Pron_Pers_3Sg_Gen	Case=Gen|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 3	ყოველნი	ყოველი	PRON	Pron_Tot_Nom_Pl	Case=Nom|Number=Plur|PronType=Tot	1	nsubj	_	SpaceAfter=No
@@ -6502,6 +6773,7 @@
 
 # sent_id = Ezra_10_2_1
 # text = და მიუგო იექონია, ძემან ელიაჲსმან, ძეთა მათგან ელამისთაჲ, და ჰრქუა ეზრას: ჩუენ ვცოდეთ უფლისა მიმართ, ღმრთისა ჩუენისა, და ვისხენით ცოლნი უცხოთესლთაგან მის ქუეყანისათა.
+# parallel_id = bible/ezra-10-2/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მიუგო	მიგება	VERB	V_Act_Aor_Pv_UV_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=U
 3	იექონია	იექონია	PROPN	N_Prop	NameType=Prs	2	nsubj	_	SpaceAfter=No
@@ -6539,6 +6811,7 @@
 
 # sent_id = Ezra_10_2_2
 # text = და აწ არიან დღეს უშჯულოებანი შორის ისრაელსა და ცოდვაჲ დიდი.
+# parallel_id = bible/ezra-10-2/part2
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	აწ	აწ	ADV	Adv_Time	_	3	advmod	_	_
 3	არიან	ყოფა	VERB	V_Act_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	Preverb=No
@@ -6553,6 +6826,7 @@
 
 # sent_id = Ezra_10_3_1
 # text = და აწ აღვთქუათ აღთქუმაჲ წინაშე ღმრთისა ჩუენისა განჴდად ყოვლისა დედაკაცისა და ნათესავისა მათგანისა;
+# parallel_id = bible/ezra-10-3/part1
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	აწ	აწ	ADV	Adv_Time	_	3	advmod	_	_
 3	აღვთქუათ	აღთქუმა	VERB	V_Act_Aor_Pv_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
@@ -6572,6 +6846,7 @@
 
 # sent_id = Ezra_10_3_2
 # text = და აწ, ვითარცა გნებავს, აღდეგ და შეაშინე მათ შჯულითა უფლისა, ღმრთისა ჩუენისაჲთა, ვითარცა მცნებაჲ ბრძანებს.
+# parallel_id = bible/ezra-10-3/part2
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	აწ	აწ	ADV	Adv_Time	_	7	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
@@ -6595,6 +6870,7 @@
 
 # sent_id = Ezra_10_4
 # text = აღდეგ და ვისმინოთ პირისაგან შენისა და ჩუენ შენ თანა ვართ, განძლიერდი და ყავ, ვითარცა ბრძანებულ არს უფლისა მიერ, ღმრთისა ჩუენისა.
+# parallel_id = bible/ezra-10-4
 1	აღდეგ	აღდგომა	VERB	V_Act_Aor_Imp_Pv_S:2Sg	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 3	ვისმინოთ	სმენა	VERB	V_Act_Aor_Subj_IV_S:1Pl	Mood=Sub|Number[subj]=Plur|Person[subj]=1|Tense=Past|VerbForm=Fin	1	conj	_	Preverb=No|Version=I
@@ -6624,6 +6900,7 @@
 
 # sent_id = Ezra_10_5
 # text = და აღდგა ეზრა და აფუცნა მამათმთავარნი იგი ტომთა მათ მღდელთანი და ყოველი ისრაელი ყოფად ამის სახისაებრ, და ფუცეს.
+# parallel_id = bible/ezra-10-5
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღდგა	აღდგომა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ეზრა	ეზრა	PROPN	N_Prop	NameType=Prs	2	nsubj	_	_
@@ -6649,6 +6926,7 @@
 
 # sent_id = Ezra_10_6_1
 # text = და აღდგა ეზრა პირისაგან სახლისა უფლისა და მივიდა სახლსა საფასისა იოჰანესსა, ძისა ელისუბისსა;
+# parallel_id = bible/ezra-10-6/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღდგა	აღდგომა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ეზრა	ეზრა	PROPN	N_Prop	NameType=Prs	2	nsubj	_	_
@@ -6669,6 +6947,7 @@
 
 # sent_id = Ezra_10_6_2
 # text = პური არა ჭამა და წყალი არა სუა, და გოდებდა ზედა უშჯულოებათა მათთა და დიდთა მათ ცოდვათა სიმრავლესა.
+# parallel_id = bible/ezra-10-6/part2
 1	პური	პური	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	3	obj	_	_
 2	არა	არა	ADV	Adv_Neg	Polarity=Neg	3	advmod	_	_
 3	ჭამა	ჭამა	VERB	V_Act_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
@@ -6691,6 +6970,7 @@
 
 # sent_id = Ezra_10_7
 # text = და ქადაგი იგი ჴმობდა იერუსალემს და ჰურიასტანს, და თქუა:
+# parallel_id = bible/ezra-10-7
 1	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
 2	ქადაგი	ქადაგი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	4	nsubj	_	_
 3	იგი	იგი	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -6705,6 +6985,7 @@
 
 # sent_id = Ezra_10_8
 # text = ყოველივე, რომელი არა მოვიდეს ვიდრე მესამედ დღედმდე მთავართა მათგან და მოხუცებულთა, იყავნ შეჩუენებულ ყოვლითურთ მონაგებით მისით, და იგი თავადი განჴედინ კრებულისა მისგან ერისა ისრაელისაჲსა.
+# parallel_id = bible/ezra-10-8
 1	ყოველივე	ყოველივე	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	17	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	5	punct	_	_
 3	რომელი	რომელი	PRON	Pron_Rel_Nom_Sg	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	_
@@ -6744,6 +7025,7 @@
 
 # sent_id = Ezra_10_9
 # text = და შეკრბა ყოველი კაცი იუდაჲსი და ბენიამენისი იერუსალემდ ვიდრე მესამედ დღედმდე მეცხრესა მას თთუესა, რომელსა დღესა ოცი იყო თთჳსაჲ მის, და დასხდა ყოველი იგი ერი ურაკპარაკსა სახლისა უფლისასა, და იყვნეს შეძრწუნებულ ყოველნი სიტყუათაგან მისთა და ყინელისა მისგან ზამთრისაჲსა.
+# parallel_id = bible/ezra-10-9
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შეკრბა	შეკრება	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
@@ -6795,6 +7077,7 @@
 
 # sent_id = Ezra_10_10
 # text = და აღდგა ეზრა და ჰრქუა მათ: თქუენ ხართ, რომელთა სცოდეთ და ისხენით ცოლნი ასულთაგან უცხოთესლთაჲსა და შესძინეთ უშჯულოებაჲ და ცოდვაჲ ზედა ისრაელსა.
+# parallel_id = bible/ezra-10-10
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	აღდგა	აღდგომა	VERB	V_Act_Aor_Pv_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ეზრა	ეზრა	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	2	nsubj	_	_
@@ -6825,6 +7108,7 @@
 
 # sent_id = Ezra_10_11
 # text = და აწ მიეცით დიდებაჲ უფალსა, ღმერთსა მამათა ჩუენთასა, და ყავთ სათნოებაჲ წინაშე მისა, და განეყენენით და განეშორენით ყოველ-თაგან წარმართთა მის ქუეყანისათა და ცოლთაგან უცხოთესლთაჲსა, რომელნი ისხენთ.
+# parallel_id = bible/ezra-10-11
 1	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 2	აწ	აწ	ADV	Adv_Time	_	3	advmod	_	_
 3	მიეცით	მიცემა	VERB	V_Act_Aor_Imp_Pv_EV_S:2Pl_IO:3Sg	Mood=Imp|Number[io]=Sing|Number[subj]=Plur|Person[io]=3|Person[subj]=2|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=E
@@ -6863,6 +7147,7 @@
 
 # sent_id = Ezra_10_12
 # text = და მიუგო ყოველმან მან კრებულმან და ჰრქუა: დიდ არს სიტყუაჲ ეგე, რომელ სთქუ შენ ჩუენ ზედა.
+# parallel_id = bible/ezra-10-12
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	მიუგო	მიგება	VERB	V_Act_Aor_Pv_UV_S:3Sg_IO:3Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	ყოველმან	ყოველი	PRON	Pron_Tot_Erg_Sg	Case=Erg|Number=Sing|PronType=Tot	5	det	_	_
@@ -6885,6 +7170,7 @@
 
 # sent_id = Ezra_10_13_1
 # text = რამეთუ ერი მრავალი ვართ ჩუენ და ჟამი არს ზამთრისაჲ და ვერ ვდგეთ გარეშე;
+# parallel_id = bible/ezra-10-13/part1
 1	რამეთუ	რამეთუ	SCONJ	Cj_Sub	_	2	mark	_	_
 2	ერი	ერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	_
 3	მრავალი	მრავალი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	2	amod	_	_
@@ -6902,6 +7188,7 @@
 
 # sent_id = Ezra_10_13_2
 # text = და საქმჱ ეგე არა არს ერთ დღჱ, ანუ თუ ორ დღჱ, რამეთუ ფრიად შევსცოდეთ ჩუენ ამით საქმითა.
+# parallel_id = bible/ezra-10-13/part2
 1	და	და	CCONJ	Cj_Coord	_	5	cc	_	_
 2	საქმჱ	საქმე	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	7	nsubj	_	_
 3	ეგე	ეგე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	2	det	_	_
@@ -6925,6 +7212,7 @@
 
 # sent_id = Ezra_10_14
 # text = დადგედ მთავარნი ყოველთა ადგილთა და ქალაქთა, და რომელთა ესხნენ ცოლნი უცხოთესლთანი, მოვიდედ ჟამსა მას, რომელ-იგი მოხუცებულთა მათ და მამათმთავართა განაწესეს ქალაქად-ქალაქად და დაისაჯნედ და განუქარვედ ცოდვაჲ იგი ჩუენგან, და გარე-წარაქციედ რისხვაჲ იგი ღმრთისაჲ ჩუენგან ამის სიტყჳსათჳს.
+# parallel_id = bible/ezra-10-14
 1	დადგედ	დადგომა	VERB	V_Act_Aor_Imp_Pv_S:3Pl	Mood=Imp|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 2	მთავარნი	მთავარი	NOUN	N_Nom_Pl	Case=Nom|Number=Plur	1	nsubj	_	_
 3	ყოველთა	ყოველი	PRON	Pron_Tot_Obl_Pl	Case=Gen|Number=Plur|PronType=Tot	4	det	_	_
@@ -6975,6 +7263,7 @@
 
 # sent_id = Ezra_10_15
 # text = და იონათან, ძე აზელისა და იოვასია, ძე თეკუასი, დაადგინეს საქმესა ამას ზედა, და მეზოლამ და საბათი ლევიტელნი შეეწეოდეს მათ.
+# parallel_id = bible/ezra-10-15
 1	და	და	CCONJ	Cj_Coord	_	12	cc	_	_
 2	იონათან	იონათან	PROPN	N_Prop	NameType=Prs	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	4	punct	_	_
@@ -7002,6 +7291,7 @@
 
 # sent_id = Ezra_10_16
 # text = და ყვეს ეგრე, რომელნი-იგი გამოსრულ იყვნეს ტყუეობისა მისგან, და გამოირჩინა ეზრა მღდელმან კაცნი იგი მთავარნი მამათმთავართა მათგან სახლისა თჳსისათა, კაცნი სახელოვანნი, და მოვლეს თთჳსთავსა მას მეათისა მის თჳსასა და განაგეს.
+# parallel_id = bible/ezra-10-16
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	ეგრე	ეგრე	ADV	Adv_Dem	_	2	advmod	_	SpaceAfter=No
@@ -7044,6 +7334,7 @@
 
 # sent_id = Ezra_10_17
 # text = და განაშორეს ყოველი კაცი, რომელსა ესუა ცოლი უცხოთესლი ვიდრე თთჳსთავადმდე თთჳსა მის პირველისა.
+# parallel_id = bible/ezra-10-17
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	განაშორეს	განშორება	VERB	V_Act_Aor_Pv_AV_S:3Pl_O:3	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes|Version=A
 3	ყოველი	ყოველი	PRON	Pron_Tot_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	4	det	_	_
@@ -7064,6 +7355,7 @@
 
 # sent_id = Ezra_10_18
 # text = და იპოვნეს ძეთა მათგან მღდელთანი, რომელთა ესხნეს ცოლნი უცხოთესლთაგან: ძეთა მათგან ისუის იოსედეკეანისათაჲ და ძმათა მისთა მასეა და ელიეზერ, და იარებდ და გადალიმ.
+# parallel_id = bible/ezra-10-18
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იპოვნეს	პოვნა	VERB	V_Pass_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	2	obl	_	_
@@ -7100,6 +7392,7 @@
 
 # sent_id = Ezra_10_19_1
 # text = და იწყეს განყენებად ცოლთა მათთა უცხოთესლთა მათგან.
+# parallel_id = bible/ezra-10-19/part1
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	იწყეს	წყება	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No|Version=I
 3	განყენებად	განყენება	VERB	V_Masd_Pv_Adv	Case=Ess|VerbForm=Vnoun	2	xcomp	_	Preverb=Yes
@@ -7113,6 +7406,7 @@
 
 # sent_id = Ezra_10_19_2
 # text = და შეწირეს თითოულად ვერძები ცოდვათათჳს უმეცრებისა თჳსისათა.
+# parallel_id = bible/ezra-10-19/part2
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	შეწირეს	შეწირვა	VERB	V_Act_Aor_Pv_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=Yes
 3	თითოულად	თითოულად	ADV	Adv	_	2	advmod	_	_
@@ -7126,6 +7420,7 @@
 
 # sent_id = Ezra_10_20
 # text = და ძეთა მათგან ემერისა: ანანია და ზებედია.
+# parallel_id = bible/ezra-10-20
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7140,6 +7435,7 @@
 
 # sent_id = Ezra_10_21
 # text = და ძეთა მათგან ერამისთაჲ: მასია, სელია, სამიელა, იჱლ და ოზია.
+# parallel_id = bible/ezra-10-21
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7160,6 +7456,7 @@
 
 # sent_id = Ezra_10_22
 # text = და ძეთა მათგან ფასურისთაჲ: ელიანას, მასია, ისმაელ, ნათანაელ, იოსაფათ და ელასა.
+# parallel_id = bible/ezra-10-22
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7182,6 +7479,7 @@
 
 # sent_id = Ezra_10_23
 # text = და ძეთა მათგან ლევიტელთაჲსა: იოზაბათ, სამ, კოვლია (ესე აკოვლიტას) და აფერთიას და იუდას და ელიეზერ.
+# parallel_id = bible/ezra-10-23
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7208,6 +7506,7 @@
 
 # sent_id = Ezra_10_24_1
 # text = და მეფსალმუნეთა და შემასხმელთაგანნი: ელისაბ.
+# parallel_id = bible/ezra-10-24/part1
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	მეფსალმუნეთა	მეფსალმუნე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3	და	და	CCONJ	Cj_Coord	_	4	cc	_	_
@@ -7220,6 +7519,7 @@
 
 # sent_id = Ezra_10_24_2
 # text = და მეკარეთა მათგანნი: სულემ, ტელესე და ჰურია.
+# parallel_id = bible/ezra-10-24/part2
 1	და	და	CCONJ	Cj_Coord	_	6	cc	_	_
 2	მეკარეთა	მეკარე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	6	nmod	_	_
 3-4	მათგანნი	_	_	_	_	_	_	_	SpaceAfter=No
@@ -7235,6 +7535,7 @@
 
 # sent_id = Ezra_10_25
 # text = და ისრაელისაგანნი ძეთა მათ ფუროსისთაჲ: ჰრამიასელ, იაზია, მელქია, ეამიმ, ელიაზარ, ასაბია, ნიბანაია.
+# parallel_id = bible/ezra-10-25
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2-3	ისრაელისაგანნი	_	_	_	_	_	_	_	_
 2	ისრაელისა	ისრაელი	PROPN	N_Prop_Gen_Sg	Case=Gen|NameType=Geo|Number=Sing	8	nmod	_	_
@@ -7260,6 +7561,7 @@
 
 # sent_id = Ezra_10_26
 # text = და ძეთა მათგან ელამისთაჲ: ნატთონია, ზაქარია, იაიელ, ბაბდია, ერიმოოთ და ელია.
+# parallel_id = bible/ezra-10-26
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7282,6 +7584,7 @@
 
 # sent_id = Ezra_10_27
 # text = და ძეთა მათგან ზათუვაჲსთაჲ: ელიონე, ელისუმ, მატთანა, იარმოოთ, ზაბაათ, ნაზიაჲ.
+# parallel_id = bible/ezra-10-27
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7304,6 +7607,7 @@
 
 # sent_id = Ezra_10_28
 # text = და ძეთა მათგან ბაბისთაჲ: იოთანან, ანანია და ზაბუ, ოთალი.
+# parallel_id = bible/ezra-10-28
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7322,6 +7626,7 @@
 
 # sent_id = Ezra_10_29
 # text = და ძეთა მათგან ბაბინესთაჲ: მოსულამ, მალუქს, ადაიას, იასობნ, საალ, ჰრემოთ.
+# parallel_id = bible/ezra-10-29
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7344,6 +7649,7 @@
 
 # sent_id = Ezra_10_30
 # text = და ძეთა მათგან ფაათ მოაბისათაჲ: ადნე, ქაელ, ბანაიია, მასეა, მათანია, ბესეილ, ბანუვილ, მანასე.
+# parallel_id = bible/ezra-10-30
 1	და	და	CCONJ	Cj_Coord	_	8	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	8	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7371,6 +7677,7 @@
 
 # sent_id = Ezra_10_31
 # text = და ძეთა მათგან ერამისთაჲ: ელიეზერ, ესსია, მექია, სამერიას, სემეონ.
+# parallel_id = bible/ezra-10-31
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7391,6 +7698,7 @@
 
 # sent_id = Ezra_10_32
 # text = ბენიამენ, მალუქ, სამარია.
+# parallel_id = bible/ezra-10-32
 1	ბენიამენ	ბენიამენ	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	მალუქ	მალუქ	PROPN	N_Prop_Nom_Sg	Case=Nom|NameType=Prs|Number=Sing	1	conj	_	SpaceAfter=No
@@ -7400,6 +7708,7 @@
 
 # sent_id = Ezra_10_33
 # text = და ძეთა მათგან ასემისთაჲ: მათანაი, მათათა, ლაბაბათ, ელიფალეთ, იერემია, მანასე, სემეის.
+# parallel_id = bible/ezra-10-33
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7424,6 +7733,7 @@
 
 # sent_id = Ezra_10_34
 # text = და ძეთა მათგან ბანისთაჲ: მოოდია, ამრამ, უველ.
+# parallel_id = bible/ezra-10-34
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7440,6 +7750,7 @@
 
 # sent_id = Ezra_10_35
 # text = ბანია, ბადაია, ქელია,
+# parallel_id = bible/ezra-10-35
 1	ბანია	ბანია	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	ბადაია	ბადაია	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7449,6 +7760,7 @@
 
 # sent_id = Ezra_10_36
 # text = უვინია, მარიმუთ, ელიმასიბ.
+# parallel_id = bible/ezra-10-36
 1	უვინია	უვინია	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	მარიმუთ	მარიმუთ	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7458,6 +7770,7 @@
 
 # sent_id = Ezra_10_37
 # text = მათანია, მათანაიი.
+# parallel_id = bible/ezra-10-37
 1	მათანია	მათანია	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	მათანაიი	მათანაიი	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7465,6 +7778,7 @@
 
 # sent_id = Ezra_10_38
 # text = და ყვეს ძეთა მათ ბანუისთა და ძეთა სემეისთა.
+# parallel_id = bible/ezra-10-38
 1	და	და	CCONJ	Cj_Coord	_	2	cc	_	_
 2	ყვეს	ყოფა	VERB	V_Act_Aor_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	Preverb=No
 3	ძეთა	ძე	NOUN	N_Erg_Pl	Case=Erg|Number=Plur	2	nsubj	_	_
@@ -7477,6 +7791,7 @@
 
 # sent_id = Ezra_10_39
 # text = სელმიას და ნათან, ადაიას.
+# parallel_id = bible/ezra-10-39
 1	სელმიას	სელმიას	PROPN	N_Prop	NameType=Prs	0	root	_	_
 2	და	და	CCONJ	Cj_Coord	_	3	cc	_	_
 3	ნათან	ნათან	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7486,6 +7801,7 @@
 
 # sent_id = Ezra_10_40
 # text = მაქნან, გადუ, ზესი, არუ.
+# parallel_id = bible/ezra-10-40
 1	მაქნან	მაქნან	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	გადუ	გადუ	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7497,6 +7813,7 @@
 
 # sent_id = Ezra_10_41
 # text = ეზრიელ, სელიმიეს, სამარიას.
+# parallel_id = bible/ezra-10-41
 1	ეზრიელ	ეზრიელ	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	სელიმიეს	სელიმიეს	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7506,6 +7823,7 @@
 
 # sent_id = Ezra_10_42
 # text = სელუმ, ამარიას, იოსებ.
+# parallel_id = bible/ezra-10-42
 1	სელუმ	სელუმ	PROPN	N_Prop	NameType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	3	punct	_	_
 3	ამარიას	ამარიას	PROPN	N_Prop	NameType=Prs	1	conj	_	SpaceAfter=No
@@ -7515,6 +7833,7 @@
 
 # sent_id = Ezra_10_43
 # text = და ძეთა მათგან ნაბუისთაჲ: იეიელ, მათათიეს, ზაბათ, ზებინნას, იადაიი, იადაელ, იოველ, ბანაია.
+# parallel_id = bible/ezra-10-43
 1	და	და	CCONJ	Cj_Coord	_	7	cc	_	_
 2	ძეთა	ძე	NOUN	N_Obl_Pl	Case=Gen|Number=Plur	7	nmod	_	_
 3-4	მათგან	_	_	_	_	_	_	_	_
@@ -7541,6 +7860,7 @@
 
 # sent_id = Ezra_10_44
 # text = ესე ყოველნი იყვნეს, რომელთა ესხა ცოლები უცხოთესლები, და შობდეს მათგან ძეებსა და ასულებსა.
+# parallel_id = bible/ezra-10-44
 1	ესე	ესე	PRON	Pron_Dem_Nom_Sg	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	ყოველნი	ყოველი	PRON	Pron_Tot_Nom_Pl	Case=Nom|Number=Plur|PronType=Tot	1	det	_	_
 3	იყვნეს	ყოფა	VERB	V_Act_Aor_IV_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Preverb=No|Version=I
